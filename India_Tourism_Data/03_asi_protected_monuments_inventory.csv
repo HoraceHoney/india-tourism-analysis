@@ -1,0 +1,1201 @@
+Monument_ID,Monument_Name,ASI_Circle,State_UT,District,Location_Setting,Era_Period,Architectural_Type,Is_Ticketed,Entry_Fee_Domestic_INR,Entry_Fee_Foreign_INR,UNESCO_Heritage_Status,Estimated_Annual_Footfall_2023,Conservation_Condition,Estimated_Annual_Footfall_2025,Estimated_Annual_Footfall_2026
+ASI-IND-0001,Taj Mahal,Srinagar,Jammu & Kashmir,Pulwama,Urban,Ancient,Stupa/Monastery,Yes,40.0,600.0,World Heritage Site,5239627.0,Endangered,6489148.0,7738564.0
+ASI-IND-0002,Qutub Minar,Jodhpur,Rajasthan,Sikar,Forest/Sanctuary,Colonial,Temple/Shrine,Yes,25.0,1100.0,Tentative List,5944378.0,Endangered,7014916.0,7621253.0
+ASI-IND-0003,Red Fort,Agra,Uttar Pradesh,Mahrajganj,Forest/Sanctuary,Classical,Fort/Bastion,Yes,50.0,1100.0,World Heritage Site,2640696.0,Good,3150613.0,3592065.0
+ASI-IND-0004,Humayun's Tomb,Thrissur,Kerala,Kozhikode,Hilly/Remote,Mughal,Cave/Rock-Cut,Yes,25.0,550.0,Tentative List,1053039.0,Needs Immediate Attention,1236567.0,1391133.0
+ASI-IND-0005,Agra Fort,Ranchi,Jharkhand,Central,Forest/Sanctuary,Classical,Stupa/Monastery,Yes,35.0,600.0,Not Listed,1698658.0,Fair,2016977.0,2329816.0
+ASI-IND-0006,Fatehpur Sikri,Patna,Bihar,Vaishali,Urban,,Watchtower/Gate,Yes,35.0,550.0,Not Listed,3948613.0,Good,4674104.0,5493152.0
+ASI-IND-0007,Ajanta Caves,Chennai,Tamil Nadu,Karur,Rural,Classical,Watchtower/Gate,Yes,30.0,600.0,World Heritage Site,1574575.0,Needs Immediate Attention,1933448.0,2153225.0
+ASI-IND-0008,Ellora Caves,Chandigarh,Punjab,Faridkot,Rural,Classical,Stupa/Monastery,Yes,25.0,1100.0,Not Listed,1018194.0,Endangered,1256862.0,1441389.0
+ASI-IND-0009,Elephanta Caves,Ranchi,Jharkhand,Central,Rural,,Palace/Haveli,Yes,30.0,550.0,Not Listed,1884580.0,Good,2434391.0,2836181.0
+ASI-IND-0010,Sun Temple Konark,Vadodara,Gujarat,Kheda,Forest/Sanctuary,,Temple/Shrine,Yes,40.0,600.0,Not Listed,2321351.0,Good,2737652.0,3000827.0
+ASI-IND-0011,Shore Temple Mahabalipuram,Bhopal,Madhya Pradesh,Sehore,,Mughal,Fort/Bastion,Yes,40.0,500.0,Not Listed,558625.0,Fair,696187.0,819891.0
+ASI-IND-0012,Brihadeeswara Temple,Dharwad,Karnataka,Chikkamagaluru,Hilly/Remote,Ancient,Pillar/Inscription,Yes,50.0,550.0,Tentative List,5081566.0,Needs Immediate Attention,6466744.0,7454430.0
+ASI-IND-0013,Hampi Complex,Vadodara,Gujarat,Bhavnagar,Hilly/Remote,Mughal,Mosque/Tomb,Yes,40.0,300.0,Not Listed,2349487.0,Needs Immediate Attention,2899352.0,3461665.0
+ASI-IND-0014,Pattadakal Temples,Bhubaneswar,Odisha,Deogarh,Hilly/Remote,Prehistoric,Cave/Rock-Cut,Yes,40.0,550.0,Not Listed,2494075.0,Needs Immediate Attention,2963586.0,3321420.0
+ASI-IND-0015,Khajuraho Group,Amaravati,Andhra Pradesh,West Godavari,Forest/Sanctuary,Sultanate,Pillar/Inscription,Yes,25.0,250.0,Not Listed,1752983.0,Fair,2084967.0,2278822.0
+ASI-IND-0016,Sanchi Stupa,Jodhpur,Rajasthan,Jaisalmer,Forest/Sanctuary,Maratha,Cave/Rock-Cut,Yes,40.0,250.0,World Heritage Site,543560.0,Endangered,628294.0,716745.0
+ASI-IND-0017,Chittorgarh Fort,Dharwad,Karnataka,Mysuru,Rural,Ancient,Fort/Bastion,Yes,35.0,250.0,Tentative List,149440.0,Needs Immediate Attention,178703.0,194839.0
+ASI-IND-0018,Kumbhalgarh Fort,Ranchi,Jharkhand,Central,Rural,Ancient,Pillar/Inscription,Yes,25.0,300.0,Not Listed,648616.0,Needs Immediate Attention,818353.0,979031.0
+ASI-IND-0019,Amber Palace,Aurangabad,Maharashtra,Latur,Hilly/Remote,,Palace/Haveli,Yes,30.0,1100.0,Not Listed,209924.0,Good,242909.0,263469.0
+ASI-IND-0020,Jaisalmer Fort,Thrissur,Kerala,Kottayam,Urban,Colonial,Pillar/Inscription,Yes,40.0,300.0,Tentative List,934387.0,Needs Immediate Attention,1105281.0,1293644.0
+ASI-IND-0021,Rani Ki Vav Patan,Delhi,Delhi,Central Delhi,Urban,Sultanate,Temple/Shrine,Yes,35.0,600.0,Not Listed,486458.0,Endangered,610960.0,698335.0
+ASI-IND-0022,Golconda Fort,Srinagar,Jammu & Kashmir,Budgam,Hilly/Remote,Prehistoric,Watchtower/Gate,Yes,30.0,1100.0,World Heritage Site,760184.0,Fair,963455.0,1083149.0
+ASI-IND-0023,Charminar,Patna,Bihar,Bhojpur,Urban,Maratha,Fort/Bastion,Yes,30.0,550.0,World Heritage Site,294097.0,Endangered,358298.0,389793.0
+ASI-IND-0024,Mahabodhi Temple,Agra,Uttar Pradesh,Kasganj,Rural,Ancient,Stupa/Monastery,Yes,40.0,550.0,Not Listed,470664.0,Endangered,590547.0,681881.0
+ASI-IND-0025,Nalanda Mahavihara,Jabalpur,Madhya Pradesh,Bhopal,Rural,Classical,Stupa/Monastery,Yes,50.0,500.0,Tentative List,396210.0,Fair,478698.0,550611.0
+ASI-IND-0026,Victoria Memorial,Thrissur,Kerala,Pathanamthitta,Urban,Ancient,Stepwell/Baoli,Yes,50.0,250.0,Tentative List,589519.0,Good,692088.0,770783.0
+ASI-IND-0027,Sun Temple Modhera,Jaipur,Rajasthan,Dungarpur,Rural,Prehistoric,Watchtower/Gate,Yes,50.0,550.0,Not Listed,419234.0,Endangered,507157.0,603125.0
+ASI-IND-0028,Cellular Jail,Jodhpur,Rajasthan,Alwar,Urban,,Fort/Bastion,Yes,35.0,1100.0,Not Listed,566903.0,Good,701256.0,782948.0
+ASI-IND-0029,Champaner Pavagadh,Jodhpur,Rajasthan,Chittorgarh,,Prehistoric,Palace/Haveli,Yes,35.0,250.0,Tentative List,854962.0,Fair,1104789.0,1252794.0
+ASI-IND-0030,Dholavira Citadel,Jaipur,Rajasthan,Ganganagar,Hilly/Remote,Medieval,Stupa/Monastery,Yes,30.0,500.0,Not Listed,71167.0,Good,82576.0,94570.0
+ASI-IND-0031,Ranga Reddy Gateway,Hyderabad,Telangana,Ranga Reddy,Urban,Prehistoric,Pillar/Inscription,Yes,35.0,250.0,Tentative List,542677.0,Endangered,665381.0,726615.0
+ASI-IND-0032,Bolangir Rock-Cut Caves,Bhubaneswar,Odisha,Bolangir,Rural,Sultanate,Palace/Haveli,Yes,35.0,500.0,World Heritage Site,746537.0,Good,895350.0,1067131.0
+ASI-IND-0033,Rudraprayag Memorial Cenotaph,Dehradun,Uttarakhand,Rudraprayag,Urban,Mughal,Stupa/Monastery,Yes,25.0,550.0,Not Listed,761432.0,Needs Immediate Attention,933704.0,1050365.0
+ASI-IND-0034,Buldhana Tomb,Mumbai,Maharashtra,Buldhana,Forest/Sanctuary,Sultanate,Mosque/Tomb,Yes,30.0,300.0,Not Listed,856367.0,Needs Immediate Attention,987902.0,1076510.0
+ASI-IND-0035,West Delhi Ancient Bridge,Delhi,Delhi,West Delhi,Urban,Classical,Mosque/Tomb,Yes,50.0,1100.0,Not Listed,120813.0,Endangered,144608.0,162897.0
+ASI-IND-0036,East Delhi Ashokan Pillar,Delhi,Delhi,East Delhi,Hilly/Remote,Classical,Mosque/Tomb,Yes,40.0,600.0,World Heritage Site,556215.0,Fair,708051.0,815692.0
+ASI-IND-0037,Varanasi Ancient Bridge,Agra,Uttar Pradesh,Varanasi,Hilly/Remote,Ancient,Stepwell/Baoli,Yes,50.0,250.0,World Heritage Site,325777.0,Good,401713.0,458611.0
+ASI-IND-0038,Belagavi Ancient Mound,Bengaluru,Karnataka,Belagavi,Urban,Ancient,Watchtower/Gate,Yes,25.0,1100.0,World Heritage Site,400575.0,Needs Immediate Attention,487735.0,567404.0
+ASI-IND-0039,Alappuzha Gateway,Thrissur,Kerala,Alappuzha,Forest/Sanctuary,Ancient,Mosque/Tomb,Yes,25.0,300.0,World Heritage Site,146935.0,Needs Immediate Attention,175268.0,190456.0
+ASI-IND-0040,Ernakulam Ancient Mound,Thrissur,Kerala,Ernakulam,Rural,Classical,Mosque/Tomb,Yes,35.0,550.0,Not Listed,914751.0,Needs Immediate Attention,1092859.0,1217603.0
+ASI-IND-0041,Umaria Ancient Bridge,Bhopal,Madhya Pradesh,Umaria,Hilly/Remote,Sultanate,Stupa/Monastery,Yes,30.0,250.0,Not Listed,902993.0,Endangered,1090333.0,1284748.0
+ASI-IND-0042,Uttarkashi Ashokan Pillar,Dehradun,Uttarakhand,Uttarkashi,Hilly/Remote,Medieval,Stupa/Monastery,Yes,25.0,600.0,Tentative List,45511.0,Fair,58042.0,63242.0
+ASI-IND-0043,Dakshina Kannada Ashokan Pillar,Dharwad,Karnataka,Dakshina Kannada,Hilly/Remote,Maratha,Pillar/Inscription,Yes,25.0,550.0,Not Listed,416639.0,Needs Immediate Attention,539582.0,638141.0
+ASI-IND-0044,Gir Somnath Rock-Cut Caves,Vadodara,Gujarat,Gir Somnath,,Maratha,Fort/Bastion,Yes,35.0,300.0,Not Listed,349822.0,Good,425313.0,464028.0
+ASI-IND-0045,Nalgonda Monastery Ruin,Hyderabad,Telangana,Nalgonda,,Maratha,Cave/Rock-Cut,Yes,30.0,300.0,Tentative List,69082.0,Needs Immediate Attention,83520.0,98565.0
+ASI-IND-0046,Namakkal Stone Enclosure,Chennai,Tamil Nadu,Namakkal,Urban,Colonial,Temple/Shrine,Yes,30.0,1100.0,Not Listed,899320.0,Endangered,1148416.0,1290010.0
+ASI-IND-0047,Udhampur Gateway,Srinagar,Jammu & Kashmir,Udhampur,Urban,Ancient,Stepwell/Baoli,Yes,50.0,300.0,Tentative List,372461.0,Good,452181.0,521575.0
+ASI-IND-0048,Amreli Monastery Ruin,Vadodara,Gujarat,Amreli,Hilly/Remote,Prehistoric,Watchtower/Gate,Yes,50.0,500.0,World Heritage Site,663147.0,Fair,817529.0,897930.0
+ASI-IND-0049,Sambhal Inscribed Rock,Agra,Uttar Pradesh,Sambhal,Rural,Colonial,Mosque/Tomb,Yes,40.0,550.0,Tentative List,190601.0,Fair,225794.0,245650.0
+ASI-IND-0050,Rohtas Palace Remains,Patna,Bihar,Rohtas,Rural,Sultanate,Palace/Haveli,Yes,25.0,600.0,Tentative List,687800.0,Endangered,867677.0,959575.0
+ASI-IND-0051,Pratapgarh Temple Complex,Jaipur,Rajasthan,Pratapgarh,Rural,Ancient,Temple/Shrine,Yes,40.0,550.0,World Heritage Site,755875.0,Good,929574.0,1018202.0
+ASI-IND-0052,Nalanda Ancient Mound,Patna,Bihar,Nalanda,Urban,Colonial,Palace/Haveli,Yes,35.0,550.0,Tentative List,859685.0,Endangered,1092965.0,1221376.0
+ASI-IND-0053,Central Ashokan Pillar,Ranchi,Jharkhand,Central,Hilly/Remote,Classical,Fort/Bastion,Yes,30.0,300.0,Tentative List,816705.0,Good,1034855.0,1181521.0
+ASI-IND-0054,Tapi Memorial Cenotaph,Vadodara,Gujarat,Tapi,Urban,Colonial,Pillar/Inscription,Yes,35.0,550.0,Not Listed,722274.0,Fair,853909.0,982551.0
+ASI-IND-0055,West Delhi Stepwell,Delhi,Delhi,West Delhi,Urban,Sultanate,Watchtower/Gate,Yes,35.0,300.0,Not Listed,932288.0,Fair,1172208.0,1377091.0
+ASI-IND-0056,Hyderabad Great Stupa,Hyderabad,Telangana,Hyderabad,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,Yes,30.0,300.0,Not Listed,194387.0,Fair,246873.0,286064.0
+ASI-IND-0057,Sirohi Palace Remains,Jaipur,Rajasthan,Sirohi,Rural,Medieval,Stepwell/Baoli,Yes,40.0,550.0,Not Listed,852364.0,Fair,1024470.0,1181266.0
+ASI-IND-0058,Cachar Ashokan Pillar,Guwahati,Assam,Cachar,Hilly/Remote,,Temple/Shrine,Yes,50.0,600.0,Not Listed,240770.0,Good,283119.0,319759.0
+ASI-IND-0059,Akola Ancient Bridge,Aurangabad,Maharashtra,Akola,Urban,Colonial,Cave/Rock-Cut,Yes,50.0,300.0,Not Listed,791066.0,Needs Immediate Attention,910038.0,1034583.0
+ASI-IND-0060,Firozpur Ancient Mound,Chandigarh,Punjab,Firozpur,Urban,Mughal,Pillar/Inscription,Yes,35.0,1100.0,Tentative List,431406.0,Endangered,525295.0,593448.0
+ASI-IND-0061,Barpeta Stone Enclosure,Guwahati,Assam,Barpeta,Forest/Sanctuary,Sultanate,Mosque/Tomb,Yes,50.0,500.0,Tentative List,182156.0,Good,219109.0,258781.0
+ASI-IND-0062,Tiruvannamalai Ancient Mound,Chennai,Tamil Nadu,Tiruvannamalai,Forest/Sanctuary,Prehistoric,Palace/Haveli,Yes,40.0,1100.0,Not Listed,721168.0,Needs Immediate Attention,889371.0,985067.0
+ASI-IND-0063,Kutch Ancient Bridge,Vadodara,Gujarat,Kutch,Forest/Sanctuary,Colonial,Temple/Shrine,Yes,30.0,600.0,Not Listed,693439.0,Endangered,817014.0,882936.0
+ASI-IND-0064,Central Tomb,Raipur,Chhattisgarh,Central,Urban,Maratha,Pillar/Inscription,Yes,30.0,300.0,Not Listed,705985.0,Good,902919.0,1045723.0
+ASI-IND-0065,Amravati Watchtower,Mumbai,Maharashtra,Amravati,Forest/Sanctuary,Medieval,Stupa/Monastery,Yes,30.0,600.0,Not Listed,915980.0,Endangered,1088792.0,1202348.0
+ASI-IND-0066,Neemuch Stone Enclosure,Jabalpur,Madhya Pradesh,Neemuch,Urban,Medieval,Mosque/Tomb,Yes,25.0,250.0,World Heritage Site,69370.0,Good,82132.0,97475.0
+ASI-IND-0067,Nandurbar Mosque,Aurangabad,Maharashtra,Nandurbar,Forest/Sanctuary,Ancient,Stupa/Monastery,Yes,30.0,500.0,World Heritage Site,382443.0,Needs Immediate Attention,467386.0,552958.0
+ASI-IND-0068,Pali Stepwell,Jaipur,Rajasthan,Pali,Urban,Colonial,Pillar/Inscription,Yes,25.0,1100.0,World Heritage Site,741044.0,Good,907651.0,988620.0
+ASI-IND-0069,Kaushambi Monastery Ruin,Agra,Uttar Pradesh,Kaushambi,Forest/Sanctuary,Mughal,Mosque/Tomb,Yes,30.0,550.0,Not Listed,800704.0,Needs Immediate Attention,946643.0,1034460.0
+ASI-IND-0070,Muzaffarpur Tomb,Patna,Bihar,Muzaffarpur,Rural,Maratha,Temple/Shrine,Yes,40.0,250.0,Not Listed,207831.0,Endangered,247481.0,281985.0
+ASI-IND-0071,Satara Rock-Cut Caves,Mumbai,Maharashtra,Satara,Hilly/Remote,Sultanate,Stepwell/Baoli,Yes,30.0,550.0,Not Listed,436264.0,Needs Immediate Attention,512809.0,591324.0
+ASI-IND-0072,Central Stone Enclosure,Ranchi,Jharkhand,Central,Hilly/Remote,Medieval,Stupa/Monastery,Yes,35.0,600.0,Not Listed,383344.0,Good,482158.0,536637.0
+ASI-IND-0073,Udupi Fort,Bengaluru,Karnataka,Udupi,Forest/Sanctuary,Mughal,Fort/Bastion,Yes,40.0,550.0,World Heritage Site,705129.0,Fair,892350.0,1040494.0
+ASI-IND-0074,Surat Memorial Cenotaph,Vadodara,Gujarat,Surat,Urban,Mughal,Stupa/Monastery,Yes,40.0,1100.0,Not Listed,678599.0,Needs Immediate Attention,827449.0,952716.0
+ASI-IND-0075,Central Stone Enclosure,Ranchi,Jharkhand,Central,Urban,Medieval,Palace/Haveli,Yes,30.0,500.0,Not Listed,488752.0,Fair,614417.0,687520.0
+ASI-IND-0076,Visakhapatnam Rock-Cut Caves,Amaravati,Andhra Pradesh,Visakhapatnam,Rural,Maratha,Mosque/Tomb,Yes,35.0,500.0,Not Listed,807993.0,Needs Immediate Attention,1018387.0,1102959.0
+ASI-IND-0077,Pulwama Gateway,Srinagar,Jammu & Kashmir,Pulwama,Forest/Sanctuary,Classical,Fort/Bastion,Yes,40.0,300.0,Tentative List,729152.0,Endangered,853648.0,998784.0
+ASI-IND-0078,Nagaon Ashokan Pillar,Guwahati,Assam,Nagaon,Forest/Sanctuary,Classical,Mosque/Tomb,Yes,40.0,250.0,Not Listed,683995.0,Fair,885723.0,979406.0
+ASI-IND-0079,Central Palace Remains,Ranchi,Jharkhand,Central,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,Yes,40.0,1100.0,Not Listed,313085.0,Fair,398606.0,470410.0
+ASI-IND-0080,Nuapada Temple Complex,Bhubaneswar,Odisha,Nuapada,Urban,Maratha,Stupa/Monastery,Yes,40.0,300.0,World Heritage Site,109659.0,Needs Immediate Attention,129471.0,146359.0
+ASI-IND-0081,Chitradurga Tomb,Bengaluru,Karnataka,Chitradurga,Urban,Ancient,Stepwell/Baoli,Yes,25.0,550.0,Not Listed,104230.0,Needs Immediate Attention,122775.0,141099.0
+ASI-IND-0082,Valsad Temple Complex,Vadodara,Gujarat,Valsad,Urban,Maratha,Cave/Rock-Cut,Yes,40.0,1100.0,Tentative List,678709.0,Needs Immediate Attention,793308.0,939875.0
+ASI-IND-0083,Chittorgarh Stone Enclosure,Jodhpur,Rajasthan,Chittorgarh,Rural,Maratha,Watchtower/Gate,Yes,40.0,550.0,Not Listed,536586.0,Good,628212.0,743574.0
+ASI-IND-0084,Jhunjhunu Ancient Mound,Jaipur,Rajasthan,Jhunjhunu,Urban,Medieval,Stupa/Monastery,Yes,50.0,600.0,World Heritage Site,386477.0,Endangered,487821.0,548595.0
+ASI-IND-0085,Palakkad Mosque,Thrissur,Kerala,Palakkad,Forest/Sanctuary,,Mosque/Tomb,Yes,50.0,300.0,Tentative List,858621.0,Good,1047902.0,1158002.0
+ASI-IND-0086,Bellary Inscribed Rock,Bengaluru,Karnataka,Bellary,Rural,Mughal,Stupa/Monastery,Yes,25.0,300.0,World Heritage Site,306843.0,Needs Immediate Attention,388905.0,456192.0
+ASI-IND-0087,Firozpur Ancient Mound,Chandigarh,Punjab,Firozpur,Forest/Sanctuary,Medieval,Temple/Shrine,Yes,50.0,500.0,Tentative List,779406.0,Endangered,983562.0,1113362.0
+ASI-IND-0088,Wardha Memorial Cenotaph,Mumbai,Maharashtra,Wardha,Forest/Sanctuary,Maratha,Stepwell/Baoli,Yes,50.0,600.0,Tentative List,207674.0,Fair,257659.0,284209.0
+ASI-IND-0089,Idukki Monastery Ruin,Thrissur,Kerala,Idukki,Hilly/Remote,Ancient,Stupa/Monastery,Yes,30.0,250.0,Tentative List,850074.0,Fair,1065104.0,1265909.0
+ASI-IND-0090,SAS Nagar Mosque,Chandigarh,Punjab,SAS Nagar,Rural,Maratha,Mosque/Tomb,Yes,50.0,550.0,Not Listed,153915.0,Endangered,177426.0,195838.0
+ASI-IND-0091,Guntur Monastery Ruin,Amaravati,Andhra Pradesh,Guntur,Forest/Sanctuary,Medieval,Stupa/Monastery,Yes,50.0,1100.0,Not Listed,936806.0,Needs Immediate Attention,1121138.0,1214301.0
+ASI-IND-0092,Datia Ashokan Pillar,Bhopal,Madhya Pradesh,Datia,Hilly/Remote,,Mosque/Tomb,Yes,50.0,300.0,World Heritage Site,840021.0,Good,1046392.0,1132650.0
+ASI-IND-0093,Wardha Temple Complex,Aurangabad,Maharashtra,Wardha,Urban,Prehistoric,Stepwell/Baoli,Yes,40.0,1100.0,Not Listed,903600.0,Endangered,1040407.0,1201335.0
+ASI-IND-0094,Mahrajganj Stepwell,Agra,Uttar Pradesh,Mahrajganj,Hilly/Remote,Classical,Fort/Bastion,Yes,50.0,1100.0,Not Listed,555113.0,Needs Immediate Attention,641126.0,743322.0
+ASI-IND-0095,Damoh Stone Enclosure,Bhopal,Madhya Pradesh,Damoh,Rural,Colonial,Stupa/Monastery,Yes,30.0,550.0,Not Listed,452541.0,Endangered,578249.0,646092.0
+ASI-IND-0096,Vijayapura Palace Remains,Dharwad,Karnataka,Vijayapura,Forest/Sanctuary,Colonial,Cave/Rock-Cut,Yes,30.0,550.0,Tentative List,208805.0,Needs Immediate Attention,261550.0,292518.0
+ASI-IND-0097,Paschim Medinipur Stepwell,Kolkata,West Bengal,Paschim Medinipur,Urban,Medieval,Cave/Rock-Cut,Yes,40.0,500.0,Tentative List,621103.0,Needs Immediate Attention,738992.0,828217.0
+ASI-IND-0098,Koppal Gateway,Dharwad,Karnataka,Koppal,Rural,Mughal,Fort/Bastion,Yes,35.0,1100.0,World Heritage Site,309763.0,Needs Immediate Attention,388193.0,450932.0
+ASI-IND-0099,Sivaganga Fort,Chennai,Tamil Nadu,Sivaganga,Forest/Sanctuary,Classical,Palace/Haveli,Yes,35.0,600.0,Not Listed,517799.0,Fair,657019.0,714164.0
+ASI-IND-0100,Darbhanga Fort,Patna,Bihar,Darbhanga,Hilly/Remote,Classical,Pillar/Inscription,Yes,35.0,550.0,Tentative List,452756.0,Needs Immediate Attention,541505.0,645200.0
+ASI-IND-0101,Sirohi Watchtower,Jodhpur,Rajasthan,Sirohi,Hilly/Remote,Mughal,Watchtower/Gate,Yes,50.0,1100.0,Not Listed,731376.0,Endangered,845036.0,935203.0
+ASI-IND-0102,Kamrup Palace Remains,Guwahati,Assam,Kamrup,Hilly/Remote,Mughal,Stupa/Monastery,Yes,25.0,550.0,Tentative List,930265.0,Endangered,1199965.0,1439911.0
+ASI-IND-0103,Nadia Stone Enclosure,Kolkata,West Bengal,Nadia,Forest/Sanctuary,Sultanate,Pillar/Inscription,Yes,30.0,250.0,Tentative List,278056.0,Endangered,334161.0,367772.0
+ASI-IND-0104,Valsad Watchtower,Vadodara,Gujarat,Valsad,Urban,Classical,Watchtower/Gate,Yes,50.0,600.0,Not Listed,393242.0,Endangered,458509.0,537641.0
+ASI-IND-0105,Kupwara Tomb,Srinagar,Jammu & Kashmir,Kupwara,Urban,Ancient,Fort/Bastion,Yes,35.0,600.0,World Heritage Site,380218.0,Endangered,465303.0,515002.0
+ASI-IND-0106,Sawai Madhopur Watchtower,Jodhpur,Rajasthan,Sawai Madhopur,Hilly/Remote,Mughal,Fort/Bastion,Yes,35.0,1100.0,World Heritage Site,644421.0,Fair,815367.0,888507.0
+ASI-IND-0107,Sehore Mosque,Bhopal,Madhya Pradesh,Sehore,Rural,Prehistoric,Temple/Shrine,Yes,30.0,300.0,Tentative List,303959.0,Good,359659.0,426193.0
+ASI-IND-0108,Muzaffarpur Palace Remains,Patna,Bihar,Muzaffarpur,Rural,Maratha,Pillar/Inscription,Yes,35.0,600.0,World Heritage Site,643025.0,Needs Immediate Attention,765472.0,905592.0
+ASI-IND-0109,Paschim Medinipur Mosque,Kolkata,West Bengal,Paschim Medinipur,Urban,Ancient,Watchtower/Gate,Yes,40.0,600.0,Not Listed,846014.0,Endangered,1003717.0,1132623.0
+ASI-IND-0110,Central Ancient Bridge,Raipur,Chhattisgarh,Central,Rural,Prehistoric,Cave/Rock-Cut,Yes,40.0,550.0,Tentative List,94704.0,Needs Immediate Attention,122997.0,143204.0
+ASI-IND-0111,Jorhat Ancient Bridge,Guwahati,Assam,Jorhat,Forest/Sanctuary,Colonial,Fort/Bastion,Yes,50.0,550.0,Not Listed,572690.0,Endangered,675551.0,774754.0
+ASI-IND-0112,Jaipur Temple Complex,Jaipur,Rajasthan,Jaipur,Hilly/Remote,Maratha,Fort/Bastion,Yes,40.0,1100.0,Tentative List,674776.0,Needs Immediate Attention,834244.0,986372.0
+ASI-IND-0113,Bankura Fort,Kolkata,West Bengal,Bankura,Urban,Sultanate,Mosque/Tomb,Yes,30.0,550.0,Not Listed,199891.0,Needs Immediate Attention,257617.0,287966.0
+ASI-IND-0114,Bhavnagar Monastery Ruin,Vadodara,Gujarat,Bhavnagar,Rural,,Palace/Haveli,Yes,25.0,1100.0,Not Listed,491017.0,Needs Immediate Attention,575489.0,657692.0
+ASI-IND-0115,Nashik Watchtower,Aurangabad,Maharashtra,Nashik,Rural,Prehistoric,Mosque/Tomb,Yes,35.0,1100.0,Not Listed,625508.0,Good,810426.0,922463.0
+ASI-IND-0116,Malappuram Watchtower,Thrissur,Kerala,Malappuram,Hilly/Remote,,Stepwell/Baoli,Yes,35.0,300.0,World Heritage Site,427275.0,Fair,552091.0,619705.0
+ASI-IND-0117,Prakasam Gateway,Amaravati,Andhra Pradesh,Prakasam,Forest/Sanctuary,Sultanate,Stepwell/Baoli,Yes,25.0,550.0,World Heritage Site,411163.0,Good,527393.0,626002.0
+ASI-IND-0118,Hassan Memorial Cenotaph,Bengaluru,Karnataka,Hassan,Forest/Sanctuary,Medieval,Watchtower/Gate,Yes,25.0,500.0,Not Listed,619105.0,Fair,731896.0,805016.0
+ASI-IND-0119,Pathankot Fort,Chandigarh,Punjab,Pathankot,Rural,Maratha,Cave/Rock-Cut,Yes,40.0,600.0,Tentative List,162062.0,Endangered,201785.0,221548.0
+ASI-IND-0120,Anantapur Mosque,Amaravati,Andhra Pradesh,Anantapur,Rural,Prehistoric,Cave/Rock-Cut,Yes,25.0,550.0,Tentative List,638869.0,Good,807616.0,928136.0
+ASI-IND-0121,Dahod Ancient Bridge,Vadodara,Gujarat,Dahod,Forest/Sanctuary,Sultanate,Stupa/Monastery,Yes,50.0,250.0,Not Listed,509566.0,Fair,661368.0,766459.0
+ASI-IND-0122,Tumakuru Memorial Cenotaph,Bengaluru,Karnataka,Tumakuru,Forest/Sanctuary,,Stupa/Monastery,Yes,40.0,550.0,Not Listed,411892.0,Endangered,484823.0,534932.0
+ASI-IND-0123,Barpeta Palace Remains,Guwahati,Assam,Barpeta,Hilly/Remote,Ancient,Stepwell/Baoli,Yes,40.0,550.0,Tentative List,415977.0,Good,526171.0,592935.0
+ASI-IND-0124,Jabalpur Mosque,Jabalpur,Madhya Pradesh,Jabalpur,Urban,,Watchtower/Gate,Yes,35.0,500.0,Not Listed,203595.0,Fair,244481.0,291810.0
+ASI-IND-0125,Rajsamand Ancient Bridge,Jaipur,Rajasthan,Rajsamand,Hilly/Remote,Medieval,Fort/Bastion,Yes,50.0,250.0,Tentative List,347126.0,Good,408340.0,453092.0
+ASI-IND-0126,Bhadohi Great Stupa,Agra,Uttar Pradesh,Bhadohi,Forest/Sanctuary,Mughal,Cave/Rock-Cut,Yes,25.0,550.0,Not Listed,59446.0,Good,72120.0,83674.0
+ASI-IND-0127,East Champaran Stepwell,Patna,Bihar,East Champaran,Hilly/Remote,Colonial,Temple/Shrine,Yes,30.0,1100.0,Not Listed,62454.0,Endangered,79259.0,92639.0
+ASI-IND-0128,Darrang Monastery Ruin,Guwahati,Assam,Darrang,,,Palace/Haveli,Yes,35.0,600.0,Not Listed,80564.0,Fair,98266.0,111412.0
+ASI-IND-0129,Tenkasi Fort,Chennai,Tamil Nadu,Tenkasi,Urban,Colonial,Palace/Haveli,Yes,50.0,500.0,Tentative List,393162.0,Needs Immediate Attention,483836.0,576976.0
+ASI-IND-0130,Central Ancient Bridge,Raipur,Chhattisgarh,Central,Rural,Colonial,Cave/Rock-Cut,Yes,50.0,300.0,Not Listed,352108.0,Needs Immediate Attention,457485.0,534525.0
+ASI-IND-0131,Ramanathapuram Ancient Mound,Chennai,Tamil Nadu,Ramanathapuram,Urban,Sultanate,Cave/Rock-Cut,Yes,35.0,250.0,Not Listed,719048.0,Fair,869952.0,987353.0
+ASI-IND-0132,Sagar Memorial Cenotaph,Bhopal,Madhya Pradesh,Sagar,Rural,Ancient,Fort/Bastion,Yes,25.0,500.0,Not Listed,267003.0,Good,331701.0,380899.0
+ASI-IND-0133,Mandsaur Memorial Cenotaph,Bhopal,Madhya Pradesh,Mandsaur,Rural,Classical,Palace/Haveli,Yes,25.0,1100.0,Not Listed,159808.0,Needs Immediate Attention,192535.0,223940.0
+ASI-IND-0134,East Delhi Ancient Bridge,Delhi,Delhi,East Delhi,Rural,,Fort/Bastion,Yes,50.0,600.0,World Heritage Site,462333.0,Needs Immediate Attention,558923.0,643355.0
+ASI-IND-0135,Firozpur Stepwell,Chandigarh,Punjab,Firozpur,Urban,Mughal,Stupa/Monastery,Yes,50.0,250.0,Tentative List,621209.0,Good,779211.0,923711.0
+ASI-IND-0136,Jaisalmer Stepwell,Jodhpur,Rajasthan,Jaisalmer,Hilly/Remote,Colonial,Stupa/Monastery,Yes,30.0,500.0,Not Listed,287886.0,Good,371570.0,417209.0
+ASI-IND-0137,Perambalur Palace Remains,Chennai,Tamil Nadu,Perambalur,Rural,Prehistoric,Stupa/Monastery,Yes,30.0,300.0,Not Listed,567370.0,Endangered,698633.0,779665.0
+ASI-IND-0138,Udhampur Monastery Ruin,Srinagar,Jammu & Kashmir,Udhampur,,,Watchtower/Gate,Yes,50.0,550.0,World Heritage Site,533895.0,Fair,675516.0,746891.0
+ASI-IND-0139,Central Great Stupa,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Colonial,Fort/Bastion,Yes,35.0,300.0,Not Listed,912149.0,Good,1061177.0,1150882.0
+ASI-IND-0140,Damoh Watchtower,Bhopal,Madhya Pradesh,Damoh,Forest/Sanctuary,Mughal,Palace/Haveli,Yes,25.0,500.0,Tentative List,496034.0,Endangered,586150.0,636068.0
+ASI-IND-0141,Shivpuri Ancient Bridge,Jabalpur,Madhya Pradesh,Shivpuri,Rural,Colonial,Palace/Haveli,Yes,35.0,500.0,World Heritage Site,736913.0,Good,902954.0,1069465.0
+ASI-IND-0142,Mandya Temple Complex,Dharwad,Karnataka,Mandya,Forest/Sanctuary,Medieval,Fort/Bastion,Yes,50.0,300.0,Tentative List,510823.0,Fair,588980.0,684046.0
+ASI-IND-0143,Chamoli Gateway,Dehradun,Uttarakhand,Chamoli,Hilly/Remote,Prehistoric,Stupa/Monastery,Yes,25.0,1100.0,Not Listed,339983.0,Good,403875.0,468198.0
+ASI-IND-0144,Khandwa Ashokan Pillar,Jabalpur,Madhya Pradesh,Khandwa,Hilly/Remote,,Mosque/Tomb,Yes,40.0,1100.0,World Heritage Site,244580.0,Endangered,300249.0,346414.0
+ASI-IND-0145,Koppal Tomb,Bengaluru,Karnataka,Koppal,Hilly/Remote,Sultanate,Mosque/Tomb,Yes,40.0,1100.0,Tentative List,916494.0,Good,1056025.0,1248123.0
+ASI-IND-0146,Bidar Stepwell,Bengaluru,Karnataka,Bidar,Hilly/Remote,Ancient,Stepwell/Baoli,Yes,35.0,300.0,Not Listed,855267.0,Fair,1017496.0,1157536.0
+ASI-IND-0147,Kathua Fort,Srinagar,Jammu & Kashmir,Kathua,Urban,Mughal,Watchtower/Gate,Yes,30.0,1100.0,World Heritage Site,504907.0,Fair,619574.0,733854.0
+ASI-IND-0148,Anantnag Tomb,Srinagar,Jammu & Kashmir,Anantnag,Rural,Medieval,Cave/Rock-Cut,Yes,40.0,600.0,World Heritage Site,813924.0,Fair,1005988.0,1129859.0
+ASI-IND-0149,Sivaganga Stone Enclosure,Chennai,Tamil Nadu,Sivaganga,Rural,Colonial,Mosque/Tomb,Yes,40.0,550.0,Not Listed,505289.0,Endangered,651248.0,775770.0
+ASI-IND-0150,Begusarai Gateway,Patna,Bihar,Begusarai,Urban,Mughal,Stupa/Monastery,Yes,50.0,550.0,Not Listed,834119.0,Endangered,1039981.0,1210370.0
+ASI-IND-0151,Kandhamal Tomb,Bhubaneswar,Odisha,Kandhamal,Hilly/Remote,Sultanate,Temple/Shrine,Yes,30.0,550.0,Not Listed,408413.0,Needs Immediate Attention,495082.0,549967.0
+ASI-IND-0152,Malda Memorial Cenotaph,Kolkata,West Bengal,Malda,Urban,Maratha,Cave/Rock-Cut,Yes,40.0,1100.0,Not Listed,505471.0,Fair,651831.0,748100.0
+ASI-IND-0153,Darjeeling Rock-Cut Caves,Kolkata,West Bengal,Darjeeling,Urban,Sultanate,Temple/Shrine,Yes,40.0,550.0,World Heritage Site,403134.0,Fair,511066.0,584641.0
+ASI-IND-0154,Jabalpur Rock-Cut Caves,Jabalpur,Madhya Pradesh,Jabalpur,Rural,Classical,Stepwell/Baoli,Yes,25.0,600.0,World Heritage Site,155520.0,Needs Immediate Attention,183514.0,201232.0
+ASI-IND-0155,Nalgonda Fort,Hyderabad,Telangana,Nalgonda,Forest/Sanctuary,Ancient,Temple/Shrine,Yes,50.0,300.0,Not Listed,248368.0,Good,290498.0,334348.0
+ASI-IND-0156,Wardha Ashokan Pillar,Aurangabad,Maharashtra,Wardha,Rural,Classical,Stepwell/Baoli,Yes,40.0,300.0,Not Listed,893423.0,Good,1118004.0,1249676.0
+ASI-IND-0157,Ajmer Fort,Jaipur,Rajasthan,Ajmer,Forest/Sanctuary,,Stupa/Monastery,Yes,30.0,300.0,Not Listed,415374.0,Good,512564.0,556789.0
+ASI-IND-0158,Bhind Temple Complex,Jabalpur,Madhya Pradesh,Bhind,Forest/Sanctuary,Medieval,Mosque/Tomb,Yes,35.0,550.0,Tentative List,196631.0,Endangered,249417.0,297764.0
+ASI-IND-0159,Sindhudurg Memorial Cenotaph,Aurangabad,Maharashtra,Sindhudurg,Urban,Sultanate,Stepwell/Baoli,Yes,25.0,550.0,Tentative List,113220.0,Good,142750.0,165159.0
+ASI-IND-0160,Banaskantha Temple Complex,Vadodara,Gujarat,Banaskantha,Forest/Sanctuary,Prehistoric,Fort/Bastion,Yes,40.0,300.0,World Heritage Site,83975.0,Needs Immediate Attention,104447.0,123794.0
+ASI-IND-0161,Central Mosque,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Colonial,Stepwell/Baoli,Yes,25.0,600.0,Tentative List,484088.0,Good,628326.0,729566.0
+ASI-IND-0162,Mahabubnagar Mosque,Hyderabad,Telangana,Mahabubnagar,Urban,Sultanate,Pillar/Inscription,Yes,30.0,250.0,Not Listed,131777.0,Endangered,162091.0,182002.0
+ASI-IND-0163,Mysuru Rock-Cut Caves,Bengaluru,Karnataka,Mysuru,Rural,,Fort/Bastion,Yes,35.0,1100.0,Not Listed,230684.0,Needs Immediate Attention,269200.0,307298.0
+ASI-IND-0164,North Delhi Fort,Delhi,Delhi,North Delhi,Hilly/Remote,Maratha,Pillar/Inscription,Yes,50.0,600.0,Tentative List,111176.0,Fair,141665.0,164486.0
+ASI-IND-0165,Dakshin Dinajpur Palace Remains,Kolkata,West Bengal,Dakshin Dinajpur,Hilly/Remote,Medieval,Cave/Rock-Cut,Yes,30.0,300.0,Not Listed,748197.0,Fair,888692.0,1062192.0
+ASI-IND-0166,Bharatpur Temple Complex,Jaipur,Rajasthan,Bharatpur,Rural,Mughal,Pillar/Inscription,Yes,35.0,500.0,Tentative List,717015.0,Good,908168.0,1008466.0
+ASI-IND-0167,Narmada Ancient Mound,Vadodara,Gujarat,Narmada,Hilly/Remote,Ancient,Fort/Bastion,Yes,40.0,1100.0,Tentative List,817219.0,Endangered,1057127.0,1252693.0
+ASI-IND-0168,Vaishali Inscribed Rock,Patna,Bihar,Vaishali,Rural,Maratha,Stepwell/Baoli,Yes,35.0,1100.0,World Heritage Site,338750.0,Endangered,424968.0,506090.0
+ASI-IND-0169,Patiala Stone Enclosure,Chandigarh,Punjab,Patiala,Urban,Prehistoric,Pillar/Inscription,Yes,25.0,600.0,World Heritage Site,812291.0,Fair,1006757.0,1168291.0
+ASI-IND-0170,Latur Tomb,Aurangabad,Maharashtra,Latur,Urban,Maratha,Watchtower/Gate,Yes,25.0,500.0,Tentative List,264653.0,Fair,322627.0,384491.0
+ASI-IND-0171,Chandrapur Memorial Cenotaph,Aurangabad,Maharashtra,Chandrapur,Hilly/Remote,,Fort/Bastion,Yes,25.0,500.0,Not Listed,77499.0,Good,93360.0,105286.0
+ASI-IND-0172,Bageshwar Rock-Cut Caves,Dehradun,Uttarakhand,Bageshwar,Rural,Ancient,Stupa/Monastery,Yes,30.0,300.0,Not Listed,102208.0,Fair,122951.0,146848.0
+ASI-IND-0173,Gadchiroli Ashokan Pillar,Mumbai,Maharashtra,Gadchiroli,Forest/Sanctuary,Sultanate,Cave/Rock-Cut,Yes,25.0,550.0,World Heritage Site,352059.0,Good,438474.0,510530.0
+ASI-IND-0174,Jalandhar Rock-Cut Caves,Chandigarh,Punjab,Jalandhar,Urban,Prehistoric,Temple/Shrine,Yes,50.0,600.0,Not Listed,376806.0,Needs Immediate Attention,475790.0,516252.0
+ASI-IND-0175,East Godavari Temple Complex,Amaravati,Andhra Pradesh,East Godavari,Urban,Maratha,Fort/Bastion,Yes,50.0,250.0,World Heritage Site,50955.0,Endangered,63784.0,75828.0
+ASI-IND-0176,East Champaran Watchtower,Patna,Bihar,East Champaran,Rural,Medieval,Stupa/Monastery,Yes,30.0,500.0,Not Listed,136255.0,Needs Immediate Attention,160748.0,182953.0
+ASI-IND-0177,Vaishali Monastery Ruin,Patna,Bihar,Vaishali,Urban,Ancient,Mosque/Tomb,Yes,30.0,600.0,Not Listed,547201.0,Good,669828.0,760415.0
+ASI-IND-0178,North Delhi Memorial Cenotaph,Delhi,Delhi,North Delhi,Forest/Sanctuary,,Palace/Haveli,Yes,50.0,300.0,Tentative List,429127.0,Needs Immediate Attention,544453.0,625019.0
+ASI-IND-0179,Cachar Ancient Mound,Guwahati,Assam,Cachar,Hilly/Remote,Maratha,Pillar/Inscription,Yes,25.0,550.0,Not Listed,245952.0,Fair,300395.0,329812.0
+ASI-IND-0180,Tirupathur Stone Enclosure,Chennai,Tamil Nadu,Tirupathur,Hilly/Remote,Classical,Stepwell/Baoli,Yes,50.0,550.0,World Heritage Site,465525.0,Fair,572825.0,650901.0
+ASI-IND-0181,Jalna Stepwell,Aurangabad,Maharashtra,Jalna,Urban,Mughal,Mosque/Tomb,No,,,Not Listed,44362.0,Endangered,56148.0,66240.0
+ASI-IND-0182,Datia Watchtower,Jabalpur,Madhya Pradesh,Datia,Rural,Prehistoric,Palace/Haveli,Yes,25.0,1100.0,Not Listed,466828.0,Endangered,583157.0,630893.0
+ASI-IND-0183,Rajgarh Temple Complex,Jabalpur,Madhya Pradesh,Rajgarh,Forest/Sanctuary,Ancient,Cave/Rock-Cut,No,,,Not Listed,68108.0,Needs Immediate Attention,82506.0,91809.0
+ASI-IND-0184,Parbhani Fort,Mumbai,Maharashtra,Parbhani,Rural,Ancient,Temple/Shrine,Yes,30.0,550.0,Tentative List,603112.0,Fair,774584.0,836779.0
+ASI-IND-0185,Palghar Great Stupa,Mumbai,Maharashtra,Palghar,Urban,Maratha,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0186,Nashik Gateway,Mumbai,Maharashtra,Nashik,Rural,Ancient,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0187,Katni Ashokan Pillar,Bhopal,Madhya Pradesh,Katni,Rural,Classical,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0188,Nalanda Ashokan Pillar,Patna,Bihar,Nalanda,Rural,Ancient,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-0189,Begusarai Ancient Bridge,Patna,Bihar,Begusarai,Urban,Maratha,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0190,Khammam Tomb,Hyderabad,Telangana,Khammam,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,,Endangered,,
+ASI-IND-0191,Jharsuguda Gateway,Bhubaneswar,Odisha,Jharsuguda,,,Stepwell/Baoli,No,,,Not Listed,65864.0,Good,82953.0,98789.0
+ASI-IND-0192,Koppal Memorial Cenotaph,Dharwad,Karnataka,Koppal,Rural,Ancient,Pillar/Inscription,No,,,Tentative List,59629.0,Endangered,75827.0,88948.0
+ASI-IND-0193,Dhubri Inscribed Rock,Guwahati,Assam,Dhubri,Rural,Mughal,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0194,Reasi Stone Enclosure,Srinagar,Jammu & Kashmir,Reasi,Hilly/Remote,Maratha,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0195,Dahod Tomb,Vadodara,Gujarat,Dahod,Hilly/Remote,Classical,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0196,Srinagar Great Stupa,Srinagar,Jammu & Kashmir,Srinagar,Urban,Colonial,Watchtower/Gate,No,,,Not Listed,50485.0,Fair,63436.0,73934.0
+ASI-IND-0197,Puri Gateway,Bhubaneswar,Odisha,Puri,Hilly/Remote,,Stepwell/Baoli,No,,,Not Listed,62077.0,Fair,72463.0,81463.0
+ASI-IND-0198,Karimnagar Ancient Bridge,Hyderabad,Telangana,Karimnagar,,Medieval,Palace/Haveli,Yes,25.0,250.0,Not Listed,948700.0,Endangered,1148896.0,1339111.0
+ASI-IND-0199,West Delhi Inscribed Rock,Delhi,Delhi,West Delhi,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Not Listed,,Fair,,
+ASI-IND-0200,Raigad Tomb,Mumbai,Maharashtra,Raigad,Urban,Maratha,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-0201,Satara Gateway,Mumbai,Maharashtra,Satara,Forest/Sanctuary,Ancient,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0202,Paschim Bardhaman Watchtower,Kolkata,West Bengal,Paschim Bardhaman,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0203,Yadgir Ashokan Pillar,Dharwad,Karnataka,Yadgir,Urban,Mughal,Mosque/Tomb,Yes,35.0,300.0,World Heritage Site,505625.0,Fair,630460.0,682643.0
+ASI-IND-0204,Udhampur Stepwell,Srinagar,Jammu & Kashmir,Udhampur,Forest/Sanctuary,,Palace/Haveli,Yes,25.0,1100.0,Not Listed,639096.0,Fair,828226.0,907740.0
+ASI-IND-0205,Central Palace Remains,Ranchi,Jharkhand,Central,Urban,Maratha,Stepwell/Baoli,No,,,Not Listed,108452.0,Fair,125626.0,145545.0
+ASI-IND-0206,Nalgonda Mosque,Hyderabad,Telangana,Nalgonda,Forest/Sanctuary,Prehistoric,Mosque/Tomb,No,,,Not Listed,106375.0,Good,131490.0,154668.0
+ASI-IND-0207,Dindigul Great Stupa,Chennai,Tamil Nadu,Dindigul,Urban,Classical,Cave/Rock-Cut,No,,,Tentative List,,Endangered,,
+ASI-IND-0208,Central Mosque,Ranchi,Jharkhand,Central,Forest/Sanctuary,Mughal,Watchtower/Gate,No,,,Not Listed,25851.0,Fair,31595.0,35436.0
+ASI-IND-0209,Vellore Mosque,Chennai,Tamil Nadu,Vellore,Rural,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,11263.0,Endangered,13085.0,15073.0
+ASI-IND-0210,Kodagu Palace Remains,Bengaluru,Karnataka,Kodagu,Hilly/Remote,Prehistoric,Watchtower/Gate,No,,,Not Listed,18128.0,Needs Immediate Attention,22371.0,26676.0
+ASI-IND-0211,Kurnool Mosque,Amaravati,Andhra Pradesh,Kurnool,Urban,Sultanate,Pillar/Inscription,Yes,25.0,600.0,Tentative List,123132.0,Needs Immediate Attention,147735.0,162515.0
+ASI-IND-0212,Bathinda Ashokan Pillar,Chandigarh,Punjab,Bathinda,Rural,Sultanate,Pillar/Inscription,No,,,Not Listed,33818.0,Good,39677.0,46268.0
+ASI-IND-0213,Jalgaon Rock-Cut Caves,Aurangabad,Maharashtra,Jalgaon,Hilly/Remote,Colonial,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0214,Varanasi Gateway,Agra,Uttar Pradesh,Varanasi,Hilly/Remote,Medieval,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0215,Central Palace Remains,Ranchi,Jharkhand,Central,Hilly/Remote,,Mosque/Tomb,No,,,Not Listed,76026.0,Fair,98073.0,116055.0
+ASI-IND-0216,Rajsamand Monastery Ruin,Jaipur,Rajasthan,Rajsamand,Urban,Colonial,Palace/Haveli,Yes,30.0,300.0,World Heritage Site,512925.0,Good,651878.0,767634.0
+ASI-IND-0217,Karimnagar Memorial Cenotaph,Hyderabad,Telangana,Karimnagar,Forest/Sanctuary,,Stupa/Monastery,No,,,Not Listed,12555.0,Needs Immediate Attention,15743.0,17066.0
+ASI-IND-0218,Kollam Stepwell,Thrissur,Kerala,Kollam,Hilly/Remote,Sultanate,Fort/Bastion,No,,,Not Listed,37006.0,Good,42585.0,46457.0
+ASI-IND-0219,Yadgir Stone Enclosure,Dharwad,Karnataka,Yadgir,Forest/Sanctuary,,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0220,New Delhi Ancient Mound,Delhi,Delhi,New Delhi,Hilly/Remote,Ancient,Pillar/Inscription,Yes,25.0,550.0,Tentative List,913352.0,Endangered,1077411.0,1206883.0
+ASI-IND-0221,Dhubri Ancient Mound,Guwahati,Assam,Dhubri,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,Yes,35.0,250.0,Not Listed,389431.0,Fair,501050.0,571756.0
+ASI-IND-0222,Kandhamal Fort,Bhubaneswar,Odisha,Kandhamal,Rural,Prehistoric,Temple/Shrine,Yes,40.0,300.0,World Heritage Site,696583.0,Endangered,819312.0,937196.0
+ASI-IND-0223,Srinagar Palace Remains,Srinagar,Jammu & Kashmir,Srinagar,Hilly/Remote,,Watchtower/Gate,Yes,50.0,550.0,Not Listed,336167.0,Endangered,401017.0,445979.0
+ASI-IND-0224,Muzaffarpur Watchtower,Patna,Bihar,Muzaffarpur,Urban,Prehistoric,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0225,Chandrapur Gateway,Mumbai,Maharashtra,Chandrapur,Hilly/Remote,,Mosque/Tomb,Yes,40.0,1100.0,Not Listed,882699.0,Endangered,1049974.0,1180372.0
+ASI-IND-0226,Champawat Palace Remains,Dehradun,Uttarakhand,Champawat,,Classical,Cave/Rock-Cut,No,,,Not Listed,49259.0,Good,58199.0,63173.0
+ASI-IND-0227,Nizamabad Fort,Hyderabad,Telangana,Nizamabad,Hilly/Remote,Mughal,Stupa/Monastery,No,,,Tentative List,,Good,,
+ASI-IND-0228,Jabalpur Fort,Jabalpur,Madhya Pradesh,Jabalpur,Forest/Sanctuary,Maratha,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0229,Chittorgarh Monastery Ruin,Jodhpur,Rajasthan,Chittorgarh,Hilly/Remote,Medieval,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0230,Vadodara Stone Enclosure,Vadodara,Gujarat,Vadodara,Urban,Classical,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0231,East Delhi Stepwell,Delhi,Delhi,East Delhi,Hilly/Remote,Mughal,Cave/Rock-Cut,Yes,25.0,550.0,World Heritage Site,858571.0,Needs Immediate Attention,1080168.0,1183604.0
+ASI-IND-0232,Ujjain Memorial Cenotaph,Bhopal,Madhya Pradesh,Ujjain,Forest/Sanctuary,Prehistoric,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-0233,Alappuzha Mosque,Thrissur,Kerala,Alappuzha,Urban,Colonial,Pillar/Inscription,Yes,35.0,500.0,Not Listed,149480.0,Needs Immediate Attention,181384.0,217577.0
+ASI-IND-0234,Gandhinagar Ancient Mound,Vadodara,Gujarat,Gandhinagar,Forest/Sanctuary,Medieval,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0235,Dhule Watchtower,Mumbai,Maharashtra,Dhule,Hilly/Remote,Mughal,Pillar/Inscription,No,,,Not Listed,63473.0,Endangered,76473.0,86093.0
+ASI-IND-0236,Cuttack Ashokan Pillar,Bhubaneswar,Odisha,Cuttack,Hilly/Remote,Mughal,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-0237,Medchal-Malkajgiri Tomb,Hyderabad,Telangana,Medchal-Malkajgiri,Hilly/Remote,Prehistoric,Watchtower/Gate,Yes,40.0,300.0,Not Listed,461596.0,Needs Immediate Attention,534637.0,623501.0
+ASI-IND-0238,East Champaran Ashokan Pillar,Patna,Bihar,East Champaran,Forest/Sanctuary,Prehistoric,Watchtower/Gate,Yes,30.0,500.0,Tentative List,412642.0,Good,516219.0,581801.0
+ASI-IND-0239,Ganjam Watchtower,Bhubaneswar,Odisha,Ganjam,Rural,Prehistoric,Palace/Haveli,No,,,Not Listed,55965.0,Good,71842.0,85391.0
+ASI-IND-0240,Malappuram Great Stupa,Thrissur,Kerala,Malappuram,Rural,Medieval,Stupa/Monastery,No,,,Not Listed,31103.0,Good,39519.0,45336.0
+ASI-IND-0241,Nagaon Stone Enclosure,Guwahati,Assam,Nagaon,Urban,Maratha,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0242,Central Rock-Cut Caves,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Mughal,Palace/Haveli,No,,,Not Listed,18046.0,Endangered,21554.0,24951.0
+ASI-IND-0243,South Delhi Watchtower,Delhi,Delhi,South Delhi,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Not Listed,50682.0,Endangered,63736.0,76122.0
+ASI-IND-0244,Damoh Ancient Mound,Jabalpur,Madhya Pradesh,Damoh,,Maratha,Pillar/Inscription,No,,,Not Listed,67805.0,Endangered,78833.0,92656.0
+ASI-IND-0245,Mandsaur Ashokan Pillar,Bhopal,Madhya Pradesh,Mandsaur,Hilly/Remote,Prehistoric,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0246,Kottayam Mosque,Thrissur,Kerala,Kottayam,,Maratha,Fort/Bastion,No,,,Not Listed,93392.0,Needs Immediate Attention,117472.0,131554.0
+ASI-IND-0247,Purba Medinipur Stone Enclosure,Kolkata,West Bengal,Purba Medinipur,Rural,Maratha,Watchtower/Gate,No,,,Not Listed,39243.0,Fair,49424.0,56169.0
+ASI-IND-0248,Kadapa Memorial Cenotaph,Amaravati,Andhra Pradesh,Kadapa,Urban,Colonial,Watchtower/Gate,Yes,30.0,550.0,Not Listed,759440.0,Endangered,884775.0,988950.0
+ASI-IND-0249,Ratlam Mosque,Bhopal,Madhya Pradesh,Ratlam,Hilly/Remote,Maratha,Fort/Bastion,Yes,40.0,600.0,Not Listed,885924.0,Good,1114195.0,1296948.0
+ASI-IND-0250,Muzaffarpur Palace Remains,Patna,Bihar,Muzaffarpur,Forest/Sanctuary,Mughal,Mosque/Tomb,No,,,Not Listed,11971.0,Good,14987.0,17672.0
+ASI-IND-0251,Medchal-Malkajgiri Memorial Cenotaph,Hyderabad,Telangana,Medchal-Malkajgiri,Urban,Prehistoric,Mosque/Tomb,No,,,Tentative List,,Good,,
+ASI-IND-0252,Ganganagar Stone Enclosure,Jodhpur,Rajasthan,Ganganagar,Forest/Sanctuary,Medieval,Cave/Rock-Cut,Yes,25.0,250.0,World Heritage Site,251230.0,Fair,290482.0,348207.0
+ASI-IND-0253,East Godavari Fort,Amaravati,Andhra Pradesh,East Godavari,Forest/Sanctuary,Medieval,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0254,Mumbai City Great Stupa,Aurangabad,Maharashtra,Mumbai City,Hilly/Remote,Classical,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0255,Central Delhi Great Stupa,Delhi,Delhi,Central Delhi,Rural,Classical,Palace/Haveli,No,,,Not Listed,89158.0,Fair,104522.0,122499.0
+ASI-IND-0256,Kannauj Palace Remains,Agra,Uttar Pradesh,Kannauj,Urban,Colonial,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0257,Belagavi Stone Enclosure,Bengaluru,Karnataka,Belagavi,Hilly/Remote,Mughal,Stupa/Monastery,No,,,Not Listed,86064.0,Endangered,110816.0,129444.0
+ASI-IND-0258,West Delhi Palace Remains,Delhi,Delhi,West Delhi,,Medieval,Pillar/Inscription,No,,,Not Listed,78926.0,Fair,95400.0,104223.0
+ASI-IND-0259,Bhandara Mosque,Mumbai,Maharashtra,Bhandara,Hilly/Remote,Medieval,Stupa/Monastery,No,,,Not Listed,86558.0,Endangered,110512.0,129821.0
+ASI-IND-0260,Central Watchtower,Ranchi,Jharkhand,Central,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,116302.0,Good,133752.0,152996.0
+ASI-IND-0261,Paschim Medinipur Memorial Cenotaph,Kolkata,West Bengal,Paschim Medinipur,Forest/Sanctuary,Prehistoric,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0262,Kasaragod Mosque,Thrissur,Kerala,Kasaragod,Forest/Sanctuary,Mughal,Temple/Shrine,No,,,Not Listed,21945.0,Good,25337.0,29358.0
+ASI-IND-0263,Indore Ashokan Pillar,Jabalpur,Madhya Pradesh,Indore,Urban,Classical,Temple/Shrine,Yes,35.0,300.0,Tentative List,523560.0,Good,627865.0,726436.0
+ASI-IND-0264,Uttar Dinajpur Monastery Ruin,Kolkata,West Bengal,Uttar Dinajpur,Urban,Colonial,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0265,Nagpur Fort,Mumbai,Maharashtra,Nagpur,Hilly/Remote,Maratha,Stupa/Monastery,No,,,Not Listed,66040.0,Good,76906.0,83339.0
+ASI-IND-0266,Thiruvananthapuram Great Stupa,Thrissur,Kerala,Thiruvananthapuram,Forest/Sanctuary,Sultanate,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0267,Bengaluru Urban Mosque,Dharwad,Karnataka,Bengaluru Urban,Forest/Sanctuary,Sultanate,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0268,Akola Mosque,Aurangabad,Maharashtra,Akola,Urban,Medieval,Mosque/Tomb,No,,,Not Listed,58016.0,Good,74885.0,88753.0
+ASI-IND-0269,Chitradurga Gateway,Bengaluru,Karnataka,Chitradurga,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Not Listed,36209.0,Endangered,42306.0,50403.0
+ASI-IND-0270,Rupnagar Temple Complex,Chandigarh,Punjab,Rupnagar,Forest/Sanctuary,Ancient,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0271,Raigad Gateway,Mumbai,Maharashtra,Raigad,Forest/Sanctuary,,Mosque/Tomb,No,,,Not Listed,116537.0,Endangered,134534.0,157466.0
+ASI-IND-0272,Rajouri Memorial Cenotaph,Srinagar,Jammu & Kashmir,Rajouri,Hilly/Remote,Maratha,Stupa/Monastery,Yes,40.0,500.0,World Heritage Site,923069.0,Endangered,1121612.0,1270468.0
+ASI-IND-0273,Cooch Behar Ancient Mound,Kolkata,West Bengal,Cooch Behar,Hilly/Remote,Colonial,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0274,Bharatpur Stepwell,Jaipur,Rajasthan,Bharatpur,Rural,Prehistoric,Temple/Shrine,No,,,Not Listed,53658.0,Good,68708.0,75893.0
+ASI-IND-0275,Jodhpur Great Stupa,Jodhpur,Rajasthan,Jodhpur,Hilly/Remote,Prehistoric,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-0276,South Delhi Ashokan Pillar,Delhi,Delhi,South Delhi,Urban,Mughal,Mosque/Tomb,No,,,Not Listed,68208.0,Good,84722.0,97948.0
+ASI-IND-0277,Rajkot Monastery Ruin,Vadodara,Gujarat,Rajkot,Urban,Classical,Cave/Rock-Cut,No,,,Not Listed,26670.0,Needs Immediate Attention,32798.0,35493.0
+ASI-IND-0278,Gandhinagar Watchtower,Vadodara,Gujarat,Gandhinagar,,Classical,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-0279,Nagaon Great Stupa,Guwahati,Assam,Nagaon,Urban,,Watchtower/Gate,Yes,35.0,300.0,Not Listed,422432.0,Needs Immediate Attention,513995.0,606650.0
+ASI-IND-0280,Nagapattinam Watchtower,Chennai,Tamil Nadu,Nagapattinam,Urban,Maratha,Palace/Haveli,Yes,40.0,250.0,Not Listed,84592.0,Good,109963.0,124027.0
+ASI-IND-0281,Kishtwar Fort,Srinagar,Jammu & Kashmir,Kishtwar,Forest/Sanctuary,Classical,Watchtower/Gate,No,,,World Heritage Site,,Needs Immediate Attention,,
+ASI-IND-0282,Bathinda Mosque,Chandigarh,Punjab,Bathinda,Hilly/Remote,Colonial,Temple/Shrine,No,,,Not Listed,60315.0,Needs Immediate Attention,77446.0,91553.0
+ASI-IND-0283,Budgam Great Stupa,Srinagar,Jammu & Kashmir,Budgam,Rural,Medieval,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0284,Central Stepwell,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Maratha,Pillar/Inscription,No,,,Not Listed,40251.0,Good,46911.0,52286.0
+ASI-IND-0285,Gir Somnath Mosque,Vadodara,Gujarat,Gir Somnath,Urban,Mughal,Palace/Haveli,No,,,Not Listed,114566.0,Good,135660.0,151787.0
+ASI-IND-0286,Satara Mosque,Mumbai,Maharashtra,Satara,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Tentative List,8520.0,Fair,9802.0,11385.0
+ASI-IND-0287,Rajsamand Temple Complex,Jodhpur,Rajasthan,Rajsamand,Forest/Sanctuary,Medieval,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-0288,Jalore Stepwell,Jaipur,Rajasthan,Jalore,Forest/Sanctuary,Colonial,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0289,Gurdaspur Rock-Cut Caves,Chandigarh,Punjab,Gurdaspur,Urban,Maratha,Cave/Rock-Cut,No,,,Not Listed,109587.0,Good,133797.0,149477.0
+ASI-IND-0290,Nainital Mosque,Dehradun,Uttarakhand,Nainital,Hilly/Remote,Ancient,Stupa/Monastery,No,,,World Heritage Site,,Needs Immediate Attention,,
+ASI-IND-0291,Yadgir Stepwell,Bengaluru,Karnataka,Yadgir,Rural,Mughal,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0292,Bathinda Ancient Bridge,Chandigarh,Punjab,Bathinda,Rural,Sultanate,Fort/Bastion,No,,,Not Listed,44549.0,Needs Immediate Attention,56238.0,67391.0
+ASI-IND-0293,Kanpur Dehat Temple Complex,Agra,Uttar Pradesh,Kanpur Dehat,Rural,Ancient,Palace/Haveli,No,,,Not Listed,44772.0,Fair,57791.0,67733.0
+ASI-IND-0294,South Delhi Stone Enclosure,Delhi,Delhi,South Delhi,,Ancient,Mosque/Tomb,No,,,Not Listed,4074.0,Good,4718.0,5629.0
+ASI-IND-0295,Jaisalmer Stepwell,Jaipur,Rajasthan,Jaisalmer,Hilly/Remote,Maratha,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0296,Purba Medinipur Ancient Mound,Kolkata,West Bengal,Purba Medinipur,,Medieval,Watchtower/Gate,No,,,World Heritage Site,,Endangered,,
+ASI-IND-0297,Badami Fort,Dharwad,Karnataka,Badami,Rural,Maratha,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0298,Barwani Great Stupa,Bhopal,Madhya Pradesh,Barwani,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,Yes,35.0,250.0,Tentative List,697593.0,Good,828758.0,961766.0
+ASI-IND-0299,Sabarkantha Great Stupa,Vadodara,Gujarat,Sabarkantha,Hilly/Remote,Mughal,Temple/Shrine,Yes,25.0,550.0,Not Listed,707647.0,Good,848917.0,964636.0
+ASI-IND-0300,Sheopur Great Stupa,Bhopal,Madhya Pradesh,Sheopur,Rural,Medieval,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0301,Jorhat Ancient Bridge,Guwahati,Assam,Jorhat,Rural,,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0302,Hanumangarh Rock-Cut Caves,Jodhpur,Rajasthan,Hanumangarh,Urban,Medieval,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0303,Haridwar Tomb,Dehradun,Uttarakhand,Haridwar,Urban,Colonial,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0304,Barmer Great Stupa,Jodhpur,Rajasthan,Barmer,Hilly/Remote,Mughal,Stepwell/Baoli,No,,,Not Listed,,Endangered,,
+ASI-IND-0305,Akola Inscribed Rock,Aurangabad,Maharashtra,Akola,Urban,Prehistoric,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0306,Sonbhadra Tomb,Agra,Uttar Pradesh,Sonbhadra,Rural,Sultanate,Watchtower/Gate,No,,,Not Listed,4033.0,Fair,4790.0,5412.0
+ASI-IND-0307,Jodhpur Tomb,Jaipur,Rajasthan,Jodhpur,Hilly/Remote,,Palace/Haveli,No,,,Not Listed,59695.0,Endangered,70137.0,82751.0
+ASI-IND-0308,Kamrup Metropolitan Stone Enclosure,Guwahati,Assam,Kamrup Metropolitan,Forest/Sanctuary,,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0309,Kolar Ancient Bridge,Bengaluru,Karnataka,Kolar,,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,22798.0,Fair,28754.0,34308.0
+ASI-IND-0310,Hassan Watchtower,Bengaluru,Karnataka,Hassan,,Medieval,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0311,Thanjavur Fort,Chennai,Tamil Nadu,Thanjavur,Forest/Sanctuary,Colonial,Pillar/Inscription,No,,,Not Listed,12415.0,Needs Immediate Attention,15519.0,17995.0
+ASI-IND-0312,Faridkot Inscribed Rock,Chandigarh,Punjab,Faridkot,,Colonial,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0313,Seoni Monastery Ruin,Jabalpur,Madhya Pradesh,Seoni,Hilly/Remote,Ancient,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0314,Parbhani Watchtower,Aurangabad,Maharashtra,Parbhani,,Ancient,Watchtower/Gate,No,,,Tentative List,114940.0,Endangered,142020.0,158916.0
+ASI-IND-0315,East Godavari Ashokan Pillar,Amaravati,Andhra Pradesh,East Godavari,Forest/Sanctuary,Ancient,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0316,Gurdaspur Watchtower,Chandigarh,Punjab,Gurdaspur,Rural,Medieval,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0317,Chittoor Memorial Cenotaph,Amaravati,Andhra Pradesh,Chittoor,Hilly/Remote,Prehistoric,Palace/Haveli,No,,,Not Listed,113844.0,Fair,139319.0,155966.0
+ASI-IND-0318,Sivasagar Mosque,Guwahati,Assam,Sivasagar,Hilly/Remote,Sultanate,Pillar/Inscription,Yes,40.0,1100.0,Not Listed,69247.0,Endangered,85507.0,97826.0
+ASI-IND-0319,Washim Gateway,Mumbai,Maharashtra,Washim,Urban,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,113696.0,Needs Immediate Attention,142953.0,155447.0
+ASI-IND-0320,Central Inscribed Rock,Ranchi,Jharkhand,Central,Hilly/Remote,Mughal,Palace/Haveli,No,,,Not Listed,62427.0,Fair,72818.0,80467.0
+ASI-IND-0321,Srikakulam Temple Complex,Amaravati,Andhra Pradesh,Srikakulam,Forest/Sanctuary,Medieval,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-0322,Ernakulam Ashokan Pillar,Thrissur,Kerala,Ernakulam,Urban,Prehistoric,Palace/Haveli,No,,,Not Listed,67172.0,Endangered,78617.0,85717.0
+ASI-IND-0323,Muzaffarpur Tomb,Patna,Bihar,Muzaffarpur,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,83471.0,Fair,96826.0,114371.0
+ASI-IND-0324,Rayagada Temple Complex,Bhubaneswar,Odisha,Rayagada,Rural,Colonial,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0325,Jalgaon Ancient Bridge,Aurangabad,Maharashtra,Jalgaon,Rural,Sultanate,Cave/Rock-Cut,No,,,Not Listed,82906.0,Needs Immediate Attention,107243.0,127966.0
+ASI-IND-0326,Dindigul Monastery Ruin,Chennai,Tamil Nadu,Dindigul,Hilly/Remote,Colonial,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0327,Khammam Stone Enclosure,Hyderabad,Telangana,Khammam,Urban,Mughal,Cave/Rock-Cut,No,,,Not Listed,79472.0,Fair,96677.0,115321.0
+ASI-IND-0328,Nalanda Stone Enclosure,Patna,Bihar,Nalanda,Hilly/Remote,,Stupa/Monastery,Yes,25.0,300.0,Not Listed,477632.0,Endangered,562620.0,645067.0
+ASI-IND-0329,Hyderabad Memorial Cenotaph,Hyderabad,Telangana,Hyderabad,Urban,Classical,Fort/Bastion,Yes,25.0,550.0,Not Listed,417892.0,Endangered,510999.0,588684.0
+ASI-IND-0330,Guna Ancient Mound,Jabalpur,Madhya Pradesh,Guna,Rural,,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0331,East Godavari Mosque,Amaravati,Andhra Pradesh,East Godavari,Urban,Maratha,Mosque/Tomb,No,,,Not Listed,69880.0,Needs Immediate Attention,90326.0,104512.0
+ASI-IND-0332,Central Temple Complex,Ranchi,Jharkhand,Central,Rural,Colonial,Stupa/Monastery,No,,,Not Listed,9509.0,Needs Immediate Attention,11840.0,12831.0
+ASI-IND-0333,West Delhi Inscribed Rock,Delhi,Delhi,West Delhi,Urban,Prehistoric,Temple/Shrine,No,,,Tentative List,,Good,,
+ASI-IND-0334,Amethi Ashokan Pillar,Agra,Uttar Pradesh,Amethi,Forest/Sanctuary,Mughal,Cave/Rock-Cut,No,,,Not Listed,47858.0,Fair,59368.0,70568.0
+ASI-IND-0335,Saran Monastery Ruin,Patna,Bihar,Saran,Hilly/Remote,Mughal,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0336,Hardoi Ancient Bridge,Agra,Uttar Pradesh,Hardoi,Hilly/Remote,Prehistoric,Stepwell/Baoli,No,,,Not Listed,77395.0,Fair,99567.0,114508.0
+ASI-IND-0337,South Delhi Great Stupa,Delhi,Delhi,South Delhi,Hilly/Remote,Medieval,Cave/Rock-Cut,Yes,25.0,550.0,Not Listed,808923.0,Fair,1035874.0,1202190.0
+ASI-IND-0338,Fatehpur Tomb,Agra,Uttar Pradesh,Fatehpur,Forest/Sanctuary,Mughal,Palace/Haveli,No,,,Not Listed,22568.0,Endangered,27843.0,33379.0
+ASI-IND-0339,Banswara Ancient Bridge,Jodhpur,Rajasthan,Banswara,Forest/Sanctuary,Mughal,Fort/Bastion,No,,,Not Listed,37818.0,Needs Immediate Attention,45333.0,49453.0
+ASI-IND-0340,East Godavari Stone Enclosure,Amaravati,Andhra Pradesh,East Godavari,Rural,Mughal,Temple/Shrine,No,,,World Heritage Site,107340.0,Good,128165.0,148680.0
+ASI-IND-0341,Ayodhya Watchtower,Agra,Uttar Pradesh,Ayodhya,Hilly/Remote,Medieval,Cave/Rock-Cut,Yes,35.0,300.0,World Heritage Site,179927.0,Fair,207818.0,231511.0
+ASI-IND-0342,Muzaffarpur Ancient Bridge,Patna,Bihar,Muzaffarpur,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Tentative List,65047.0,Good,82764.0,95742.0
+ASI-IND-0343,Bharatpur Palace Remains,Jodhpur,Rajasthan,Bharatpur,Hilly/Remote,Maratha,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0344,Gwalior Watchtower,Bhopal,Madhya Pradesh,Gwalior,Urban,Sultanate,Temple/Shrine,No,,,Not Listed,34780.0,Endangered,41693.0,45796.0
+ASI-IND-0345,Sivasagar Ashokan Pillar,Guwahati,Assam,Sivasagar,Urban,Sultanate,Temple/Shrine,No,,,Not Listed,27419.0,Needs Immediate Attention,33469.0,36977.0
+ASI-IND-0346,Umaria Stepwell,Jabalpur,Madhya Pradesh,Umaria,Urban,Mughal,Pillar/Inscription,No,,,Not Listed,63233.0,Good,80484.0,92926.0
+ASI-IND-0347,Jammu Monastery Ruin,Srinagar,Jammu & Kashmir,Jammu,Forest/Sanctuary,,Stepwell/Baoli,No,,,Not Listed,53940.0,Fair,63039.0,69052.0
+ASI-IND-0348,Dakshin Dinajpur Inscribed Rock,Kolkata,West Bengal,Dakshin Dinajpur,Hilly/Remote,Sultanate,Mosque/Tomb,No,,,Tentative List,82977.0,Good,106098.0,117962.0
+ASI-IND-0349,Dhar Temple Complex,Bhopal,Madhya Pradesh,Dhar,Rural,Prehistoric,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0350,Chitradurga Stepwell,Bengaluru,Karnataka,Chitradurga,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0351,Dhubri Tomb,Guwahati,Assam,Dhubri,Forest/Sanctuary,Ancient,Temple/Shrine,No,,,Not Listed,79166.0,Endangered,95761.0,109030.0
+ASI-IND-0352,Purba Medinipur Ancient Mound,Kolkata,West Bengal,Purba Medinipur,Forest/Sanctuary,Maratha,Stepwell/Baoli,No,,,Not Listed,61954.0,Fair,73265.0,87401.0
+ASI-IND-0353,Ahmednagar Ancient Mound,Mumbai,Maharashtra,Ahmednagar,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,22177.0,Good,26746.0,29615.0
+ASI-IND-0354,Lucknow Temple Complex,Agra,Uttar Pradesh,Lucknow,Forest/Sanctuary,Maratha,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0355,Sawai Madhopur Tomb,Jodhpur,Rajasthan,Sawai Madhopur,Rural,Ancient,Stupa/Monastery,No,,,Tentative List,119776.0,Needs Immediate Attention,140907.0,162434.0
+ASI-IND-0356,Adilabad Rock-Cut Caves,Hyderabad,Telangana,Adilabad,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0357,Dang Gateway,Vadodara,Gujarat,Dang,Urban,Maratha,Mosque/Tomb,No,,,Not Listed,116122.0,Good,141842.0,168536.0
+ASI-IND-0358,Sonitpur Watchtower,Guwahati,Assam,Sonitpur,Urban,Mughal,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0359,Central Gateway,Ranchi,Jharkhand,Central,Forest/Sanctuary,Mughal,Cave/Rock-Cut,No,,,World Heritage Site,97422.0,Fair,112505.0,131991.0
+ASI-IND-0360,Poonch Great Stupa,Srinagar,Jammu & Kashmir,Poonch,Forest/Sanctuary,Sultanate,Stupa/Monastery,No,,,World Heritage Site,,Endangered,,
+ASI-IND-0361,Central Tomb,Ranchi,Jharkhand,Central,Urban,Sultanate,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0362,Ganjam Ashokan Pillar,Bhubaneswar,Odisha,Ganjam,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,15590.0,Endangered,19705.0,22189.0
+ASI-IND-0363,West Delhi Ashokan Pillar,Delhi,Delhi,West Delhi,Urban,Ancient,Mosque/Tomb,No,,,Not Listed,63981.0,Endangered,82082.0,90043.0
+ASI-IND-0364,Munger Inscribed Rock,Patna,Bihar,Munger,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0365,Kheda Fort,Vadodara,Gujarat,Kheda,Rural,Ancient,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0366,Central Memorial Cenotaph,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Maratha,Cave/Rock-Cut,No,,,Not Listed,5163.0,Endangered,6195.0,6723.0
+ASI-IND-0367,Koppal Mosque,Bengaluru,Karnataka,Koppal,Urban,Classical,Stupa/Monastery,Yes,30.0,250.0,Not Listed,161845.0,Endangered,198338.0,234116.0
+ASI-IND-0368,North Delhi Stepwell,Delhi,Delhi,North Delhi,Urban,Classical,Stupa/Monastery,No,,,Not Listed,46971.0,Good,54116.0,60061.0
+ASI-IND-0369,Raisen Stepwell,Bhopal,Madhya Pradesh,Raisen,Forest/Sanctuary,Colonial,Cave/Rock-Cut,Yes,50.0,500.0,Not Listed,509691.0,Good,586677.0,664040.0
+ASI-IND-0370,Nabarangpur Inscribed Rock,Bhubaneswar,Odisha,Nabarangpur,Forest/Sanctuary,Colonial,Temple/Shrine,No,,,Not Listed,5911.0,Needs Immediate Attention,7011.0,8134.0
+ASI-IND-0371,Firozpur Ancient Mound,Chandigarh,Punjab,Firozpur,Forest/Sanctuary,Medieval,Palace/Haveli,No,,,Not Listed,100599.0,Needs Immediate Attention,117210.0,132627.0
+ASI-IND-0372,Mansa Memorial Cenotaph,Chandigarh,Punjab,Mansa,Forest/Sanctuary,Medieval,Cave/Rock-Cut,Yes,25.0,600.0,Not Listed,112950.0,Endangered,134301.0,152157.0
+ASI-IND-0373,Dhar Gateway,Bhopal,Madhya Pradesh,Dhar,Hilly/Remote,,Cave/Rock-Cut,No,,,Not Listed,23342.0,Good,27463.0,29876.0
+ASI-IND-0374,Buldhana Inscribed Rock,Mumbai,Maharashtra,Buldhana,Urban,Medieval,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0375,Central Watchtower,Raipur,Chhattisgarh,Central,Hilly/Remote,,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0376,Hanumangarh Palace Remains,Jodhpur,Rajasthan,Hanumangarh,Urban,Classical,Temple/Shrine,No,,,Not Listed,,Good,,
+ASI-IND-0377,Sonbhadra Watchtower,Agra,Uttar Pradesh,Sonbhadra,Hilly/Remote,Mughal,Palace/Haveli,No,,,Not Listed,12007.0,Endangered,15134.0,17096.0
+ASI-IND-0378,Jalgaon Ashokan Pillar,Aurangabad,Maharashtra,Jalgaon,Forest/Sanctuary,Classical,Temple/Shrine,No,,,Not Listed,81687.0,Good,95804.0,108338.0
+ASI-IND-0379,Jalaun Memorial Cenotaph,Agra,Uttar Pradesh,Jalaun,Urban,Classical,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0380,Thane Stone Enclosure,Aurangabad,Maharashtra,Thane,Rural,Mughal,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0381,Jalore Tomb,Jaipur,Rajasthan,Jalore,Urban,Prehistoric,Pillar/Inscription,No,,,Not Listed,26652.0,Endangered,33264.0,36991.0
+ASI-IND-0382,Ayodhya Palace Remains,Agra,Uttar Pradesh,Ayodhya,Urban,Colonial,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0383,Central Ancient Mound,Ranchi,Jharkhand,Central,Forest/Sanctuary,Classical,Palace/Haveli,No,,,Not Listed,27243.0,Endangered,31351.0,36854.0
+ASI-IND-0384,Pune Great Stupa,Mumbai,Maharashtra,Pune,,Colonial,Cave/Rock-Cut,No,,,Not Listed,61573.0,Needs Immediate Attention,79905.0,92144.0
+ASI-IND-0385,Kannur Stone Enclosure,Thrissur,Kerala,Kannur,Hilly/Remote,Medieval,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0386,Satna Ashokan Pillar,Bhopal,Madhya Pradesh,Satna,Rural,Ancient,Temple/Shrine,Yes,35.0,550.0,Not Listed,676264.0,Endangered,868503.0,1003406.0
+ASI-IND-0387,Chandrapur Stepwell,Aurangabad,Maharashtra,Chandrapur,Hilly/Remote,Sultanate,Mosque/Tomb,No,,,Not Listed,31773.0,Needs Immediate Attention,39681.0,43745.0
+ASI-IND-0388,Chikkamagaluru Watchtower,Dharwad,Karnataka,Chikkamagaluru,Rural,Medieval,Cave/Rock-Cut,Yes,30.0,500.0,Tentative List,145666.0,Fair,175049.0,199770.0
+ASI-IND-0389,Bhadrak Stone Enclosure,Bhubaneswar,Odisha,Bhadrak,Forest/Sanctuary,Colonial,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0390,West Champaran Ashokan Pillar,Patna,Bihar,West Champaran,Hilly/Remote,Ancient,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0391,Mahisagar Mosque,Vadodara,Gujarat,Mahisagar,Hilly/Remote,Medieval,Cave/Rock-Cut,No,,,Tentative List,,Fair,,
+ASI-IND-0392,Central Ancient Bridge,Raipur,Chhattisgarh,Central,Rural,Ancient,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0393,Kozhikode Great Stupa,Thrissur,Kerala,Kozhikode,Forest/Sanctuary,Ancient,Temple/Shrine,Yes,30.0,300.0,Not Listed,828564.0,Good,1067433.0,1182413.0
+ASI-IND-0394,Gadag Stepwell,Bengaluru,Karnataka,Gadag,Hilly/Remote,Prehistoric,Pillar/Inscription,No,,,Not Listed,94804.0,Needs Immediate Attention,111026.0,131556.0
+ASI-IND-0395,Yadgir Great Stupa,Bengaluru,Karnataka,Yadgir,Forest/Sanctuary,Prehistoric,Fort/Bastion,No,,,Not Listed,36028.0,Fair,42648.0,46935.0
+ASI-IND-0396,Faridkot Great Stupa,Chandigarh,Punjab,Faridkot,Rural,Sultanate,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0397,Central Inscribed Rock,Raipur,Chhattisgarh,Central,Hilly/Remote,Medieval,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0398,Datia Ashokan Pillar,Bhopal,Madhya Pradesh,Datia,Rural,Colonial,Temple/Shrine,No,,,Not Listed,52793.0,Good,65617.0,76955.0
+ASI-IND-0399,Prakasam Rock-Cut Caves,Amaravati,Andhra Pradesh,Prakasam,Hilly/Remote,Ancient,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0400,Gadchiroli Tomb,Mumbai,Maharashtra,Gadchiroli,Forest/Sanctuary,,Mosque/Tomb,No,,,Not Listed,101830.0,Good,117119.0,131424.0
+ASI-IND-0401,Kolar Rock-Cut Caves,Dharwad,Karnataka,Kolar,Hilly/Remote,Maratha,Stupa/Monastery,No,,,Tentative List,83912.0,Endangered,106029.0,119106.0
+ASI-IND-0402,Ratnagiri Rock-Cut Caves,Mumbai,Maharashtra,Ratnagiri,Urban,Colonial,Fort/Bastion,No,,,Not Listed,40507.0,Fair,52569.0,62151.0
+ASI-IND-0403,Tumakuru Fort,Bengaluru,Karnataka,Tumakuru,Forest/Sanctuary,Maratha,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0404,Kancheepuram Rock-Cut Caves,Chennai,Tamil Nadu,Kancheepuram,Forest/Sanctuary,Colonial,Cave/Rock-Cut,No,,,Not Listed,97230.0,Good,118526.0,138218.0
+ASI-IND-0405,Central Ancient Mound,Ranchi,Jharkhand,Central,Hilly/Remote,Ancient,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0406,Jalpaiguri Stepwell,Kolkata,West Bengal,Jalpaiguri,Urban,,Watchtower/Gate,No,,,Not Listed,97006.0,Fair,117521.0,139640.0
+ASI-IND-0407,Raigad Mosque,Aurangabad,Maharashtra,Raigad,Hilly/Remote,Prehistoric,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0408,Beed Ancient Bridge,Mumbai,Maharashtra,Beed,Urban,Sultanate,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0409,Hoshiarpur Mosque,Chandigarh,Punjab,Hoshiarpur,,Mughal,Temple/Shrine,No,,,Not Listed,15221.0,Good,18526.0,20063.0
+ASI-IND-0410,Basti Palace Remains,Agra,Uttar Pradesh,Basti,Urban,,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0411,Ranga Reddy Tomb,Hyderabad,Telangana,Ranga Reddy,Urban,,Pillar/Inscription,No,,,Not Listed,76903.0,Good,94515.0,112236.0
+ASI-IND-0412,Pauri Garhwal Fort,Dehradun,Uttarakhand,Pauri Garhwal,Hilly/Remote,Colonial,Temple/Shrine,No,,,Not Listed,68424.0,Fair,81938.0,91193.0
+ASI-IND-0413,Ganderbal Temple Complex,Srinagar,Jammu & Kashmir,Ganderbal,Hilly/Remote,Ancient,Stupa/Monastery,No,,,Not Listed,49484.0,Fair,58823.0,65456.0
+ASI-IND-0414,Belagavi Monastery Ruin,Dharwad,Karnataka,Belagavi,,Medieval,Stupa/Monastery,Yes,25.0,250.0,Not Listed,929036.0,Endangered,1073652.0,1198533.0
+ASI-IND-0415,Warangal Stone Enclosure,Hyderabad,Telangana,Warangal,Hilly/Remote,Maratha,Temple/Shrine,No,,,Tentative List,,Fair,,
+ASI-IND-0416,East Delhi Tomb,Delhi,Delhi,East Delhi,Urban,Classical,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0417,Khurda Palace Remains,Bhubaneswar,Odisha,Khurda,Rural,Maratha,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0418,Thiruvananthapuram Fort,Thrissur,Kerala,Thiruvananthapuram,Hilly/Remote,Medieval,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0419,Central Ashokan Pillar,Raipur,Chhattisgarh,Central,Urban,Ancient,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-0420,Banaskantha Inscribed Rock,Vadodara,Gujarat,Banaskantha,Hilly/Remote,Ancient,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0421,Kolkata Stepwell,Kolkata,West Bengal,Kolkata,Hilly/Remote,Ancient,Stupa/Monastery,No,,,Not Listed,49251.0,Good,60359.0,71943.0
+ASI-IND-0422,Sonitpur Stepwell,Guwahati,Assam,Sonitpur,Rural,Prehistoric,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0423,Central Tomb,Raipur,Chhattisgarh,Central,Hilly/Remote,Colonial,Stepwell/Baoli,No,,,Not Listed,102936.0,Needs Immediate Attention,132834.0,145850.0
+ASI-IND-0424,Kolkata Tomb,Kolkata,West Bengal,Kolkata,Hilly/Remote,Prehistoric,Temple/Shrine,No,,,Not Listed,33316.0,Endangered,42348.0,46193.0
+ASI-IND-0425,Doda Ancient Mound,Srinagar,Jammu & Kashmir,Doda,Hilly/Remote,Prehistoric,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0426,Akola Monastery Ruin,Mumbai,Maharashtra,Akola,Hilly/Remote,,Watchtower/Gate,No,,,Not Listed,59406.0,Endangered,71023.0,77674.0
+ASI-IND-0427,Burhanpur Rock-Cut Caves,Jabalpur,Madhya Pradesh,Burhanpur,Forest/Sanctuary,Mughal,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0428,East Delhi Fort,Delhi,Delhi,East Delhi,Rural,Ancient,Watchtower/Gate,Yes,40.0,1100.0,Not Listed,508421.0,Good,605591.0,675842.0
+ASI-IND-0429,Nilgiris Memorial Cenotaph,Chennai,Tamil Nadu,Nilgiris,,Prehistoric,Fort/Bastion,No,,,World Heritage Site,,Fair,,
+ASI-IND-0430,Nagaur Rock-Cut Caves,Jaipur,Rajasthan,Nagaur,Urban,Classical,Pillar/Inscription,No,,,Not Listed,48907.0,Endangered,59487.0,68559.0
+ASI-IND-0431,Beed Monastery Ruin,Mumbai,Maharashtra,Beed,Urban,Sultanate,Pillar/Inscription,No,,,Not Listed,76075.0,Good,88135.0,103824.0
+ASI-IND-0432,Jorhat Rock-Cut Caves,Guwahati,Assam,Jorhat,Forest/Sanctuary,Classical,Fort/Bastion,No,,,Not Listed,108534.0,Needs Immediate Attention,140744.0,164862.0
+ASI-IND-0433,Central Memorial Cenotaph,Raipur,Chhattisgarh,Central,Rural,Colonial,Palace/Haveli,No,,,Not Listed,52786.0,Endangered,65363.0,72651.0
+ASI-IND-0434,Sivasagar Monastery Ruin,Guwahati,Assam,Sivasagar,Hilly/Remote,Mughal,Stepwell/Baoli,Yes,25.0,1100.0,Not Listed,304851.0,Fair,376047.0,417201.0
+ASI-IND-0435,Banswara Fort,Jodhpur,Rajasthan,Banswara,Rural,Classical,Fort/Bastion,Yes,35.0,1100.0,Not Listed,846856.0,Good,1057189.0,1264287.0
+ASI-IND-0436,Tikamgarh Ancient Bridge,Bhopal,Madhya Pradesh,Tikamgarh,Rural,Maratha,Mosque/Tomb,Yes,30.0,1100.0,Not Listed,398734.0,Good,488271.0,527815.0
+ASI-IND-0437,SAS Nagar Stepwell,Chandigarh,Punjab,SAS Nagar,Urban,Medieval,Watchtower/Gate,No,,,Not Listed,114937.0,Endangered,132730.0,157360.0
+ASI-IND-0438,Bengaluru Urban Memorial Cenotaph,Bengaluru,Karnataka,Bengaluru Urban,Urban,Sultanate,Fort/Bastion,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0439,Central Watchtower,Raipur,Chhattisgarh,Central,Rural,Classical,Temple/Shrine,No,,,Not Listed,79343.0,Needs Immediate Attention,99768.0,119090.0
+ASI-IND-0440,East Delhi Monastery Ruin,Delhi,Delhi,East Delhi,Hilly/Remote,Mughal,Stepwell/Baoli,No,,,Not Listed,18751.0,Endangered,22736.0,25489.0
+ASI-IND-0441,Mandya Memorial Cenotaph,Dharwad,Karnataka,Mandya,Hilly/Remote,Maratha,Stepwell/Baoli,No,,,Not Listed,85411.0,Fair,107925.0,122262.0
+ASI-IND-0442,Kendrapara Mosque,Bhubaneswar,Odisha,Kendrapara,Rural,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,28489.0,Good,33732.0,39293.0
+ASI-IND-0443,Kandhamal Temple Complex,Bhubaneswar,Odisha,Kandhamal,Forest/Sanctuary,Classical,Palace/Haveli,Yes,30.0,500.0,Tentative List,67080.0,Needs Immediate Attention,79368.0,91314.0
+ASI-IND-0444,Mahabubnagar Palace Remains,Hyderabad,Telangana,Mahabubnagar,Forest/Sanctuary,Classical,Stupa/Monastery,Yes,35.0,1100.0,World Heritage Site,656333.0,Good,770674.0,861731.0
+ASI-IND-0445,Srinagar Mosque,Srinagar,Jammu & Kashmir,Srinagar,Rural,Colonial,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0446,Ahmednagar Great Stupa,Mumbai,Maharashtra,Ahmednagar,Hilly/Remote,Classical,Cave/Rock-Cut,No,,,Not Listed,101753.0,Fair,129944.0,151734.0
+ASI-IND-0447,Gaya Great Stupa,Patna,Bihar,Gaya,Hilly/Remote,Medieval,Fort/Bastion,No,,,Not Listed,101818.0,Fair,129735.0,140773.0
+ASI-IND-0448,West Godavari Ancient Mound,Amaravati,Andhra Pradesh,West Godavari,Hilly/Remote,Colonial,Palace/Haveli,No,,,Not Listed,105531.0,Needs Immediate Attention,127421.0,137786.0
+ASI-IND-0449,Kheda Mosque,Vadodara,Gujarat,Kheda,Rural,Ancient,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0450,New Delhi Ancient Mound,Delhi,Delhi,New Delhi,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,92343.0,Endangered,116179.0,127311.0
+ASI-IND-0451,Osmanabad Temple Complex,Mumbai,Maharashtra,Osmanabad,Rural,Colonial,Mosque/Tomb,No,,,Not Listed,37880.0,Needs Immediate Attention,44933.0,52110.0
+ASI-IND-0452,East Delhi Watchtower,Delhi,Delhi,East Delhi,Forest/Sanctuary,Classical,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0453,Nilgiris Ancient Bridge,Chennai,Tamil Nadu,Nilgiris,Urban,Ancient,Cave/Rock-Cut,Yes,50.0,1100.0,Tentative List,335648.0,Good,434938.0,492325.0
+ASI-IND-0454,Central Inscribed Rock,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,30168.0,Fair,37488.0,41376.0
+ASI-IND-0455,Nellore Tomb,Amaravati,Andhra Pradesh,Nellore,Rural,Classical,Watchtower/Gate,Yes,35.0,300.0,Tentative List,427776.0,Fair,554916.0,635833.0
+ASI-IND-0456,Central Delhi Great Stupa,Delhi,Delhi,Central Delhi,Forest/Sanctuary,,Fort/Bastion,No,,,Not Listed,65570.0,Needs Immediate Attention,78727.0,86122.0
+ASI-IND-0457,Hyderabad Tomb,Hyderabad,Telangana,Hyderabad,Hilly/Remote,Ancient,Pillar/Inscription,No,,,Not Listed,12800.0,Good,16070.0,17400.0
+ASI-IND-0458,Jodhpur Palace Remains,Jaipur,Rajasthan,Jodhpur,Forest/Sanctuary,Classical,Mosque/Tomb,No,,,Not Listed,82370.0,Endangered,97476.0,105872.0
+ASI-IND-0459,Central Temple Complex,Raipur,Chhattisgarh,Central,Rural,Medieval,Pillar/Inscription,No,,,Not Listed,36258.0,Endangered,43117.0,51504.0
+ASI-IND-0460,Kolar Ancient Bridge,Dharwad,Karnataka,Kolar,Rural,Medieval,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-0461,Ganganagar Mosque,Jaipur,Rajasthan,Ganganagar,Urban,Colonial,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0462,Amravati Great Stupa,Mumbai,Maharashtra,Amravati,Urban,Prehistoric,Temple/Shrine,No,,,Not Listed,29917.0,Needs Immediate Attention,35157.0,38256.0
+ASI-IND-0463,Dharmapuri Watchtower,Chennai,Tamil Nadu,Dharmapuri,Hilly/Remote,Sultanate,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0464,Theni Watchtower,Chennai,Tamil Nadu,Theni,Urban,Sultanate,Stepwell/Baoli,No,,,Not Listed,79800.0,Good,92198.0,105204.0
+ASI-IND-0465,Muzaffarpur Stone Enclosure,Patna,Bihar,Muzaffarpur,Forest/Sanctuary,Mughal,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0466,Ramban Memorial Cenotaph,Srinagar,Jammu & Kashmir,Ramban,Hilly/Remote,Maratha,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0467,Malappuram Ashokan Pillar,Thrissur,Kerala,Malappuram,Rural,Sultanate,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0468,South Delhi Tomb,Delhi,Delhi,South Delhi,Hilly/Remote,,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0469,Porbandar Gateway,Vadodara,Gujarat,Porbandar,Urban,Classical,Fort/Bastion,No,,,Not Listed,80714.0,Endangered,94062.0,108383.0
+ASI-IND-0470,Hamirpur Ancient Bridge,Agra,Uttar Pradesh,Hamirpur,Urban,Prehistoric,Palace/Haveli,Yes,30.0,550.0,World Heritage Site,582403.0,Needs Immediate Attention,723280.0,820630.0
+ASI-IND-0471,Nagaur Stepwell,Jaipur,Rajasthan,Nagaur,,Classical,Pillar/Inscription,No,,,World Heritage Site,98576.0,Fair,114755.0,128840.0
+ASI-IND-0472,Udham Singh Nagar Rock-Cut Caves,Dehradun,Uttarakhand,Udham Singh Nagar,Rural,Mughal,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-0473,New Delhi Inscribed Rock,Delhi,Delhi,New Delhi,Hilly/Remote,Prehistoric,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0474,Central Fort,Ranchi,Jharkhand,Central,Forest/Sanctuary,,Stepwell/Baoli,No,,,Not Listed,113352.0,Endangered,134595.0,154715.0
+ASI-IND-0475,Chhatrapati Sambhajinagar Inscribed Rock,Aurangabad,Maharashtra,Chhatrapati Sambhajinagar,,,Stupa/Monastery,No,,,Not Listed,91848.0,Good,117896.0,130609.0
+ASI-IND-0476,Central Rock-Cut Caves,Ranchi,Jharkhand,Central,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Not Listed,80815.0,Good,101647.0,110348.0
+ASI-IND-0477,Junagadh Ancient Mound,Vadodara,Gujarat,Junagadh,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-0478,Mahabubnagar Rock-Cut Caves,Hyderabad,Telangana,Mahabubnagar,Rural,Maratha,Cave/Rock-Cut,No,,,Not Listed,83191.0,Needs Immediate Attention,105916.0,118377.0
+ASI-IND-0479,Kendrapara Inscribed Rock,Bhubaneswar,Odisha,Kendrapara,Urban,Maratha,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0480,Gadag Ancient Bridge,Dharwad,Karnataka,Gadag,Hilly/Remote,Colonial,Temple/Shrine,No,,,Not Listed,117001.0,Fair,149412.0,163420.0
+ASI-IND-0481,Birbhum Rock-Cut Caves,Kolkata,West Bengal,Birbhum,Hilly/Remote,Classical,Mosque/Tomb,Yes,30.0,500.0,Not Listed,391406.0,Needs Immediate Attention,485387.0,572966.0
+ASI-IND-0482,Pithoragarh Fort,Dehradun,Uttarakhand,Pithoragarh,Forest/Sanctuary,Colonial,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0483,North Delhi Rock-Cut Caves,Delhi,Delhi,North Delhi,Hilly/Remote,Sultanate,Pillar/Inscription,No,,,Not Listed,10395.0,Endangered,13503.0,15935.0
+ASI-IND-0484,Dhule Inscribed Rock,Aurangabad,Maharashtra,Dhule,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,No,,,Not Listed,97808.0,Fair,115888.0,127110.0
+ASI-IND-0485,Shajapur Inscribed Rock,Bhopal,Madhya Pradesh,Shajapur,Forest/Sanctuary,,Stupa/Monastery,No,,,Not Listed,109544.0,Fair,136228.0,161619.0
+ASI-IND-0486,Ballia Gateway,Agra,Uttar Pradesh,Ballia,Urban,Mughal,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0487,Adilabad Ashokan Pillar,Hyderabad,Telangana,Adilabad,Rural,Colonial,Pillar/Inscription,No,,,Not Listed,79931.0,Needs Immediate Attention,92394.0,101611.0
+ASI-IND-0488,Dehradun Ancient Bridge,Dehradun,Uttarakhand,Dehradun,Forest/Sanctuary,Classical,Palace/Haveli,Yes,30.0,500.0,World Heritage Site,827117.0,Endangered,952980.0,1093924.0
+ASI-IND-0489,Dehradun Ancient Mound,Dehradun,Uttarakhand,Dehradun,Hilly/Remote,Medieval,Pillar/Inscription,Yes,30.0,500.0,Not Listed,330940.0,Endangered,386500.0,431921.0
+ASI-IND-0490,Krishna Stone Enclosure,Amaravati,Andhra Pradesh,Krishna,Urban,,Stepwell/Baoli,No,,,Not Listed,10684.0,Needs Immediate Attention,13327.0,14678.0
+ASI-IND-0491,Ajmer Palace Remains,Jaipur,Rajasthan,Ajmer,Hilly/Remote,Ancient,Cave/Rock-Cut,No,,,Not Listed,33435.0,Endangered,41295.0,48856.0
+ASI-IND-0492,Rohtas Stepwell,Patna,Bihar,Rohtas,Urban,Maratha,Watchtower/Gate,No,,,Not Listed,7353.0,Good,9066.0,10230.0
+ASI-IND-0493,Belagavi Mosque,Bengaluru,Karnataka,Belagavi,Forest/Sanctuary,Prehistoric,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0494,Jalna Stone Enclosure,Mumbai,Maharashtra,Jalna,Forest/Sanctuary,Colonial,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0495,Tumakuru Rock-Cut Caves,Dharwad,Karnataka,Tumakuru,Urban,Sultanate,Mosque/Tomb,No,,,Not Listed,71095.0,Needs Immediate Attention,91620.0,103161.0
+ASI-IND-0496,Indore Ashokan Pillar,Jabalpur,Madhya Pradesh,Indore,Hilly/Remote,Mughal,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0497,Neemuch Gateway,Bhopal,Madhya Pradesh,Neemuch,Rural,Prehistoric,Stupa/Monastery,No,,,Not Listed,95333.0,Fair,118569.0,133221.0
+ASI-IND-0498,Surendranagar Ashokan Pillar,Vadodara,Gujarat,Surendranagar,Rural,Ancient,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0499,Central Inscribed Rock,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Ancient,Temple/Shrine,No,,,Not Listed,44936.0,Fair,56960.0,67985.0
+ASI-IND-0500,Bhopal Ashokan Pillar,Jabalpur,Madhya Pradesh,Bhopal,Urban,Prehistoric,Stepwell/Baoli,No,,,Not Listed,71299.0,Needs Immediate Attention,87547.0,96073.0
+ASI-IND-0501,Satara Stone Enclosure,Mumbai,Maharashtra,Satara,Rural,Sultanate,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0502,Moradabad Ashokan Pillar,Agra,Uttar Pradesh,Moradabad,Hilly/Remote,Colonial,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0503,West Delhi Memorial Cenotaph,Delhi,Delhi,West Delhi,Urban,Mughal,Temple/Shrine,No,,,Not Listed,91104.0,Fair,116914.0,131777.0
+ASI-IND-0504,Central Monastery Ruin,Raipur,Chhattisgarh,Central,Rural,Colonial,Stepwell/Baoli,No,,,Not Listed,20208.0,Good,23967.0,25897.0
+ASI-IND-0505,Raichur Memorial Cenotaph,Dharwad,Karnataka,Raichur,Rural,Mughal,Fort/Bastion,Yes,50.0,600.0,Tentative List,784624.0,Good,935297.0,1040859.0
+ASI-IND-0506,Katni Gateway,Jabalpur,Madhya Pradesh,Katni,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0507,Kadapa Fort,Amaravati,Andhra Pradesh,Kadapa,Urban,Sultanate,Watchtower/Gate,No,,,Not Listed,35594.0,Endangered,45181.0,53129.0
+ASI-IND-0508,North Delhi Ashokan Pillar,Delhi,Delhi,North Delhi,Hilly/Remote,,Watchtower/Gate,No,,,Not Listed,91530.0,Endangered,110985.0,121640.0
+ASI-IND-0509,Datia Monastery Ruin,Bhopal,Madhya Pradesh,Datia,Urban,Ancient,Stupa/Monastery,Yes,50.0,1100.0,Not Listed,853766.0,Needs Immediate Attention,1011173.0,1105480.0
+ASI-IND-0510,Ramanagara Tomb,Bengaluru,Karnataka,Ramanagara,Urban,Maratha,Watchtower/Gate,No,,,Not Listed,36302.0,Endangered,43009.0,51209.0
+ASI-IND-0511,Mayiladuthurai Fort,Chennai,Tamil Nadu,Mayiladuthurai,Hilly/Remote,Ancient,Mosque/Tomb,No,,,Not Listed,9769.0,Needs Immediate Attention,12555.0,14691.0
+ASI-IND-0512,Pathankot Palace Remains,Chandigarh,Punjab,Pathankot,,Sultanate,Fort/Bastion,No,,,Not Listed,86396.0,Fair,110162.0,126772.0
+ASI-IND-0513,Bankura Mosque,Kolkata,West Bengal,Bankura,Rural,,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0514,Ranipet Ancient Mound,Chennai,Tamil Nadu,Ranipet,Hilly/Remote,Maratha,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0515,Pithoragarh Ancient Mound,Dehradun,Uttarakhand,Pithoragarh,Urban,Maratha,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0516,Porbandar Ancient Bridge,Vadodara,Gujarat,Porbandar,Urban,Maratha,Pillar/Inscription,No,,,Not Listed,71451.0,Fair,86366.0,97129.0
+ASI-IND-0517,Aligarh Memorial Cenotaph,Agra,Uttar Pradesh,Aligarh,Hilly/Remote,Ancient,Pillar/Inscription,No,,,Not Listed,92486.0,Needs Immediate Attention,119059.0,132071.0
+ASI-IND-0518,Central Fort,Raipur,Chhattisgarh,Central,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,117622.0,Good,137482.0,160508.0
+ASI-IND-0519,Central Temple Complex,Ranchi,Jharkhand,Central,Rural,,Stupa/Monastery,No,,,Tentative List,41187.0,Fair,49950.0,56462.0
+ASI-IND-0520,Puri Inscribed Rock,Bhubaneswar,Odisha,Puri,Hilly/Remote,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,111594.0,Endangered,134101.0,160622.0
+ASI-IND-0521,Hathras Palace Remains,Agra,Uttar Pradesh,Hathras,Forest/Sanctuary,Ancient,Temple/Shrine,Yes,25.0,300.0,Not Listed,557016.0,Fair,682190.0,765375.0
+ASI-IND-0522,Bageshwar Great Stupa,Dehradun,Uttarakhand,Bageshwar,Hilly/Remote,Colonial,Temple/Shrine,No,,,Not Listed,39490.0,Needs Immediate Attention,48124.0,57297.0
+ASI-IND-0523,Mumbai Suburban Stone Enclosure,Mumbai,Maharashtra,Mumbai Suburban,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0524,Solapur Fort,Aurangabad,Maharashtra,Solapur,Urban,Classical,Watchtower/Gate,No,,,Not Listed,9627.0,Good,11273.0,12502.0
+ASI-IND-0525,Reasi Great Stupa,Srinagar,Jammu & Kashmir,Reasi,Forest/Sanctuary,Mughal,Cave/Rock-Cut,No,,,Tentative List,,Fair,,
+ASI-IND-0526,Bhandara Stone Enclosure,Aurangabad,Maharashtra,Bhandara,Rural,Mughal,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0527,North Delhi Temple Complex,Delhi,Delhi,North Delhi,Rural,Prehistoric,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0528,New Delhi Watchtower,Delhi,Delhi,New Delhi,Urban,Mughal,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0529,Central Watchtower,Raipur,Chhattisgarh,Central,Hilly/Remote,Mughal,Pillar/Inscription,No,,,Not Listed,52044.0,Needs Immediate Attention,65804.0,76946.0
+ASI-IND-0530,Dungarpur Fort,Jodhpur,Rajasthan,Dungarpur,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,82563.0,Good,100241.0,113877.0
+ASI-IND-0531,Banda Stone Enclosure,Agra,Uttar Pradesh,Banda,Forest/Sanctuary,Sultanate,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0532,Kaushambi Mosque,Agra,Uttar Pradesh,Kaushambi,,Ancient,Fort/Bastion,Yes,40.0,550.0,Not Listed,398948.0,Endangered,502331.0,554534.0
+ASI-IND-0533,Sonitpur Rock-Cut Caves,Guwahati,Assam,Sonitpur,Forest/Sanctuary,Classical,Stupa/Monastery,No,,,Not Listed,110795.0,Fair,138704.0,156881.0
+ASI-IND-0534,Central Temple Complex,Raipur,Chhattisgarh,Central,Hilly/Remote,Classical,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0535,Jhansi Ashokan Pillar,Agra,Uttar Pradesh,Jhansi,Urban,Colonial,Temple/Shrine,Yes,35.0,600.0,World Heritage Site,362283.0,Endangered,437705.0,504503.0
+ASI-IND-0536,Alappuzha Temple Complex,Thrissur,Kerala,Alappuzha,Hilly/Remote,Prehistoric,Pillar/Inscription,Yes,25.0,300.0,Not Listed,157216.0,Needs Immediate Attention,189664.0,220510.0
+ASI-IND-0537,Gir Somnath Fort,Vadodara,Gujarat,Gir Somnath,Urban,Prehistoric,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0538,Sivaganga Stone Enclosure,Chennai,Tamil Nadu,Sivaganga,Forest/Sanctuary,Ancient,Pillar/Inscription,No,,,Not Listed,60273.0,Endangered,73787.0,83953.0
+ASI-IND-0539,West Champaran Ancient Mound,Patna,Bihar,West Champaran,Forest/Sanctuary,Maratha,Palace/Haveli,No,,,Not Listed,27844.0,Endangered,35567.0,38602.0
+ASI-IND-0540,Nadia Watchtower,Kolkata,West Bengal,Nadia,Forest/Sanctuary,Prehistoric,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0541,Central Temple Complex,Raipur,Chhattisgarh,Central,Rural,Sultanate,Pillar/Inscription,No,,,Not Listed,119085.0,Endangered,139994.0,167823.0
+ASI-IND-0542,Kozhikode Temple Complex,Thrissur,Kerala,Kozhikode,Urban,Classical,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0543,Rajouri Tomb,Srinagar,Jammu & Kashmir,Rajouri,Forest/Sanctuary,,Temple/Shrine,No,,,Not Listed,93506.0,Fair,116374.0,125837.0
+ASI-IND-0544,Koppal Great Stupa,Dharwad,Karnataka,Koppal,Urban,Classical,Stepwell/Baoli,No,,,Not Listed,107252.0,Fair,128186.0,141053.0
+ASI-IND-0545,Gorakhpur Monastery Ruin,Agra,Uttar Pradesh,Gorakhpur,Rural,Sultanate,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0546,Palakkad Stone Enclosure,Thrissur,Kerala,Palakkad,Rural,Medieval,Palace/Haveli,No,,,Not Listed,22406.0,Good,28754.0,33166.0
+ASI-IND-0547,Pathankot Ancient Mound,Chandigarh,Punjab,Pathankot,Forest/Sanctuary,Mughal,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0548,Dang Fort,Vadodara,Gujarat,Dang,Rural,Maratha,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0549,Bharatpur Ancient Bridge,Jodhpur,Rajasthan,Bharatpur,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,20622.0,Needs Immediate Attention,25935.0,30386.0
+ASI-IND-0550,Karimnagar Palace Remains,Hyderabad,Telangana,Karimnagar,Hilly/Remote,Prehistoric,Palace/Haveli,No,,,Not Listed,114882.0,Fair,145257.0,168870.0
+ASI-IND-0551,Bhind Inscribed Rock,Jabalpur,Madhya Pradesh,Bhind,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,35945.0,Endangered,42423.0,47460.0
+ASI-IND-0552,Kozhikode Tomb,Thrissur,Kerala,Kozhikode,Hilly/Remote,Prehistoric,Fort/Bastion,No,,,Tentative List,,Needs Immediate Attention,,
+ASI-IND-0553,Guna Ancient Bridge,Bhopal,Madhya Pradesh,Guna,Forest/Sanctuary,Mughal,Watchtower/Gate,No,,,Not Listed,19090.0,Fair,23446.0,25736.0
+ASI-IND-0554,Nagaon Temple Complex,Guwahati,Assam,Nagaon,Rural,Mughal,Watchtower/Gate,No,,,Not Listed,50988.0,Fair,59952.0,68004.0
+ASI-IND-0555,Ratlam Stepwell,Jabalpur,Madhya Pradesh,Ratlam,Urban,Maratha,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0556,Nandurbar Stepwell,Aurangabad,Maharashtra,Nandurbar,Urban,,Temple/Shrine,No,,,Not Listed,90067.0,Good,107920.0,122008.0
+ASI-IND-0557,Central Ancient Bridge,Raipur,Chhattisgarh,Central,Rural,Maratha,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0558,Thoothukudi Stone Enclosure,Chennai,Tamil Nadu,Thoothukudi,Forest/Sanctuary,Classical,Stepwell/Baoli,No,,,Not Listed,82349.0,Good,97236.0,111902.0
+ASI-IND-0559,Ganjam Watchtower,Bhubaneswar,Odisha,Ganjam,Forest/Sanctuary,Mughal,Fort/Bastion,No,,,World Heritage Site,,Fair,,
+ASI-IND-0560,Purulia Temple Complex,Kolkata,West Bengal,Purulia,Hilly/Remote,Colonial,Stepwell/Baoli,No,,,Not Listed,64393.0,Needs Immediate Attention,75667.0,86997.0
+ASI-IND-0561,Rajgarh Tomb,Bhopal,Madhya Pradesh,Rajgarh,Hilly/Remote,Medieval,Watchtower/Gate,Yes,30.0,300.0,Not Listed,380803.0,Needs Immediate Attention,439549.0,501401.0
+ASI-IND-0562,Uttar Dinajpur Temple Complex,Kolkata,West Bengal,Uttar Dinajpur,Urban,Ancient,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0563,Agra Gateway,Agra,Uttar Pradesh,Agra,Forest/Sanctuary,Colonial,Watchtower/Gate,No,,,Not Listed,85696.0,Fair,111096.0,121579.0
+ASI-IND-0564,Central Delhi Fort,Delhi,Delhi,Central Delhi,Urban,Classical,Stupa/Monastery,No,,,Not Listed,80874.0,Needs Immediate Attention,97023.0,109636.0
+ASI-IND-0565,Karimnagar Mosque,Hyderabad,Telangana,Karimnagar,Hilly/Remote,,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0566,Dhubri Tomb,Guwahati,Assam,Dhubri,Rural,Mughal,Mosque/Tomb,No,,,Not Listed,34657.0,Endangered,42821.0,46754.0
+ASI-IND-0567,Mayurbhanj Inscribed Rock,Bhubaneswar,Odisha,Mayurbhanj,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,101341.0,Fair,130320.0,147250.0
+ASI-IND-0568,Davangere Monastery Ruin,Dharwad,Karnataka,Davangere,Hilly/Remote,Medieval,Watchtower/Gate,No,,,Not Listed,110460.0,Good,140020.0,156353.0
+ASI-IND-0569,Gaya Fort,Patna,Bihar,Gaya,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Not Listed,102852.0,Good,127884.0,152318.0
+ASI-IND-0570,Central Great Stupa,Ranchi,Jharkhand,Central,Hilly/Remote,Medieval,Fort/Bastion,No,,,Not Listed,99260.0,Good,118840.0,133705.0
+ASI-IND-0571,Guna Ashokan Pillar,Bhopal,Madhya Pradesh,Guna,Urban,Classical,Pillar/Inscription,No,,,Not Listed,73759.0,Needs Immediate Attention,90818.0,106343.0
+ASI-IND-0572,Dewas Ashokan Pillar,Bhopal,Madhya Pradesh,Dewas,,,Mosque/Tomb,No,,,Not Listed,48928.0,Good,56937.0,65115.0
+ASI-IND-0573,Ganderbal Fort,Srinagar,Jammu & Kashmir,Ganderbal,Urban,Ancient,Temple/Shrine,No,,,Not Listed,89692.0,Endangered,112280.0,130749.0
+ASI-IND-0574,Sonitpur Tomb,Guwahati,Assam,Sonitpur,Rural,Maratha,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-0575,Firozabad Gateway,Agra,Uttar Pradesh,Firozabad,Urban,Sultanate,Stupa/Monastery,No,,,Not Listed,93096.0,Endangered,120536.0,143803.0
+ASI-IND-0576,Jammu Fort,Srinagar,Jammu & Kashmir,Jammu,Hilly/Remote,Ancient,Stupa/Monastery,No,,,Not Listed,105880.0,Needs Immediate Attention,125898.0,143978.0
+ASI-IND-0577,East Delhi Monastery Ruin,Delhi,Delhi,East Delhi,Forest/Sanctuary,Medieval,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0578,Central Gateway,Ranchi,Jharkhand,Central,Urban,Classical,Fort/Bastion,Yes,40.0,300.0,Not Listed,717078.0,Needs Immediate Attention,883326.0,992687.0
+ASI-IND-0579,Chhatarpur Ancient Bridge,Jabalpur,Madhya Pradesh,Chhatarpur,,Medieval,Fort/Bastion,No,,,Tentative List,77381.0,Needs Immediate Attention,97192.0,106136.0
+ASI-IND-0580,Banswara Palace Remains,Jodhpur,Rajasthan,Banswara,Forest/Sanctuary,Medieval,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-0581,Alwar Gateway,Jodhpur,Rajasthan,Alwar,Hilly/Remote,Maratha,Fort/Bastion,No,,,Not Listed,69162.0,Needs Immediate Attention,81546.0,88146.0
+ASI-IND-0582,Bhavnagar Inscribed Rock,Vadodara,Gujarat,Bhavnagar,Forest/Sanctuary,Ancient,Fort/Bastion,Yes,35.0,500.0,Not Listed,469892.0,Endangered,558825.0,635404.0
+ASI-IND-0583,Bundi Palace Remains,Jaipur,Rajasthan,Bundi,Hilly/Remote,Mughal,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-0584,Udaipur Gateway,Jodhpur,Rajasthan,Udaipur,Forest/Sanctuary,Sultanate,Pillar/Inscription,Yes,50.0,500.0,World Heritage Site,939173.0,Good,1126623.0,1301571.0
+ASI-IND-0585,Gir Somnath Inscribed Rock,Vadodara,Gujarat,Gir Somnath,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-0586,Central Palace Remains,Ranchi,Jharkhand,Central,Rural,Prehistoric,Pillar/Inscription,No,,,Tentative List,,Needs Immediate Attention,,
+ASI-IND-0587,Dhubri Watchtower,Guwahati,Assam,Dhubri,Rural,Mughal,Watchtower/Gate,No,,,World Heritage Site,46995.0,Fair,59681.0,70310.0
+ASI-IND-0588,Kamrup Ashokan Pillar,Guwahati,Assam,Kamrup,Forest/Sanctuary,Mughal,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0589,Mahabubnagar Rock-Cut Caves,Hyderabad,Telangana,Mahabubnagar,Forest/Sanctuary,Classical,Watchtower/Gate,No,,,Not Listed,44969.0,Good,56929.0,64871.0
+ASI-IND-0590,Bathinda Rock-Cut Caves,Chandigarh,Punjab,Bathinda,Forest/Sanctuary,Medieval,Temple/Shrine,No,,,Not Listed,,Good,,
+ASI-IND-0591,Barmer Great Stupa,Jaipur,Rajasthan,Barmer,Forest/Sanctuary,,Stepwell/Baoli,No,,,Not Listed,108331.0,Endangered,138091.0,163886.0
+ASI-IND-0592,Jhunjhunu Watchtower,Jaipur,Rajasthan,Jhunjhunu,Hilly/Remote,Classical,Mosque/Tomb,No,,,Tentative List,62616.0,Fair,74587.0,87587.0
+ASI-IND-0593,Palghar Palace Remains,Aurangabad,Maharashtra,Palghar,Hilly/Remote,Sultanate,Palace/Haveli,No,,,Not Listed,94337.0,Good,116215.0,129644.0
+ASI-IND-0594,Krishna Ancient Mound,Amaravati,Andhra Pradesh,Krishna,Forest/Sanctuary,,Temple/Shrine,No,,,Not Listed,104617.0,Fair,123668.0,141649.0
+ASI-IND-0595,Pushkar Ancient Mound,Jaipur,Rajasthan,Pushkar,Forest/Sanctuary,Prehistoric,Fort/Bastion,No,,,Not Listed,7864.0,Fair,9605.0,10631.0
+ASI-IND-0596,Kutch Temple Complex,Vadodara,Gujarat,Kutch,Urban,Prehistoric,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0597,Farrukhabad Inscribed Rock,Agra,Uttar Pradesh,Farrukhabad,Rural,Maratha,Stupa/Monastery,No,,,Not Listed,75233.0,Needs Immediate Attention,89528.0,101892.0
+ASI-IND-0598,Central Delhi Gateway,Delhi,Delhi,Central Delhi,Hilly/Remote,Classical,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0599,Budgam Rock-Cut Caves,Srinagar,Jammu & Kashmir,Budgam,Hilly/Remote,,Palace/Haveli,No,,,Not Listed,22074.0,Fair,25915.0,30775.0
+ASI-IND-0600,Karauli Stone Enclosure,Jaipur,Rajasthan,Karauli,Rural,Maratha,Stepwell/Baoli,No,,,Tentative List,,Good,,
+ASI-IND-0601,Jalgaon Fort,Aurangabad,Maharashtra,Jalgaon,,Medieval,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0602,South Delhi Memorial Cenotaph,Delhi,Delhi,South Delhi,Rural,Maratha,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0603,Bathinda Rock-Cut Caves,Chandigarh,Punjab,Bathinda,Forest/Sanctuary,Colonial,Watchtower/Gate,Yes,35.0,1100.0,Not Listed,557052.0,Fair,699019.0,769559.0
+ASI-IND-0604,Bengaluru Urban Watchtower,Bengaluru,Karnataka,Bengaluru Urban,Rural,Colonial,Fort/Bastion,No,,,Not Listed,52032.0,Good,61811.0,71369.0
+ASI-IND-0605,Parbhani Gateway,Aurangabad,Maharashtra,Parbhani,,Colonial,Stepwell/Baoli,No,,,Not Listed,101489.0,Good,117329.0,127067.0
+ASI-IND-0606,Central Gateway,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Prehistoric,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0607,North Delhi Palace Remains,Delhi,Delhi,North Delhi,Urban,Colonial,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0608,Ajmer Great Stupa,Jaipur,Rajasthan,Ajmer,Rural,Medieval,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0609,Central Ashokan Pillar,Ranchi,Jharkhand,Central,,Mughal,Stepwell/Baoli,No,,,Not Listed,,Endangered,,
+ASI-IND-0610,Mysuru Tomb,Dharwad,Karnataka,Mysuru,Rural,Ancient,Fort/Bastion,Yes,30.0,300.0,Not Listed,596998.0,Fair,731448.0,816924.0
+ASI-IND-0611,Mansa Mosque,Chandigarh,Punjab,Mansa,Rural,Prehistoric,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0612,Warangal Stone Enclosure,Hyderabad,Telangana,Warangal,Rural,Mughal,Stupa/Monastery,No,,,Not Listed,73932.0,Needs Immediate Attention,85953.0,101796.0
+ASI-IND-0613,Tinsukia Monastery Ruin,Guwahati,Assam,Tinsukia,Urban,Ancient,Watchtower/Gate,No,,,Tentative List,,Fair,,
+ASI-IND-0614,Chitradurga Temple Complex,Dharwad,Karnataka,Chitradurga,Rural,Maratha,Stupa/Monastery,No,,,Not Listed,105830.0,Fair,132501.0,144392.0
+ASI-IND-0615,Nalanda Tomb,Patna,Bihar,Nalanda,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0616,Amravati Memorial Cenotaph,Mumbai,Maharashtra,Amravati,Rural,Medieval,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-0617,Cooch Behar Rock-Cut Caves,Kolkata,West Bengal,Cooch Behar,Urban,Prehistoric,Fort/Bastion,No,,,Not Listed,115105.0,Good,146582.0,170130.0
+ASI-IND-0618,Kadapa Stepwell,Amaravati,Andhra Pradesh,Kadapa,Hilly/Remote,,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0619,Nizamabad Fort,Hyderabad,Telangana,Nizamabad,Rural,Sultanate,Stepwell/Baoli,Yes,40.0,300.0,Tentative List,251166.0,Needs Immediate Attention,306589.0,336024.0
+ASI-IND-0620,Raisen Monastery Ruin,Bhopal,Madhya Pradesh,Raisen,Hilly/Remote,Sultanate,Cave/Rock-Cut,No,,,Not Listed,106753.0,Good,129138.0,150105.0
+ASI-IND-0621,Srikakulam Fort,Amaravati,Andhra Pradesh,Srikakulam,Urban,Mughal,Stepwell/Baoli,No,,,Not Listed,27770.0,Endangered,33227.0,36732.0
+ASI-IND-0622,Budgam Palace Remains,Srinagar,Jammu & Kashmir,Budgam,Rural,,Pillar/Inscription,Yes,40.0,250.0,Not Listed,677295.0,Endangered,824742.0,975596.0
+ASI-IND-0623,Aravalli Inscribed Rock,Vadodara,Gujarat,Aravalli,Hilly/Remote,Maratha,Mosque/Tomb,No,,,Not Listed,88214.0,Needs Immediate Attention,106530.0,115801.0
+ASI-IND-0624,Udaipur Inscribed Rock,Jodhpur,Rajasthan,Udaipur,Rural,Ancient,Mosque/Tomb,No,,,Not Listed,86749.0,Endangered,105387.0,116543.0
+ASI-IND-0625,Central Stepwell,Raipur,Chhattisgarh,Central,Urban,Maratha,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0626,Central Watchtower,Ranchi,Jharkhand,Central,Urban,Mughal,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0627,Munger Ashokan Pillar,Patna,Bihar,Munger,Hilly/Remote,Maratha,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0628,Sivaganga Great Stupa,Chennai,Tamil Nadu,Sivaganga,Rural,Ancient,Cave/Rock-Cut,No,,,Not Listed,28412.0,Good,34720.0,38259.0
+ASI-IND-0629,East Delhi Great Stupa,Delhi,Delhi,East Delhi,Forest/Sanctuary,Ancient,Stepwell/Baoli,No,,,Not Listed,24934.0,Endangered,31007.0,35757.0
+ASI-IND-0630,Malda Ashokan Pillar,Kolkata,West Bengal,Malda,Hilly/Remote,Prehistoric,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0631,Bharuch Palace Remains,Vadodara,Gujarat,Bharuch,,Ancient,Pillar/Inscription,No,,,Not Listed,17804.0,Fair,21437.0,23961.0
+ASI-IND-0632,Vidisha Ancient Bridge,Jabalpur,Madhya Pradesh,Vidisha,Hilly/Remote,Mughal,Mosque/Tomb,Yes,50.0,550.0,Not Listed,796260.0,Good,967108.0,1140673.0
+ASI-IND-0633,Sonbhadra Ashokan Pillar,Agra,Uttar Pradesh,Sonbhadra,Urban,Ancient,Pillar/Inscription,No,,,Not Listed,41961.0,Fair,50833.0,58580.0
+ASI-IND-0634,Bhadohi Rock-Cut Caves,Agra,Uttar Pradesh,Bhadohi,,Mughal,Fort/Bastion,No,,,Not Listed,91481.0,Endangered,110345.0,124325.0
+ASI-IND-0635,Central Great Stupa,Ranchi,Jharkhand,Central,,Ancient,Cave/Rock-Cut,Yes,50.0,600.0,Not Listed,621333.0,Endangered,800792.0,918442.0
+ASI-IND-0636,North Delhi Memorial Cenotaph,Delhi,Delhi,North Delhi,,Maratha,Temple/Shrine,No,,,Not Listed,47033.0,Needs Immediate Attention,59936.0,68879.0
+ASI-IND-0637,Basti Stepwell,Agra,Uttar Pradesh,Basti,Rural,Prehistoric,Fort/Bastion,No,,,Not Listed,18554.0,Good,21640.0,23801.0
+ASI-IND-0638,Sawai Madhopur Stepwell,Jaipur,Rajasthan,Sawai Madhopur,Forest/Sanctuary,Prehistoric,Temple/Shrine,No,,,Not Listed,,Good,,
+ASI-IND-0639,Warangal Memorial Cenotaph,Hyderabad,Telangana,Warangal,Urban,Prehistoric,Mosque/Tomb,No,,,Not Listed,68613.0,Fair,83309.0,93407.0
+ASI-IND-0640,Anantnag Mosque,Srinagar,Jammu & Kashmir,Anantnag,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Not Listed,42905.0,Good,49976.0,56378.0
+ASI-IND-0641,Firozpur Memorial Cenotaph,Chandigarh,Punjab,Firozpur,Urban,Colonial,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0642,Central Palace Remains,Ranchi,Jharkhand,Central,Urban,Mughal,Fort/Bastion,Yes,50.0,600.0,World Heritage Site,217743.0,Needs Immediate Attention,255098.0,290277.0
+ASI-IND-0643,Kollam Tomb,Thrissur,Kerala,Kollam,Rural,Prehistoric,Palace/Haveli,No,,,Not Listed,85108.0,Fair,104543.0,124703.0
+ASI-IND-0644,Bharatpur Rock-Cut Caves,Jodhpur,Rajasthan,Bharatpur,Hilly/Remote,Medieval,Stupa/Monastery,No,,,Not Listed,96539.0,Needs Immediate Attention,111124.0,123930.0
+ASI-IND-0645,Central Memorial Cenotaph,Raipur,Chhattisgarh,Central,Urban,Ancient,Stepwell/Baoli,Yes,30.0,600.0,Tentative List,777785.0,Needs Immediate Attention,931389.0,1052362.0
+ASI-IND-0646,Namakkal Rock-Cut Caves,Chennai,Tamil Nadu,Namakkal,,Prehistoric,Pillar/Inscription,No,,,Not Listed,12235.0,Good,15313.0,17984.0
+ASI-IND-0647,Srinagar Ancient Bridge,Srinagar,Jammu & Kashmir,Srinagar,Rural,Ancient,Watchtower/Gate,No,,,Not Listed,116384.0,Fair,142292.0,162999.0
+ASI-IND-0648,Kodagu Monastery Ruin,Bengaluru,Karnataka,Kodagu,Rural,,Mosque/Tomb,No,,,Not Listed,54274.0,Fair,70379.0,80629.0
+ASI-IND-0649,Meerut Watchtower,Agra,Uttar Pradesh,Meerut,Rural,Maratha,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0650,Jagatsinghpur Stepwell,Bhubaneswar,Odisha,Jagatsinghpur,Urban,Ancient,Cave/Rock-Cut,No,,,Not Listed,66091.0,Needs Immediate Attention,79564.0,89735.0
+ASI-IND-0651,Pulwama Memorial Cenotaph,Srinagar,Jammu & Kashmir,Pulwama,,Sultanate,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0652,Karimnagar Stone Enclosure,Hyderabad,Telangana,Karimnagar,Hilly/Remote,Ancient,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0653,North Delhi Mosque,Delhi,Delhi,North Delhi,Urban,Maratha,Stupa/Monastery,No,,,Not Listed,41238.0,Good,53060.0,59268.0
+ASI-IND-0654,Tiruppur Rock-Cut Caves,Chennai,Tamil Nadu,Tiruppur,Forest/Sanctuary,,Fort/Bastion,No,,,Not Listed,9045.0,Needs Immediate Attention,11515.0,13658.0
+ASI-IND-0655,Warangal Stepwell,Hyderabad,Telangana,Warangal,Urban,Mughal,Watchtower/Gate,No,,,Not Listed,,Fair,,
+ASI-IND-0656,Latur Watchtower,Mumbai,Maharashtra,Latur,Urban,Prehistoric,Stupa/Monastery,No,,,Not Listed,107074.0,Good,139163.0,155989.0
+ASI-IND-0657,Satna Stone Enclosure,Bhopal,Madhya Pradesh,Satna,Rural,Classical,Stepwell/Baoli,No,,,Not Listed,26747.0,Endangered,31797.0,36415.0
+ASI-IND-0658,West Delhi Palace Remains,Delhi,Delhi,West Delhi,Forest/Sanctuary,,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0659,Sonitpur Inscribed Rock,Guwahati,Assam,Sonitpur,Hilly/Remote,Maratha,Temple/Shrine,No,,,Not Listed,68223.0,Endangered,87749.0,104071.0
+ASI-IND-0660,Bellary Stone Enclosure,Bengaluru,Karnataka,Bellary,,Ancient,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0661,Muzaffarnagar Fort,Agra,Uttar Pradesh,Muzaffarnagar,Rural,Ancient,Watchtower/Gate,No,,,Not Listed,56586.0,Good,72783.0,81571.0
+ASI-IND-0662,Bageshwar Fort,Dehradun,Uttarakhand,Bageshwar,Hilly/Remote,Maratha,Temple/Shrine,No,,,Not Listed,55436.0,Endangered,66325.0,74299.0
+ASI-IND-0663,Sagar Temple Complex,Jabalpur,Madhya Pradesh,Sagar,Hilly/Remote,Colonial,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0664,Kasaragod Watchtower,Thrissur,Kerala,Kasaragod,Urban,,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0665,Farrukhabad Ancient Bridge,Agra,Uttar Pradesh,Farrukhabad,Forest/Sanctuary,Maratha,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0666,Agar Malwa Rock-Cut Caves,Bhopal,Madhya Pradesh,Agar Malwa,Forest/Sanctuary,Maratha,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-0667,Pathankot Memorial Cenotaph,Chandigarh,Punjab,Pathankot,Hilly/Remote,Sultanate,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0668,Dehradun Ancient Bridge,Dehradun,Uttarakhand,Dehradun,Hilly/Remote,Prehistoric,Palace/Haveli,No,,,Not Listed,89211.0,Endangered,109713.0,126754.0
+ASI-IND-0669,Paschim Bardhaman Fort,Kolkata,West Bengal,Paschim Bardhaman,,Medieval,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0670,Kadapa Great Stupa,Amaravati,Andhra Pradesh,Kadapa,Rural,Colonial,Pillar/Inscription,No,,,World Heritage Site,83261.0,Needs Immediate Attention,98541.0,108092.0
+ASI-IND-0671,New Delhi Fort,Delhi,Delhi,New Delhi,Forest/Sanctuary,Prehistoric,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0672,Alwar Rock-Cut Caves,Jodhpur,Rajasthan,Alwar,Hilly/Remote,Ancient,Palace/Haveli,No,,,Tentative List,,Needs Immediate Attention,,
+ASI-IND-0673,Bagalkote Ashokan Pillar,Bengaluru,Karnataka,Bagalkote,Forest/Sanctuary,Ancient,Watchtower/Gate,Yes,35.0,500.0,Not Listed,90664.0,Fair,111782.0,129925.0
+ASI-IND-0674,Champawat Inscribed Rock,Dehradun,Uttarakhand,Champawat,Rural,Sultanate,Temple/Shrine,No,,,Tentative List,,Good,,
+ASI-IND-0675,Dehradun Ancient Mound,Dehradun,Uttarakhand,Dehradun,Forest/Sanctuary,Ancient,Temple/Shrine,No,,,Not Listed,34793.0,Endangered,44999.0,49767.0
+ASI-IND-0676,Bikaner Mosque,Jaipur,Rajasthan,Bikaner,Rural,Mughal,Stepwell/Baoli,No,,,Not Listed,76909.0,Good,88776.0,96618.0
+ASI-IND-0677,Dhar Ancient Mound,Jabalpur,Madhya Pradesh,Dhar,Hilly/Remote,,Palace/Haveli,No,,,Tentative List,,Endangered,,
+ASI-IND-0678,Central Temple Complex,Ranchi,Jharkhand,Central,Forest/Sanctuary,Maratha,Stepwell/Baoli,Yes,35.0,300.0,Not Listed,552680.0,Needs Immediate Attention,655670.0,767644.0
+ASI-IND-0679,Thiruvananthapuram Palace Remains,Thrissur,Kerala,Thiruvananthapuram,Forest/Sanctuary,Colonial,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0680,Nanded Palace Remains,Mumbai,Maharashtra,Nanded,Hilly/Remote,Classical,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0681,Central Memorial Cenotaph,Raipur,Chhattisgarh,Central,Hilly/Remote,,Watchtower/Gate,No,,,Not Listed,30103.0,Good,36837.0,42240.0
+ASI-IND-0682,Warangal Ashokan Pillar,Hyderabad,Telangana,Warangal,Forest/Sanctuary,,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0683,West Delhi Tomb,Delhi,Delhi,West Delhi,Rural,Maratha,Stupa/Monastery,No,,,Not Listed,76488.0,Needs Immediate Attention,96131.0,115027.0
+ASI-IND-0684,Rajouri Inscribed Rock,Srinagar,Jammu & Kashmir,Rajouri,Urban,Mughal,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0685,Central Tomb,Ranchi,Jharkhand,Central,Rural,Maratha,Stupa/Monastery,No,,,Not Listed,66241.0,Endangered,77061.0,91560.0
+ASI-IND-0686,Ranga Reddy Watchtower,Hyderabad,Telangana,Ranga Reddy,Hilly/Remote,Mughal,Fort/Bastion,No,,,Not Listed,78527.0,Fair,98481.0,107850.0
+ASI-IND-0687,Rudraprayag Monastery Ruin,Dehradun,Uttarakhand,Rudraprayag,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0688,Damoh Stone Enclosure,Bhopal,Madhya Pradesh,Damoh,Hilly/Remote,Sultanate,Fort/Bastion,Yes,50.0,1100.0,Not Listed,448796.0,Fair,569053.0,672719.0
+ASI-IND-0689,Kamrup Metropolitan Ashokan Pillar,Guwahati,Assam,Kamrup Metropolitan,Hilly/Remote,Medieval,Watchtower/Gate,No,,,Not Listed,34084.0,Endangered,40475.0,48115.0
+ASI-IND-0690,Central Palace Remains,Raipur,Chhattisgarh,Central,,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-0691,Central Delhi Ashokan Pillar,Delhi,Delhi,Central Delhi,Urban,Colonial,Watchtower/Gate,No,,,Not Listed,76634.0,Good,92158.0,106101.0
+ASI-IND-0692,Rupnagar Watchtower,Chandigarh,Punjab,Rupnagar,Hilly/Remote,Medieval,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0693,Pathankot Rock-Cut Caves,Chandigarh,Punjab,Pathankot,Urban,Colonial,Temple/Shrine,No,,,Not Listed,53056.0,Needs Immediate Attention,62021.0,73181.0
+ASI-IND-0694,Dhule Ancient Bridge,Mumbai,Maharashtra,Dhule,Rural,,Fort/Bastion,No,,,Not Listed,114056.0,Good,140842.0,154163.0
+ASI-IND-0695,Karimnagar Memorial Cenotaph,Hyderabad,Telangana,Karimnagar,Urban,Mughal,Stupa/Monastery,No,,,Not Listed,60068.0,Needs Immediate Attention,70358.0,82826.0
+ASI-IND-0696,Ranga Reddy Great Stupa,Hyderabad,Telangana,Ranga Reddy,Rural,Medieval,Mosque/Tomb,No,,,Not Listed,59023.0,Needs Immediate Attention,74116.0,84326.0
+ASI-IND-0697,West Delhi Watchtower,Delhi,Delhi,West Delhi,Forest/Sanctuary,Mughal,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-0698,Pathanamthitta Rock-Cut Caves,Thrissur,Kerala,Pathanamthitta,Rural,Ancient,Fort/Bastion,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0699,Bidar Gateway,Dharwad,Karnataka,Bidar,Hilly/Remote,Classical,Temple/Shrine,No,,,Not Listed,12178.0,Good,14896.0,16998.0
+ASI-IND-0700,Bolangir Great Stupa,Bhubaneswar,Odisha,Bolangir,Urban,Ancient,Stupa/Monastery,No,,,Not Listed,111858.0,Good,144198.0,172087.0
+ASI-IND-0701,Kodagu Inscribed Rock,Bengaluru,Karnataka,Kodagu,Hilly/Remote,Sultanate,Cave/Rock-Cut,No,,,Not Listed,115599.0,Fair,141973.0,162670.0
+ASI-IND-0702,Bundi Palace Remains,Jodhpur,Rajasthan,Bundi,Rural,Classical,Fort/Bastion,Yes,35.0,500.0,Not Listed,518068.0,Endangered,633670.0,756844.0
+ASI-IND-0703,Haridwar Ancient Mound,Dehradun,Uttarakhand,Haridwar,Hilly/Remote,Prehistoric,Pillar/Inscription,Yes,25.0,1100.0,Not Listed,46953.0,Endangered,58069.0,63971.0
+ASI-IND-0704,Rohtas Tomb,Patna,Bihar,Rohtas,Rural,Classical,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0705,Nizamabad Ancient Bridge,Hyderabad,Telangana,Nizamabad,Rural,Colonial,Cave/Rock-Cut,No,,,Not Listed,97787.0,Endangered,114023.0,134259.0
+ASI-IND-0706,Angul Stepwell,Bhubaneswar,Odisha,Angul,,Sultanate,Mosque/Tomb,No,,,Not Listed,86568.0,Good,110215.0,128014.0
+ASI-IND-0707,Hyderabad Ashokan Pillar,Hyderabad,Telangana,Hyderabad,Hilly/Remote,Medieval,Temple/Shrine,Yes,30.0,500.0,Not Listed,320402.0,Fair,389393.0,448904.0
+ASI-IND-0708,Central Temple Complex,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Medieval,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-0709,Ratnagiri Fort,Aurangabad,Maharashtra,Ratnagiri,Rural,Sultanate,Fort/Bastion,Yes,25.0,1100.0,Not Listed,696877.0,Endangered,883589.0,1045561.0
+ASI-IND-0710,Dhar Memorial Cenotaph,Jabalpur,Madhya Pradesh,Dhar,Urban,Colonial,Watchtower/Gate,Yes,30.0,250.0,Not Listed,807727.0,Good,974557.0,1148611.0
+ASI-IND-0711,Deoria Ashokan Pillar,Agra,Uttar Pradesh,Deoria,Urban,,Cave/Rock-Cut,Yes,35.0,300.0,Tentative List,481508.0,Good,560983.0,614094.0
+ASI-IND-0712,Rajsamand Ashokan Pillar,Jodhpur,Rajasthan,Rajsamand,Urban,Classical,Temple/Shrine,No,,,Not Listed,100380.0,Fair,124980.0,147705.0
+ASI-IND-0713,Cuttack Stone Enclosure,Bhubaneswar,Odisha,Cuttack,Urban,Ancient,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0714,Balrampur Ancient Mound,Agra,Uttar Pradesh,Balrampur,Rural,Ancient,Fort/Bastion,No,,,Not Listed,17579.0,Good,22557.0,25048.0
+ASI-IND-0715,Sirohi Memorial Cenotaph,Jaipur,Rajasthan,Sirohi,,Sultanate,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0716,Bellary Temple Complex,Bengaluru,Karnataka,Bellary,,Ancient,Temple/Shrine,No,,,Not Listed,107181.0,Good,137208.0,155298.0
+ASI-IND-0717,Mount Abu Mosque,Jodhpur,Rajasthan,Mount Abu,Hilly/Remote,Medieval,Palace/Haveli,No,,,Not Listed,88285.0,Good,101556.0,119532.0
+ASI-IND-0718,Shajapur Stone Enclosure,Jabalpur,Madhya Pradesh,Shajapur,,Maratha,Stepwell/Baoli,No,,,Not Listed,31066.0,Fair,37498.0,41683.0
+ASI-IND-0719,Kottayam Temple Complex,Thrissur,Kerala,Kottayam,Forest/Sanctuary,Mughal,Temple/Shrine,Yes,50.0,300.0,Not Listed,253693.0,Good,322896.0,348880.0
+ASI-IND-0720,Central Palace Remains,Raipur,Chhattisgarh,Central,Urban,Colonial,Pillar/Inscription,No,,,Not Listed,23838.0,Good,28723.0,32729.0
+ASI-IND-0721,Anand Ancient Bridge,Vadodara,Gujarat,Anand,Forest/Sanctuary,Ancient,Palace/Haveli,No,,,Not Listed,7787.0,Fair,9658.0,10547.0
+ASI-IND-0722,Nagaur Stone Enclosure,Jaipur,Rajasthan,Nagaur,Rural,Ancient,Cave/Rock-Cut,No,,,Not Listed,23607.0,Good,29295.0,34291.0
+ASI-IND-0723,Hanumangarh Ancient Mound,Jodhpur,Rajasthan,Hanumangarh,Rural,Prehistoric,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0724,Anantapur Monastery Ruin,Amaravati,Andhra Pradesh,Anantapur,Urban,Ancient,Stepwell/Baoli,Yes,25.0,600.0,World Heritage Site,299546.0,Needs Immediate Attention,385118.0,436430.0
+ASI-IND-0725,Beed Temple Complex,Mumbai,Maharashtra,Beed,,Maratha,Palace/Haveli,No,,,Not Listed,21216.0,Fair,26000.0,28352.0
+ASI-IND-0726,Central Ancient Bridge,Ranchi,Jharkhand,Central,Urban,Mughal,Stepwell/Baoli,No,,,Not Listed,22650.0,Endangered,27627.0,30788.0
+ASI-IND-0727,Ganganagar Great Stupa,Jodhpur,Rajasthan,Ganganagar,Urban,Prehistoric,Fort/Bastion,Yes,25.0,600.0,Tentative List,738464.0,Fair,959728.0,1126508.0
+ASI-IND-0728,Washim Tomb,Aurangabad,Maharashtra,Washim,Urban,Colonial,Temple/Shrine,Yes,35.0,600.0,Tentative List,210203.0,Endangered,257294.0,282558.0
+ASI-IND-0729,Thiruvananthapuram Inscribed Rock,Thrissur,Kerala,Thiruvananthapuram,Rural,Colonial,Temple/Shrine,Yes,40.0,550.0,Not Listed,586342.0,Good,689984.0,798766.0
+ASI-IND-0730,Kasaragod Temple Complex,Thrissur,Kerala,Kasaragod,,,Cave/Rock-Cut,No,,,Not Listed,111711.0,Needs Immediate Attention,137065.0,163120.0
+ASI-IND-0731,Jhunjhunu Inscribed Rock,Jaipur,Rajasthan,Jhunjhunu,Rural,Sultanate,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0732,Paschim Medinipur Fort,Kolkata,West Bengal,Paschim Medinipur,Hilly/Remote,Ancient,Stepwell/Baoli,No,,,Not Listed,105565.0,Good,133701.0,157409.0
+ASI-IND-0733,Jhunjhunu Fort,Jaipur,Rajasthan,Jhunjhunu,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0734,Mumbai Suburban Ancient Bridge,Mumbai,Maharashtra,Mumbai Suburban,Forest/Sanctuary,Classical,Fort/Bastion,No,,,Not Listed,49352.0,Needs Immediate Attention,61996.0,68821.0
+ASI-IND-0735,Angul Great Stupa,Bhubaneswar,Odisha,Angul,Hilly/Remote,Mughal,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0736,Central Tomb,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Mughal,Mosque/Tomb,No,,,Not Listed,77755.0,Good,99473.0,115967.0
+ASI-IND-0737,Central Fort,Ranchi,Jharkhand,Central,Urban,Prehistoric,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0738,Coimbatore Ancient Mound,Chennai,Tamil Nadu,Coimbatore,Forest/Sanctuary,Classical,Cave/Rock-Cut,Yes,35.0,550.0,Tentative List,801722.0,Endangered,945329.0,1096253.0
+ASI-IND-0739,Uttara Kannada Rock-Cut Caves,Dharwad,Karnataka,Uttara Kannada,Rural,Classical,Cave/Rock-Cut,Yes,25.0,250.0,Tentative List,114113.0,Endangered,133463.0,150774.0
+ASI-IND-0740,Bhagalpur Ancient Mound,Patna,Bihar,Bhagalpur,Hilly/Remote,Prehistoric,Watchtower/Gate,No,,,Not Listed,,Fair,,
+ASI-IND-0741,Krishna Stone Enclosure,Amaravati,Andhra Pradesh,Krishna,Urban,Medieval,Stupa/Monastery,Yes,35.0,600.0,Not Listed,463907.0,Needs Immediate Attention,593916.0,697336.0
+ASI-IND-0742,Pithoragarh Ancient Bridge,Dehradun,Uttarakhand,Pithoragarh,Rural,Colonial,Palace/Haveli,Yes,30.0,500.0,World Heritage Site,940534.0,Needs Immediate Attention,1207632.0,1402599.0
+ASI-IND-0743,Ernakulam Ancient Mound,Thrissur,Kerala,Ernakulam,Forest/Sanctuary,Prehistoric,Stupa/Monastery,No,,,Not Listed,61550.0,Good,78966.0,89764.0
+ASI-IND-0744,Akola Stone Enclosure,Aurangabad,Maharashtra,Akola,Hilly/Remote,Medieval,Fort/Bastion,Yes,30.0,550.0,World Heritage Site,812790.0,Endangered,1000750.0,1188862.0
+ASI-IND-0745,Vellore Monastery Ruin,Chennai,Tamil Nadu,Vellore,Rural,Medieval,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0746,Nanded Inscribed Rock,Mumbai,Maharashtra,Nanded,Forest/Sanctuary,Mughal,Stupa/Monastery,No,,,Not Listed,72581.0,Endangered,89406.0,99716.0
+ASI-IND-0747,Raigad Stepwell,Mumbai,Maharashtra,Raigad,Forest/Sanctuary,Ancient,Cave/Rock-Cut,No,,,Not Listed,56014.0,Good,64846.0,76825.0
+ASI-IND-0748,Malda Ancient Mound,Kolkata,West Bengal,Malda,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,100593.0,Fair,126931.0,149225.0
+ASI-IND-0749,Kamrup Ashokan Pillar,Guwahati,Assam,Kamrup,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Not Listed,12347.0,Needs Immediate Attention,15135.0,17281.0
+ASI-IND-0750,Gandhinagar Ancient Mound,Vadodara,Gujarat,Gandhinagar,Urban,Prehistoric,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0751,Tinsukia Rock-Cut Caves,Guwahati,Assam,Tinsukia,Forest/Sanctuary,Mughal,Palace/Haveli,No,,,Not Listed,19166.0,Good,23486.0,25971.0
+ASI-IND-0752,Gaya Ancient Bridge,Patna,Bihar,Gaya,Forest/Sanctuary,Sultanate,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0753,Alwar Watchtower,Jodhpur,Rajasthan,Alwar,Rural,Classical,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-0754,Raisen Rock-Cut Caves,Jabalpur,Madhya Pradesh,Raisen,Hilly/Remote,Maratha,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0755,Udham Singh Nagar Temple Complex,Dehradun,Uttarakhand,Udham Singh Nagar,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0756,Nandurbar Stepwell,Aurangabad,Maharashtra,Nandurbar,Rural,Medieval,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0757,Gwalior Monastery Ruin,Bhopal,Madhya Pradesh,Gwalior,Rural,Classical,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0758,Umaria Ashokan Pillar,Jabalpur,Madhya Pradesh,Umaria,Hilly/Remote,Medieval,Mosque/Tomb,Yes,30.0,250.0,Not Listed,121382.0,Good,142377.0,167242.0
+ASI-IND-0759,Bhagalpur Inscribed Rock,Patna,Bihar,Bhagalpur,,Maratha,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0760,Valsad Memorial Cenotaph,Vadodara,Gujarat,Valsad,,Sultanate,Pillar/Inscription,No,,,Not Listed,18863.0,Endangered,23363.0,25701.0
+ASI-IND-0761,Adilabad Rock-Cut Caves,Hyderabad,Telangana,Adilabad,Urban,Ancient,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-0762,Central Ancient Bridge,Ranchi,Jharkhand,Central,Hilly/Remote,Colonial,Palace/Haveli,No,,,Not Listed,108407.0,Good,127172.0,143232.0
+ASI-IND-0763,Central Temple Complex,Ranchi,Jharkhand,Central,Forest/Sanctuary,Ancient,Palace/Haveli,Yes,40.0,300.0,Tentative List,240560.0,Good,305284.0,362808.0
+ASI-IND-0764,Sawai Madhopur Watchtower,Jodhpur,Rajasthan,Sawai Madhopur,Forest/Sanctuary,Medieval,Stupa/Monastery,Yes,50.0,550.0,Not Listed,290739.0,Good,368593.0,408651.0
+ASI-IND-0765,Katni Ashokan Pillar,Bhopal,Madhya Pradesh,Katni,Rural,,Fort/Bastion,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0766,Golaghat Mosque,Guwahati,Assam,Golaghat,Forest/Sanctuary,Maratha,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0767,New Delhi Stone Enclosure,Delhi,Delhi,New Delhi,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0768,Hassan Monastery Ruin,Bengaluru,Karnataka,Hassan,Rural,Sultanate,Stepwell/Baoli,No,,,Not Listed,9298.0,Endangered,11844.0,13908.0
+ASI-IND-0769,Alirajpur Fort,Jabalpur,Madhya Pradesh,Alirajpur,Rural,Mughal,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0770,Kolhapur Memorial Cenotaph,Aurangabad,Maharashtra,Kolhapur,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,10799.0,Fair,12552.0,13613.0
+ASI-IND-0771,Yavatmal Inscribed Rock,Aurangabad,Maharashtra,Yavatmal,Forest/Sanctuary,Ancient,Palace/Haveli,No,,,Not Listed,115868.0,Needs Immediate Attention,140518.0,167236.0
+ASI-IND-0772,Central Ashokan Pillar,Ranchi,Jharkhand,Central,Urban,Mughal,Cave/Rock-Cut,No,,,Not Listed,63583.0,Good,78455.0,86046.0
+ASI-IND-0773,Jaipur Rock-Cut Caves,Jaipur,Rajasthan,Jaipur,Rural,Prehistoric,Mosque/Tomb,No,,,Not Listed,109471.0,Needs Immediate Attention,128969.0,147826.0
+ASI-IND-0774,Jaunpur Monastery Ruin,Agra,Uttar Pradesh,Jaunpur,Urban,Ancient,Stupa/Monastery,No,,,Not Listed,91749.0,Needs Immediate Attention,111680.0,124287.0
+ASI-IND-0775,Anantnag Stepwell,Srinagar,Jammu & Kashmir,Anantnag,Forest/Sanctuary,Classical,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0776,Adilabad Ancient Mound,Hyderabad,Telangana,Adilabad,Rural,Medieval,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0777,Warangal Stone Enclosure,Hyderabad,Telangana,Warangal,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,34374.0,Needs Immediate Attention,43557.0,47646.0
+ASI-IND-0778,Patna Stone Enclosure,Patna,Bihar,Patna,Rural,Mughal,Fort/Bastion,No,,,Not Listed,32092.0,Needs Immediate Attention,40952.0,44579.0
+ASI-IND-0779,Central Monastery Ruin,Raipur,Chhattisgarh,Central,Rural,Colonial,Watchtower/Gate,No,,,Tentative List,66588.0,Endangered,79808.0,93476.0
+ASI-IND-0780,Muzaffarpur Palace Remains,Patna,Bihar,Muzaffarpur,Urban,Medieval,Pillar/Inscription,No,,,World Heritage Site,,Needs Immediate Attention,,
+ASI-IND-0781,Central Ashokan Pillar,Ranchi,Jharkhand,Central,Urban,Ancient,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0782,Chamarajanagar Ancient Mound,Bengaluru,Karnataka,Chamarajanagar,Rural,Sultanate,Mosque/Tomb,No,,,Not Listed,85040.0,Endangered,108482.0,122607.0
+ASI-IND-0783,Bolangir Ashokan Pillar,Bhubaneswar,Odisha,Bolangir,Forest/Sanctuary,Medieval,Cave/Rock-Cut,No,,,Not Listed,117814.0,Fair,138186.0,164645.0
+ASI-IND-0784,Krishnagiri Fort,Chennai,Tamil Nadu,Krishnagiri,Rural,Classical,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-0785,Central Ancient Bridge,Ranchi,Jharkhand,Central,Urban,Ancient,Palace/Haveli,Yes,30.0,300.0,Not Listed,803305.0,Fair,1001132.0,1167201.0
+ASI-IND-0786,Golaghat Ashokan Pillar,Guwahati,Assam,Golaghat,Hilly/Remote,Medieval,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0787,Wayanad Stone Enclosure,Thrissur,Kerala,Wayanad,Rural,Maratha,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0788,Purulia Watchtower,Kolkata,West Bengal,Purulia,Urban,Colonial,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0789,North 24 Parganas Gateway,Kolkata,West Bengal,North 24 Parganas,Rural,Colonial,Stupa/Monastery,No,,,World Heritage Site,48198.0,Needs Immediate Attention,57504.0,66339.0
+ASI-IND-0790,Kota Inscribed Rock,Jaipur,Rajasthan,Kota,Hilly/Remote,Prehistoric,Temple/Shrine,No,,,Not Listed,21143.0,Good,25903.0,29914.0
+ASI-IND-0791,Golaghat Rock-Cut Caves,Guwahati,Assam,Golaghat,Urban,Classical,Watchtower/Gate,No,,,Not Listed,105117.0,Needs Immediate Attention,128074.0,145723.0
+ASI-IND-0792,Chikkaballapura Ancient Bridge,Bengaluru,Karnataka,Chikkaballapura,Urban,Prehistoric,Stupa/Monastery,No,,,Not Listed,79582.0,Good,95631.0,107879.0
+ASI-IND-0793,Chamoli Memorial Cenotaph,Dehradun,Uttarakhand,Chamoli,Forest/Sanctuary,,Mosque/Tomb,Yes,40.0,500.0,Not Listed,644891.0,Endangered,808733.0,969138.0
+ASI-IND-0794,Central Ancient Mound,Ranchi,Jharkhand,Central,Urban,Sultanate,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0795,Chikkamagaluru Stone Enclosure,Bengaluru,Karnataka,Chikkamagaluru,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0796,Kannur Stone Enclosure,Thrissur,Kerala,Kannur,Urban,Ancient,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0797,Nabarangpur Monastery Ruin,Bhubaneswar,Odisha,Nabarangpur,Hilly/Remote,,Cave/Rock-Cut,No,,,Tentative List,,Endangered,,
+ASI-IND-0798,Ahmednagar Gateway,Mumbai,Maharashtra,Ahmednagar,Rural,Mughal,Cave/Rock-Cut,Yes,40.0,250.0,World Heritage Site,444210.0,Fair,558556.0,609955.0
+ASI-IND-0799,Shivamogga Ashokan Pillar,Bengaluru,Karnataka,Shivamogga,Urban,Mughal,Cave/Rock-Cut,No,,,Not Listed,45921.0,Endangered,55525.0,62315.0
+ASI-IND-0800,Beed Memorial Cenotaph,Aurangabad,Maharashtra,Beed,Rural,Medieval,Fort/Bastion,No,,,Not Listed,98636.0,Endangered,123449.0,139295.0
+ASI-IND-0801,Udaipur Mosque,Jaipur,Rajasthan,Udaipur,Hilly/Remote,Classical,Watchtower/Gate,No,,,Not Listed,90506.0,Good,110544.0,119607.0
+ASI-IND-0802,West Champaran Mosque,Patna,Bihar,West Champaran,Hilly/Remote,Sultanate,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-0803,Chikkaballapura Stepwell,Bengaluru,Karnataka,Chikkaballapura,Forest/Sanctuary,Mughal,Stupa/Monastery,Yes,25.0,550.0,World Heritage Site,379199.0,Endangered,477539.0,536326.0
+ASI-IND-0804,Vijayapura Watchtower,Dharwad,Karnataka,Vijayapura,Forest/Sanctuary,Sultanate,Stupa/Monastery,No,,,Not Listed,58236.0,Endangered,75292.0,86559.0
+ASI-IND-0805,Udupi Mosque,Dharwad,Karnataka,Udupi,Hilly/Remote,Colonial,Pillar/Inscription,Yes,50.0,550.0,Not Listed,192649.0,Good,245675.0,267510.0
+ASI-IND-0806,Chhatarpur Memorial Cenotaph,Bhopal,Madhya Pradesh,Chhatarpur,Rural,,Temple/Shrine,No,,,Not Listed,62779.0,Endangered,80698.0,88848.0
+ASI-IND-0807,Chittoor Inscribed Rock,Amaravati,Andhra Pradesh,Chittoor,Forest/Sanctuary,Ancient,Temple/Shrine,No,,,Not Listed,,Good,,
+ASI-IND-0808,Sonitpur Gateway,Guwahati,Assam,Sonitpur,Hilly/Remote,Classical,Stupa/Monastery,Yes,30.0,600.0,Not Listed,96236.0,Fair,117300.0,135252.0
+ASI-IND-0809,Rudraprayag Tomb,Dehradun,Uttarakhand,Rudraprayag,Forest/Sanctuary,Maratha,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0810,Perambalur Temple Complex,Chennai,Tamil Nadu,Perambalur,Forest/Sanctuary,Ancient,Cave/Rock-Cut,No,,,Not Listed,27885.0,Fair,33617.0,40335.0
+ASI-IND-0811,Ahmednagar Tomb,Aurangabad,Maharashtra,Ahmednagar,Forest/Sanctuary,Sultanate,Palace/Haveli,No,,,Not Listed,84449.0,Good,97373.0,109508.0
+ASI-IND-0812,Rudraprayag Watchtower,Dehradun,Uttarakhand,Rudraprayag,Hilly/Remote,Colonial,Mosque/Tomb,Yes,35.0,300.0,Not Listed,770944.0,Needs Immediate Attention,947181.0,1056918.0
+ASI-IND-0813,Kolar Inscribed Rock,Bengaluru,Karnataka,Kolar,Forest/Sanctuary,Prehistoric,Temple/Shrine,No,,,Not Listed,48391.0,Endangered,59316.0,70171.0
+ASI-IND-0814,Barmer Ashokan Pillar,Jodhpur,Rajasthan,Barmer,Urban,Maratha,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0815,Pithoragarh Watchtower,Dehradun,Uttarakhand,Pithoragarh,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,32249.0,Good,41798.0,48300.0
+ASI-IND-0816,Neemuch Stepwell,Jabalpur,Madhya Pradesh,Neemuch,Urban,Mughal,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0817,Hoshiarpur Stone Enclosure,Chandigarh,Punjab,Hoshiarpur,Hilly/Remote,,Stepwell/Baoli,No,,,Not Listed,107082.0,Good,125742.0,147597.0
+ASI-IND-0818,Davangere Ashokan Pillar,Bengaluru,Karnataka,Davangere,Forest/Sanctuary,Sultanate,Fort/Bastion,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0819,Bikaner Fort,Jaipur,Rajasthan,Bikaner,Forest/Sanctuary,Maratha,Temple/Shrine,No,,,Not Listed,33445.0,Endangered,40589.0,46633.0
+ASI-IND-0820,Gaya Monastery Ruin,Patna,Bihar,Gaya,Hilly/Remote,Classical,Pillar/Inscription,Yes,30.0,600.0,Tentative List,190918.0,Good,229881.0,271252.0
+ASI-IND-0821,Balasore Gateway,Bhubaneswar,Odisha,Balasore,Rural,Ancient,Mosque/Tomb,No,,,Not Listed,43326.0,Needs Immediate Attention,55014.0,63958.0
+ASI-IND-0822,Khargone Mosque,Bhopal,Madhya Pradesh,Khargone,Urban,Maratha,Stepwell/Baoli,Yes,40.0,600.0,Tentative List,772947.0,Good,949647.0,1028031.0
+ASI-IND-0823,Agar Malwa Stone Enclosure,Bhopal,Madhya Pradesh,Agar Malwa,Hilly/Remote,Mughal,Palace/Haveli,Yes,40.0,300.0,Tentative List,265973.0,Fair,328693.0,368269.0
+ASI-IND-0824,Central Memorial Cenotaph,Raipur,Chhattisgarh,Central,Urban,Mughal,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0825,Nanded Temple Complex,Aurangabad,Maharashtra,Nanded,Hilly/Remote,Mughal,Fort/Bastion,No,,,Not Listed,41597.0,Good,52865.0,58572.0
+ASI-IND-0826,Rajouri Rock-Cut Caves,Srinagar,Jammu & Kashmir,Rajouri,Rural,Ancient,Pillar/Inscription,Yes,30.0,250.0,Tentative List,141492.0,Needs Immediate Attention,165522.0,196749.0
+ASI-IND-0827,Central Memorial Cenotaph,Ranchi,Jharkhand,Central,Rural,Classical,Watchtower/Gate,No,,,Not Listed,91994.0,Good,115644.0,125407.0
+ASI-IND-0828,Central Temple Complex,Ranchi,Jharkhand,Central,Rural,Sultanate,Stupa/Monastery,No,,,Not Listed,21907.0,Endangered,26624.0,29456.0
+ASI-IND-0829,Tinsukia Gateway,Guwahati,Assam,Tinsukia,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0830,Pathanamthitta Ancient Bridge,Thrissur,Kerala,Pathanamthitta,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-0831,Jalna Monastery Ruin,Mumbai,Maharashtra,Jalna,Hilly/Remote,Ancient,Fort/Bastion,No,,,Not Listed,71813.0,Needs Immediate Attention,87834.0,100490.0
+ASI-IND-0832,Almora Gateway,Dehradun,Uttarakhand,Almora,Urban,,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0833,Koppal Temple Complex,Bengaluru,Karnataka,Koppal,Hilly/Remote,Colonial,Watchtower/Gate,No,,,Not Listed,75306.0,Endangered,89443.0,98361.0
+ASI-IND-0834,West Godavari Mosque,Amaravati,Andhra Pradesh,West Godavari,,,Temple/Shrine,No,,,Not Listed,92602.0,Endangered,116141.0,128733.0
+ASI-IND-0835,Central Ancient Mound,Ranchi,Jharkhand,Central,Hilly/Remote,Medieval,Fort/Bastion,No,,,Not Listed,94118.0,Needs Immediate Attention,119099.0,135809.0
+ASI-IND-0836,Kannauj Tomb,Agra,Uttar Pradesh,Kannauj,Forest/Sanctuary,Ancient,Mosque/Tomb,No,,,Not Listed,72918.0,Fair,86533.0,96272.0
+ASI-IND-0837,Cuttack Fort,Bhubaneswar,Odisha,Cuttack,Rural,Mughal,Temple/Shrine,No,,,Not Listed,12356.0,Good,14301.0,17071.0
+ASI-IND-0838,Thoothukudi Mosque,Chennai,Tamil Nadu,Thoothukudi,Forest/Sanctuary,Maratha,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0839,Central Rock-Cut Caves,Raipur,Chhattisgarh,Central,Rural,Classical,Pillar/Inscription,No,,,Not Listed,18976.0,Fair,21851.0,23753.0
+ASI-IND-0840,Reasi Memorial Cenotaph,Srinagar,Jammu & Kashmir,Reasi,Rural,Maratha,Stepwell/Baoli,No,,,Not Listed,49435.0,Needs Immediate Attention,63799.0,74486.0
+ASI-IND-0841,Kalimpong Mosque,Kolkata,West Bengal,Kalimpong,Hilly/Remote,Ancient,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0842,Nagaon Rock-Cut Caves,Guwahati,Assam,Nagaon,Rural,Colonial,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0843,Darbhanga Monastery Ruin,Patna,Bihar,Darbhanga,Hilly/Remote,Prehistoric,Fort/Bastion,No,,,Not Listed,10349.0,Needs Immediate Attention,12284.0,13679.0
+ASI-IND-0844,Tinsukia Memorial Cenotaph,Guwahati,Assam,Tinsukia,Hilly/Remote,,Stepwell/Baoli,No,,,World Heritage Site,117992.0,Endangered,135850.0,156022.0
+ASI-IND-0845,Rohtas Watchtower,Patna,Bihar,Rohtas,,Colonial,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-0846,Bhind Memorial Cenotaph,Jabalpur,Madhya Pradesh,Bhind,Forest/Sanctuary,Medieval,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0847,Jaipur Mosque,Jaipur,Rajasthan,Jaipur,,Medieval,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-0848,Purulia Ancient Mound,Kolkata,West Bengal,Purulia,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,41988.0,Needs Immediate Attention,49335.0,55264.0
+ASI-IND-0849,Dewas Stone Enclosure,Bhopal,Madhya Pradesh,Dewas,Hilly/Remote,Medieval,Stepwell/Baoli,No,,,Not Listed,,Endangered,,
+ASI-IND-0850,Vijayapura Gateway,Dharwad,Karnataka,Vijayapura,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,88400.0,Endangered,109485.0,130425.0
+ASI-IND-0851,Vellore Stone Enclosure,Chennai,Tamil Nadu,Vellore,Hilly/Remote,,Fort/Bastion,No,,,Not Listed,43074.0,Needs Immediate Attention,51461.0,61144.0
+ASI-IND-0852,Udupi Stepwell,Dharwad,Karnataka,Udupi,Forest/Sanctuary,Colonial,Fort/Bastion,No,,,Not Listed,44723.0,Good,51667.0,56358.0
+ASI-IND-0853,Rajgarh Inscribed Rock,Jabalpur,Madhya Pradesh,Rajgarh,Urban,Prehistoric,Palace/Haveli,Yes,35.0,600.0,Not Listed,429852.0,Fair,496732.0,544335.0
+ASI-IND-0854,Vidisha Monastery Ruin,Bhopal,Madhya Pradesh,Vidisha,Hilly/Remote,Ancient,Palace/Haveli,No,,,Not Listed,118373.0,Fair,136597.0,155647.0
+ASI-IND-0855,Mansa Memorial Cenotaph,Chandigarh,Punjab,Mansa,Urban,Prehistoric,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0856,Dehradun Rock-Cut Caves,Dehradun,Uttarakhand,Dehradun,Forest/Sanctuary,Ancient,Pillar/Inscription,No,,,Not Listed,115909.0,Needs Immediate Attention,138824.0,155687.0
+ASI-IND-0857,Nanded Ashokan Pillar,Mumbai,Maharashtra,Nanded,Hilly/Remote,Medieval,Watchtower/Gate,No,,,Not Listed,44547.0,Endangered,56550.0,62081.0
+ASI-IND-0858,Deogarh Monastery Ruin,Bhubaneswar,Odisha,Deogarh,Rural,Ancient,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-0859,Sikar Ashokan Pillar,Jodhpur,Rajasthan,Sikar,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,World Heritage Site,,Fair,,
+ASI-IND-0860,Bikaner Tomb,Jodhpur,Rajasthan,Bikaner,,Mughal,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0861,Bidar Ashokan Pillar,Bengaluru,Karnataka,Bidar,Hilly/Remote,Colonial,Cave/Rock-Cut,No,,,Not Listed,38702.0,Good,48647.0,54729.0
+ASI-IND-0862,Chamarajanagar Ancient Bridge,Dharwad,Karnataka,Chamarajanagar,Urban,Classical,Temple/Shrine,Yes,30.0,300.0,Not Listed,684741.0,Endangered,815544.0,939410.0
+ASI-IND-0863,Central Rock-Cut Caves,Ranchi,Jharkhand,Central,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,103383.0,Good,120776.0,142848.0
+ASI-IND-0864,Tirupathur Ancient Bridge,Chennai,Tamil Nadu,Tirupathur,Forest/Sanctuary,Prehistoric,Fort/Bastion,No,,,Not Listed,26133.0,Good,32233.0,35266.0
+ASI-IND-0865,Jamnagar Mosque,Vadodara,Gujarat,Jamnagar,Hilly/Remote,Mughal,Cave/Rock-Cut,No,,,Not Listed,105513.0,Good,126515.0,147105.0
+ASI-IND-0866,Begusarai Ashokan Pillar,Patna,Bihar,Begusarai,Forest/Sanctuary,Ancient,Palace/Haveli,No,,,Not Listed,5735.0,Good,6976.0,7876.0
+ASI-IND-0867,Kannur Mosque,Thrissur,Kerala,Kannur,Rural,Classical,Pillar/Inscription,Yes,25.0,600.0,Tentative List,938228.0,Good,1170010.0,1292554.0
+ASI-IND-0868,Yadgir Stone Enclosure,Dharwad,Karnataka,Yadgir,Rural,Sultanate,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-0869,Kupwara Palace Remains,Srinagar,Jammu & Kashmir,Kupwara,Hilly/Remote,Sultanate,Stupa/Monastery,No,,,Tentative List,47366.0,Fair,58878.0,64125.0
+ASI-IND-0870,Champawat Stone Enclosure,Dehradun,Uttarakhand,Champawat,Hilly/Remote,Colonial,Mosque/Tomb,Yes,40.0,550.0,World Heritage Site,709664.0,Good,874043.0,1016904.0
+ASI-IND-0871,Nalanda Temple Complex,Patna,Bihar,Nalanda,Urban,Mughal,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-0872,Central Inscribed Rock,Ranchi,Jharkhand,Central,Rural,Sultanate,Stepwell/Baoli,Yes,25.0,250.0,Tentative List,329020.0,Endangered,413213.0,461711.0
+ASI-IND-0873,Chamoli Gateway,Dehradun,Uttarakhand,Chamoli,,Classical,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-0874,Central Watchtower,Ranchi,Jharkhand,Central,Hilly/Remote,Medieval,Fort/Bastion,No,,,Not Listed,92483.0,Good,115773.0,137047.0
+ASI-IND-0875,Sonitpur Memorial Cenotaph,Guwahati,Assam,Sonitpur,Hilly/Remote,Mughal,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0876,Reasi Ancient Bridge,Srinagar,Jammu & Kashmir,Reasi,Hilly/Remote,Medieval,Stepwell/Baoli,Yes,50.0,600.0,Not Listed,357466.0,Needs Immediate Attention,434264.0,498821.0
+ASI-IND-0877,Jodhpur Palace Remains,Jaipur,Rajasthan,Jodhpur,Hilly/Remote,Classical,Pillar/Inscription,No,,,Not Listed,16334.0,Fair,19795.0,22731.0
+ASI-IND-0878,West Champaran Stone Enclosure,Patna,Bihar,West Champaran,Rural,Prehistoric,Pillar/Inscription,No,,,Not Listed,100206.0,Good,126724.0,143104.0
+ASI-IND-0879,Bharatpur Tomb,Jodhpur,Rajasthan,Bharatpur,Urban,Maratha,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-0880,North 24 Parganas Stone Enclosure,Kolkata,West Bengal,North 24 Parganas,Rural,Prehistoric,Mosque/Tomb,Yes,35.0,250.0,Not Listed,407322.0,Fair,472759.0,552852.0
+ASI-IND-0881,Jammu Temple Complex,Srinagar,Jammu & Kashmir,Jammu,Rural,Prehistoric,Pillar/Inscription,No,,,Not Listed,73096.0,Endangered,93842.0,102780.0
+ASI-IND-0882,Dwarka Watchtower,Vadodara,Gujarat,Dwarka,Rural,Sultanate,Mosque/Tomb,No,,,Not Listed,103884.0,Endangered,119946.0,131037.0
+ASI-IND-0883,Chhatrapati Sambhajinagar Ancient Bridge,Aurangabad,Maharashtra,Chhatrapati Sambhajinagar,Urban,Classical,Palace/Haveli,No,,,Not Listed,34321.0,Endangered,43322.0,50480.0
+ASI-IND-0884,Chennai Memorial Cenotaph,Chennai,Tamil Nadu,Chennai,Rural,Maratha,Stepwell/Baoli,No,,,Not Listed,62973.0,Good,79586.0,87947.0
+ASI-IND-0885,Rudraprayag Tomb,Dehradun,Uttarakhand,Rudraprayag,Hilly/Remote,,Cave/Rock-Cut,No,,,Not Listed,104707.0,Good,135383.0,151197.0
+ASI-IND-0886,Meerut Watchtower,Agra,Uttar Pradesh,Meerut,Forest/Sanctuary,Medieval,Palace/Haveli,No,,,World Heritage Site,107879.0,Needs Immediate Attention,124937.0,142057.0
+ASI-IND-0887,North 24 Parganas Ashokan Pillar,Kolkata,West Bengal,North 24 Parganas,Rural,Ancient,Pillar/Inscription,Yes,30.0,250.0,Tentative List,428573.0,Needs Immediate Attention,531228.0,602371.0
+ASI-IND-0888,Udham Singh Nagar Memorial Cenotaph,Dehradun,Uttarakhand,Udham Singh Nagar,Urban,,Palace/Haveli,No,,,Not Listed,26982.0,Needs Immediate Attention,32761.0,38168.0
+ASI-IND-0889,South 24 Parganas Ancient Mound,Kolkata,West Bengal,South 24 Parganas,Hilly/Remote,Ancient,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-0890,Nagpur Watchtower,Mumbai,Maharashtra,Nagpur,Hilly/Remote,Colonial,Stepwell/Baoli,No,,,Not Listed,10399.0,Endangered,12100.0,14004.0
+ASI-IND-0891,Vidisha Fort,Bhopal,Madhya Pradesh,Vidisha,Forest/Sanctuary,Ancient,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0892,Ajmer Fort,Jodhpur,Rajasthan,Ajmer,Urban,Colonial,Watchtower/Gate,No,,,Not Listed,65731.0,Fair,80314.0,89559.0
+ASI-IND-0893,Bathinda Watchtower,Chandigarh,Punjab,Bathinda,Urban,Mughal,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0894,Satara Great Stupa,Aurangabad,Maharashtra,Satara,Rural,Prehistoric,Mosque/Tomb,No,,,Not Listed,7600.0,Fair,9438.0,10689.0
+ASI-IND-0895,Tirupati Temple Complex,Amaravati,Andhra Pradesh,Tirupati,Rural,Ancient,Stepwell/Baoli,Yes,40.0,1100.0,Not Listed,629050.0,Fair,793039.0,885742.0
+ASI-IND-0896,Central Mosque,Ranchi,Jharkhand,Central,Rural,Maratha,Palace/Haveli,No,,,Not Listed,95756.0,Endangered,121140.0,145149.0
+ASI-IND-0897,Doda Palace Remains,Srinagar,Jammu & Kashmir,Doda,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,,Endangered,,
+ASI-IND-0898,Shivamogga Ancient Mound,Dharwad,Karnataka,Shivamogga,Rural,Mughal,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0899,Thrissur Inscribed Rock,Thrissur,Kerala,Thrissur,Hilly/Remote,Ancient,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0900,Seoni Temple Complex,Jabalpur,Madhya Pradesh,Seoni,Forest/Sanctuary,Medieval,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0901,Bhandara Temple Complex,Mumbai,Maharashtra,Bhandara,Rural,Prehistoric,Cave/Rock-Cut,Yes,40.0,250.0,World Heritage Site,409880.0,Needs Immediate Attention,489592.0,543098.0
+ASI-IND-0902,Bundi Monastery Ruin,Jaipur,Rajasthan,Bundi,Urban,Maratha,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0903,Mandya Temple Complex,Bengaluru,Karnataka,Mandya,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Not Listed,49675.0,Fair,60370.0,69063.0
+ASI-IND-0904,Bhagalpur Gateway,Patna,Bihar,Bhagalpur,Forest/Sanctuary,Prehistoric,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-0905,Srikakulam Ancient Mound,Amaravati,Andhra Pradesh,Srikakulam,Rural,Maratha,Stupa/Monastery,No,,,Not Listed,46465.0,Good,57447.0,67122.0
+ASI-IND-0906,Thrissur Ancient Bridge,Thrissur,Kerala,Thrissur,Forest/Sanctuary,Prehistoric,Mosque/Tomb,No,,,Not Listed,,Good,,
+ASI-IND-0907,Gurdaspur Watchtower,Chandigarh,Punjab,Gurdaspur,Hilly/Remote,Classical,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0908,Central Watchtower,Raipur,Chhattisgarh,Central,Rural,Classical,Fort/Bastion,No,,,Not Listed,107307.0,Endangered,131610.0,150160.0
+ASI-IND-0909,Bageshwar Inscribed Rock,Dehradun,Uttarakhand,Bageshwar,Urban,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0910,Warangal Palace Remains,Hyderabad,Telangana,Warangal,Urban,,Palace/Haveli,No,,,Not Listed,66727.0,Fair,85327.0,100745.0
+ASI-IND-0911,Malappuram Ancient Mound,Thrissur,Kerala,Malappuram,Urban,Prehistoric,Stepwell/Baoli,No,,,World Heritage Site,97874.0,Fair,117103.0,139255.0
+ASI-IND-0912,Chengalpattu Ashokan Pillar,Chennai,Tamil Nadu,Chengalpattu,,Prehistoric,Temple/Shrine,No,,,Not Listed,67009.0,Good,86823.0,99075.0
+ASI-IND-0913,Rudraprayag Stepwell,Dehradun,Uttarakhand,Rudraprayag,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0914,East Champaran Tomb,Patna,Bihar,East Champaran,Rural,Colonial,Fort/Bastion,Yes,25.0,550.0,Not Listed,538510.0,Endangered,696691.0,761773.0
+ASI-IND-0915,New Delhi Watchtower,Delhi,Delhi,New Delhi,Rural,Colonial,Stupa/Monastery,No,,,Tentative List,,Endangered,,
+ASI-IND-0916,Mandya Temple Complex,Dharwad,Karnataka,Mandya,,,Fort/Bastion,Yes,30.0,300.0,Tentative List,805114.0,Good,953783.0,1058549.0
+ASI-IND-0917,Paschim Bardhaman Inscribed Rock,Kolkata,West Bengal,Paschim Bardhaman,Rural,Ancient,Stepwell/Baoli,Yes,25.0,250.0,World Heritage Site,843353.0,Good,975748.0,1104357.0
+ASI-IND-0918,Prakasam Rock-Cut Caves,Amaravati,Andhra Pradesh,Prakasam,Urban,,Stupa/Monastery,No,,,Not Listed,11990.0,Good,15057.0,17407.0
+ASI-IND-0919,Akola Ancient Mound,Aurangabad,Maharashtra,Akola,Forest/Sanctuary,Medieval,Watchtower/Gate,Yes,30.0,500.0,World Heritage Site,639982.0,Needs Immediate Attention,817606.0,908228.0
+ASI-IND-0920,Mandla Gateway,Bhopal,Madhya Pradesh,Mandla,Forest/Sanctuary,Prehistoric,Mosque/Tomb,Yes,40.0,250.0,Tentative List,897222.0,Endangered,1090224.0,1184269.0
+ASI-IND-0921,Sehore Inscribed Rock,Bhopal,Madhya Pradesh,Sehore,Urban,Mughal,Mosque/Tomb,No,,,Not Listed,22102.0,Endangered,28496.0,30811.0
+ASI-IND-0922,Alirajpur Temple Complex,Bhopal,Madhya Pradesh,Alirajpur,Forest/Sanctuary,Maratha,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-0923,Vaishali Palace Remains,Patna,Bihar,Vaishali,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,28966.0,Fair,36048.0,38968.0
+ASI-IND-0924,Sitapur Fort,Agra,Uttar Pradesh,Sitapur,Rural,Medieval,Fort/Bastion,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0925,Sehore Ancient Bridge,Bhopal,Madhya Pradesh,Sehore,Rural,Prehistoric,Watchtower/Gate,Yes,30.0,600.0,World Heritage Site,91029.0,Endangered,108736.0,120560.0
+ASI-IND-0926,Chamoli Palace Remains,Dehradun,Uttarakhand,Chamoli,,Colonial,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0927,West Delhi Mosque,Delhi,Delhi,West Delhi,Forest/Sanctuary,Mughal,Temple/Shrine,No,,,Not Listed,19623.0,Needs Immediate Attention,25233.0,30240.0
+ASI-IND-0928,Shajapur Gateway,Jabalpur,Madhya Pradesh,Shajapur,Hilly/Remote,Mughal,Palace/Haveli,No,,,Not Listed,35628.0,Needs Immediate Attention,45787.0,51131.0
+ASI-IND-0929,Wardha Rock-Cut Caves,Aurangabad,Maharashtra,Wardha,Forest/Sanctuary,Sultanate,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-0930,Barpeta Inscribed Rock,Guwahati,Assam,Barpeta,Hilly/Remote,Mughal,Mosque/Tomb,No,,,Not Listed,59644.0,Endangered,76659.0,87810.0
+ASI-IND-0931,Dholpur Temple Complex,Jaipur,Rajasthan,Dholpur,Urban,Medieval,Temple/Shrine,No,,,Not Listed,77353.0,Endangered,90434.0,106979.0
+ASI-IND-0932,Barmer Mosque,Jodhpur,Rajasthan,Barmer,Rural,Sultanate,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0933,Bhavnagar Tomb,Vadodara,Gujarat,Bhavnagar,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-0934,Malappuram Fort,Thrissur,Kerala,Malappuram,Rural,Prehistoric,Stupa/Monastery,Yes,50.0,250.0,Not Listed,749633.0,Needs Immediate Attention,973489.0,1116975.0
+ASI-IND-0935,Srinagar Stepwell,Srinagar,Jammu & Kashmir,Srinagar,Urban,Classical,Stepwell/Baoli,No,,,Not Listed,31269.0,Good,38175.0,44504.0
+ASI-IND-0936,Bundi Ashokan Pillar,Jodhpur,Rajasthan,Bundi,Urban,Prehistoric,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0937,Central Fort,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Medieval,Temple/Shrine,No,,,Tentative List,76462.0,Good,94007.0,109047.0
+ASI-IND-0938,New Delhi Ashokan Pillar,Delhi,Delhi,New Delhi,Urban,,Pillar/Inscription,No,,,Tentative List,,Needs Immediate Attention,,
+ASI-IND-0939,Kalahandi Tomb,Bhubaneswar,Odisha,Kalahandi,Forest/Sanctuary,Ancient,Watchtower/Gate,No,,,Not Listed,109648.0,Needs Immediate Attention,127329.0,150810.0
+ASI-IND-0940,West Champaran Palace Remains,Patna,Bihar,West Champaran,Urban,Sultanate,Temple/Shrine,No,,,Not Listed,116823.0,Needs Immediate Attention,150041.0,172468.0
+ASI-IND-0941,Amravati Stepwell,Mumbai,Maharashtra,Amravati,Rural,Mughal,Mosque/Tomb,No,,,Not Listed,37221.0,Needs Immediate Attention,47286.0,53508.0
+ASI-IND-0942,Akola Rock-Cut Caves,Aurangabad,Maharashtra,Akola,Rural,Classical,Stupa/Monastery,No,,,Not Listed,81496.0,Endangered,95426.0,110407.0
+ASI-IND-0943,Gwalior Monastery Ruin,Jabalpur,Madhya Pradesh,Gwalior,Forest/Sanctuary,Mughal,Pillar/Inscription,No,,,Not Listed,108505.0,Fair,137423.0,161910.0
+ASI-IND-0944,Central Gateway,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Medieval,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-0945,Kancheepuram Fort,Chennai,Tamil Nadu,Kancheepuram,,Colonial,Temple/Shrine,Yes,40.0,550.0,Not Listed,884080.0,Endangered,1070949.0,1284110.0
+ASI-IND-0946,Sirohi Temple Complex,Jodhpur,Rajasthan,Sirohi,Forest/Sanctuary,Colonial,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-0947,Haveri Palace Remains,Dharwad,Karnataka,Haveri,Urban,,Mosque/Tomb,No,,,Not Listed,116307.0,Fair,148752.0,169046.0
+ASI-IND-0948,Central Inscribed Rock,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,Yes,35.0,300.0,Not Listed,424742.0,Needs Immediate Attention,533063.0,631490.0
+ASI-IND-0949,New Delhi Palace Remains,Delhi,Delhi,New Delhi,Urban,,Stepwell/Baoli,Yes,30.0,1100.0,Tentative List,427561.0,Fair,526824.0,583197.0
+ASI-IND-0950,Nalanda Ancient Mound,Patna,Bihar,Nalanda,Rural,Classical,Stepwell/Baoli,No,,,Not Listed,75280.0,Needs Immediate Attention,93455.0,106278.0
+ASI-IND-0951,Parbhani Great Stupa,Mumbai,Maharashtra,Parbhani,Rural,Classical,Fort/Bastion,No,,,Not Listed,105226.0,Fair,122447.0,134191.0
+ASI-IND-0952,Ganganagar Mosque,Jaipur,Rajasthan,Ganganagar,Forest/Sanctuary,Colonial,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-0953,Kheri Memorial Cenotaph,Agra,Uttar Pradesh,Kheri,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,107071.0,Fair,126243.0,139026.0
+ASI-IND-0954,West Delhi Watchtower,Delhi,Delhi,West Delhi,Hilly/Remote,,Stupa/Monastery,No,,,Not Listed,99551.0,Endangered,117595.0,132134.0
+ASI-IND-0955,Prakasam Ancient Bridge,Amaravati,Andhra Pradesh,Prakasam,Hilly/Remote,Colonial,Palace/Haveli,No,,,Not Listed,14923.0,Endangered,18642.0,20969.0
+ASI-IND-0956,Mahabubnagar Gateway,Hyderabad,Telangana,Mahabubnagar,Urban,Medieval,Temple/Shrine,No,,,Not Listed,97316.0,Fair,125215.0,150155.0
+ASI-IND-0957,Vaishali Mosque,Patna,Bihar,Vaishali,Hilly/Remote,Maratha,Mosque/Tomb,Yes,25.0,550.0,Not Listed,463357.0,Good,560923.0,672758.0
+ASI-IND-0958,Uttara Kannada Watchtower,Bengaluru,Karnataka,Uttara Kannada,Rural,Prehistoric,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0959,Satna Fort,Jabalpur,Madhya Pradesh,Satna,,Maratha,Pillar/Inscription,No,,,Not Listed,41969.0,Needs Immediate Attention,52348.0,61096.0
+ASI-IND-0960,Vizianagaram Monastery Ruin,Amaravati,Andhra Pradesh,Vizianagaram,Rural,Sultanate,Cave/Rock-Cut,No,,,Not Listed,35248.0,Needs Immediate Attention,45141.0,49033.0
+ASI-IND-0961,Hassan Gateway,Bengaluru,Karnataka,Hassan,Hilly/Remote,Colonial,Stupa/Monastery,No,,,Not Listed,117056.0,Endangered,147754.0,160110.0
+ASI-IND-0962,Baghpat Inscribed Rock,Agra,Uttar Pradesh,Baghpat,Urban,Maratha,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-0963,Rohtas Memorial Cenotaph,Patna,Bihar,Rohtas,Rural,Mughal,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-0964,Kaushambi Rock-Cut Caves,Agra,Uttar Pradesh,Kaushambi,Hilly/Remote,Sultanate,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-0965,Mansa Tomb,Chandigarh,Punjab,Mansa,,Classical,Stupa/Monastery,No,,,Not Listed,96682.0,Fair,113216.0,124908.0
+ASI-IND-0966,Anantnag Stepwell,Srinagar,Jammu & Kashmir,Anantnag,Rural,Classical,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0967,Kutch Watchtower,Vadodara,Gujarat,Kutch,Forest/Sanctuary,Ancient,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-0968,Krishna Tomb,Amaravati,Andhra Pradesh,Krishna,Hilly/Remote,Classical,Stepwell/Baoli,Yes,50.0,600.0,Tentative List,221218.0,Good,271367.0,309865.0
+ASI-IND-0969,Karimnagar Gateway,Hyderabad,Telangana,Karimnagar,Urban,Prehistoric,Cave/Rock-Cut,Yes,25.0,600.0,Not Listed,348713.0,Fair,449617.0,516324.0
+ASI-IND-0970,Dhule Gateway,Aurangabad,Maharashtra,Dhule,Forest/Sanctuary,Colonial,Mosque/Tomb,No,,,Not Listed,58953.0,Endangered,75527.0,83578.0
+ASI-IND-0971,Nagpur Ancient Bridge,Mumbai,Maharashtra,Nagpur,Hilly/Remote,Colonial,Stepwell/Baoli,Yes,30.0,600.0,World Heritage Site,522900.0,Fair,611887.0,716394.0
+ASI-IND-0972,Baramulla Gateway,Srinagar,Jammu & Kashmir,Baramulla,Rural,Classical,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-0973,Hyderabad Stone Enclosure,Hyderabad,Telangana,Hyderabad,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,No,,,Not Listed,43420.0,Endangered,52262.0,62226.0
+ASI-IND-0974,Jalandhar Stepwell,Chandigarh,Punjab,Jalandhar,Forest/Sanctuary,Medieval,Temple/Shrine,No,,,Not Listed,67673.0,Needs Immediate Attention,80775.0,93603.0
+ASI-IND-0975,Jabalpur Monastery Ruin,Bhopal,Madhya Pradesh,Jabalpur,Urban,Sultanate,Palace/Haveli,No,,,Not Listed,57998.0,Endangered,72046.0,81582.0
+ASI-IND-0976,Ernakulam Memorial Cenotaph,Thrissur,Kerala,Ernakulam,Rural,Mughal,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0977,Guntur Ancient Bridge,Amaravati,Andhra Pradesh,Guntur,Rural,Classical,Fort/Bastion,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-0978,Munger Inscribed Rock,Patna,Bihar,Munger,Rural,Ancient,Stupa/Monastery,No,,,Not Listed,34052.0,Fair,42498.0,47379.0
+ASI-IND-0979,Nizamabad Stone Enclosure,Hyderabad,Telangana,Nizamabad,Hilly/Remote,Ancient,Watchtower/Gate,No,,,Not Listed,103365.0,Good,131865.0,147790.0
+ASI-IND-0980,Porbandar Temple Complex,Vadodara,Gujarat,Porbandar,Rural,Mughal,Fort/Bastion,No,,,Not Listed,66067.0,Good,81182.0,96794.0
+ASI-IND-0981,Pulwama Tomb,Srinagar,Jammu & Kashmir,Pulwama,Urban,Ancient,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-0982,Rajouri Watchtower,Srinagar,Jammu & Kashmir,Rajouri,Hilly/Remote,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-0983,Tinsukia Ancient Mound,Guwahati,Assam,Tinsukia,Urban,Medieval,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-0984,Tirupathur Ancient Bridge,Chennai,Tamil Nadu,Tirupathur,Forest/Sanctuary,Colonial,Watchtower/Gate,No,,,Not Listed,,Good,,
+ASI-IND-0985,Mahoba Mosque,Agra,Uttar Pradesh,Mahoba,Hilly/Remote,,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-0986,Seoni Temple Complex,Bhopal,Madhya Pradesh,Seoni,Forest/Sanctuary,Classical,Cave/Rock-Cut,No,,,Not Listed,65940.0,Needs Immediate Attention,79474.0,94601.0
+ASI-IND-0987,Central Delhi Memorial Cenotaph,Delhi,Delhi,Central Delhi,Urban,Mughal,Mosque/Tomb,No,,,Not Listed,30501.0,Needs Immediate Attention,36742.0,42032.0
+ASI-IND-0988,Pathankot Inscribed Rock,Chandigarh,Punjab,Pathankot,Forest/Sanctuary,Colonial,Mosque/Tomb,Yes,30.0,500.0,Not Listed,706674.0,Endangered,914377.0,998507.0
+ASI-IND-0989,Warangal Ashokan Pillar,Hyderabad,Telangana,Warangal,Urban,Sultanate,Watchtower/Gate,No,,,Not Listed,87485.0,Endangered,106434.0,122468.0
+ASI-IND-0990,Udupi Mosque,Dharwad,Karnataka,Udupi,Urban,,Stepwell/Baoli,No,,,Tentative List,117224.0,Fair,148085.0,173764.0
+ASI-IND-0991,Hoshangabad Watchtower,Bhopal,Madhya Pradesh,Hoshangabad,,Mughal,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-0992,Umaria Ancient Mound,Jabalpur,Madhya Pradesh,Umaria,Forest/Sanctuary,Prehistoric,Stupa/Monastery,No,,,Not Listed,82869.0,Endangered,98600.0,108531.0
+ASI-IND-0993,Krishna Mosque,Amaravati,Andhra Pradesh,Krishna,Urban,Prehistoric,Palace/Haveli,No,,,Not Listed,66433.0,Endangered,82097.0,88786.0
+ASI-IND-0994,Kanpur Nagar Memorial Cenotaph,Agra,Uttar Pradesh,Kanpur Nagar,Rural,Ancient,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-0995,Bhandara Inscribed Rock,Mumbai,Maharashtra,Bhandara,Urban,Prehistoric,Fort/Bastion,No,,,Not Listed,60318.0,Needs Immediate Attention,73665.0,87397.0
+ASI-IND-0996,Howrah Watchtower,Kolkata,West Bengal,Howrah,Forest/Sanctuary,Prehistoric,Temple/Shrine,No,,,Not Listed,,Good,,
+ASI-IND-0997,Doda Stone Enclosure,Srinagar,Jammu & Kashmir,Doda,,Prehistoric,Fort/Bastion,Yes,30.0,1100.0,Not Listed,650469.0,Needs Immediate Attention,768964.0,921100.0
+ASI-IND-0998,South 24 Parganas Ancient Mound,Kolkata,West Bengal,South 24 Parganas,Forest/Sanctuary,Mughal,Cave/Rock-Cut,Yes,25.0,300.0,Not Listed,570034.0,Good,661880.0,719837.0
+ASI-IND-0999,East Champaran Ancient Mound,Patna,Bihar,East Champaran,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,111464.0,Endangered,143088.0,170040.0
+ASI-IND-1000,Bageshwar Ancient Bridge,Dehradun,Uttarakhand,Bageshwar,Hilly/Remote,Sultanate,Mosque/Tomb,Yes,50.0,300.0,Tentative List,441453.0,Needs Immediate Attention,563803.0,663984.0
+ASI-IND-1001,Dang Fort,Vadodara,Gujarat,Dang,Rural,Maratha,Pillar/Inscription,No,,,Not Listed,94418.0,Needs Immediate Attention,122638.0,137074.0
+ASI-IND-1002,Sirohi Fort,Jaipur,Rajasthan,Sirohi,Hilly/Remote,Colonial,Palace/Haveli,No,,,Not Listed,,Fair,,
+ASI-IND-1003,Banswara Monastery Ruin,Jodhpur,Rajasthan,Banswara,,,Mosque/Tomb,No,,,Not Listed,99303.0,Good,128151.0,142831.0
+ASI-IND-1004,Koraput Gateway,Bhubaneswar,Odisha,Koraput,Forest/Sanctuary,Mughal,Mosque/Tomb,No,,,Not Listed,36692.0,Needs Immediate Attention,46747.0,55475.0
+ASI-IND-1005,Nagaon Fort,Guwahati,Assam,Nagaon,Rural,Ancient,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1006,Raisen Watchtower,Bhopal,Madhya Pradesh,Raisen,Rural,Colonial,Pillar/Inscription,No,,,Not Listed,32839.0,Fair,40568.0,47502.0
+ASI-IND-1007,Bagalkote Rock-Cut Caves,Dharwad,Karnataka,Bagalkote,Forest/Sanctuary,Sultanate,Watchtower/Gate,No,,,Not Listed,48785.0,Good,58901.0,67596.0
+ASI-IND-1008,Jorhat Memorial Cenotaph,Guwahati,Assam,Jorhat,Urban,Colonial,Stepwell/Baoli,No,,,Not Listed,112019.0,Fair,144525.0,158168.0
+ASI-IND-1009,Rajouri Palace Remains,Srinagar,Jammu & Kashmir,Rajouri,Hilly/Remote,Ancient,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-1010,Koppal Mosque,Bengaluru,Karnataka,Koppal,Hilly/Remote,,Stupa/Monastery,No,,,Not Listed,60374.0,Fair,74310.0,83436.0
+ASI-IND-1011,Ludhiana Temple Complex,Chandigarh,Punjab,Ludhiana,Forest/Sanctuary,Prehistoric,Watchtower/Gate,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1012,Nashik Temple Complex,Mumbai,Maharashtra,Nashik,Forest/Sanctuary,Colonial,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-1013,Yadgir Ashokan Pillar,Bengaluru,Karnataka,Yadgir,,Mughal,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1014,Pulwama Inscribed Rock,Srinagar,Jammu & Kashmir,Pulwama,Hilly/Remote,Classical,Watchtower/Gate,No,,,Not Listed,,Endangered,,
+ASI-IND-1015,Sultanpur Palace Remains,Agra,Uttar Pradesh,Sultanpur,Forest/Sanctuary,Prehistoric,Stupa/Monastery,No,,,Not Listed,109406.0,Needs Immediate Attention,140292.0,165137.0
+ASI-IND-1016,Central Temple Complex,Ranchi,Jharkhand,Central,,Mughal,Cave/Rock-Cut,No,,,Not Listed,107319.0,Good,130571.0,155721.0
+ASI-IND-1017,Chitrakoot Memorial Cenotaph,Agra,Uttar Pradesh,Chitrakoot,Rural,Mughal,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-1018,Jhabua Watchtower,Jabalpur,Madhya Pradesh,Jhabua,Hilly/Remote,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1019,Agar Malwa Inscribed Rock,Jabalpur,Madhya Pradesh,Agar Malwa,Urban,Prehistoric,Pillar/Inscription,Yes,30.0,300.0,Not Listed,367411.0,Needs Immediate Attention,422709.0,460649.0
+ASI-IND-1020,Kadapa Great Stupa,Amaravati,Andhra Pradesh,Kadapa,Hilly/Remote,Sultanate,Fort/Bastion,Yes,40.0,250.0,Tentative List,527569.0,Endangered,626115.0,677770.0
+ASI-IND-1021,Visakhapatnam Stone Enclosure,Amaravati,Andhra Pradesh,Visakhapatnam,Forest/Sanctuary,Colonial,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-1022,Chitradurga Fort,Dharwad,Karnataka,Chitradurga,Forest/Sanctuary,Classical,Mosque/Tomb,No,,,Not Listed,10664.0,Good,12422.0,14354.0
+ASI-IND-1023,Adilabad Great Stupa,Hyderabad,Telangana,Adilabad,Hilly/Remote,Maratha,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-1024,Rajgarh Monastery Ruin,Bhopal,Madhya Pradesh,Rajgarh,Hilly/Remote,Medieval,Mosque/Tomb,Yes,50.0,600.0,Not Listed,338223.0,Good,399865.0,450954.0
+ASI-IND-1025,Davangere Great Stupa,Bengaluru,Karnataka,Davangere,Forest/Sanctuary,Sultanate,Cave/Rock-Cut,No,,,Not Listed,,Endangered,,
+ASI-IND-1026,Nabarangpur Temple Complex,Bhubaneswar,Odisha,Nabarangpur,Hilly/Remote,Colonial,Stepwell/Baoli,No,,,World Heritage Site,,Fair,,
+ASI-IND-1027,Begusarai Stepwell,Patna,Bihar,Begusarai,Urban,Prehistoric,Palace/Haveli,Yes,50.0,1100.0,World Heritage Site,111947.0,Needs Immediate Attention,128974.0,152070.0
+ASI-IND-1028,Mysuru Inscribed Rock,Bengaluru,Karnataka,Mysuru,Rural,Medieval,Temple/Shrine,No,,,Not Listed,71584.0,Needs Immediate Attention,90609.0,108043.0
+ASI-IND-1029,Ranipet Palace Remains,Chennai,Tamil Nadu,Ranipet,,Mughal,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-1030,Patiala Stepwell,Chandigarh,Punjab,Patiala,Rural,Ancient,Palace/Haveli,No,,,Not Listed,58686.0,Endangered,72895.0,82459.0
+ASI-IND-1031,Agar Malwa Great Stupa,Bhopal,Madhya Pradesh,Agar Malwa,Hilly/Remote,Ancient,Cave/Rock-Cut,No,,,Not Listed,63669.0,Good,75017.0,86734.0
+ASI-IND-1032,Udham Singh Nagar Mosque,Dehradun,Uttarakhand,Udham Singh Nagar,Urban,Maratha,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1033,Nagapattinam Fort,Chennai,Tamil Nadu,Nagapattinam,Urban,Colonial,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-1034,Jaipur Stepwell,Jodhpur,Rajasthan,Jaipur,Rural,Ancient,Stupa/Monastery,No,,,Not Listed,114444.0,Endangered,147993.0,163681.0
+ASI-IND-1035,Basti Fort,Agra,Uttar Pradesh,Basti,Hilly/Remote,Prehistoric,Stupa/Monastery,No,,,Not Listed,65929.0,Fair,78264.0,86119.0
+ASI-IND-1036,Ganjam Ancient Mound,Bhubaneswar,Odisha,Ganjam,Rural,Ancient,Cave/Rock-Cut,No,,,Not Listed,77755.0,Needs Immediate Attention,97952.0,105790.0
+ASI-IND-1037,Budaun Fort,Agra,Uttar Pradesh,Budaun,Forest/Sanctuary,Mughal,Pillar/Inscription,Yes,35.0,300.0,Not Listed,753393.0,Fair,916064.0,1068303.0
+ASI-IND-1038,Kalimpong Stepwell,Kolkata,West Bengal,Kalimpong,Urban,Colonial,Mosque/Tomb,No,,,Not Listed,17795.0,Fair,21259.0,23243.0
+ASI-IND-1039,Bengaluru Urban Palace Remains,Dharwad,Karnataka,Bengaluru Urban,Hilly/Remote,Medieval,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1040,Bagalkote Mosque,Bengaluru,Karnataka,Bagalkote,Hilly/Remote,Maratha,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-1041,Kadapa Gateway,Amaravati,Andhra Pradesh,Kadapa,Urban,,Stepwell/Baoli,No,,,Not Listed,102284.0,Fair,129881.0,149005.0
+ASI-IND-1042,Ludhiana Gateway,Chandigarh,Punjab,Ludhiana,Hilly/Remote,Ancient,Temple/Shrine,No,,,Not Listed,101323.0,Endangered,120219.0,135578.0
+ASI-IND-1043,Sivasagar Stepwell,Guwahati,Assam,Sivasagar,Urban,Prehistoric,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-1044,Sawai Madhopur Ancient Mound,Jodhpur,Rajasthan,Sawai Madhopur,Forest/Sanctuary,Maratha,Palace/Haveli,Yes,25.0,250.0,World Heritage Site,921151.0,Needs Immediate Attention,1068768.0,1161405.0
+ASI-IND-1045,Hanumangarh Tomb,Jodhpur,Rajasthan,Hanumangarh,Forest/Sanctuary,Maratha,Palace/Haveli,No,,,Not Listed,86572.0,Needs Immediate Attention,111961.0,122583.0
+ASI-IND-1046,Yadgir Stone Enclosure,Dharwad,Karnataka,Yadgir,Hilly/Remote,Maratha,Fort/Bastion,No,,,Not Listed,20903.0,Fair,24644.0,28092.0
+ASI-IND-1047,Ludhiana Memorial Cenotaph,Chandigarh,Punjab,Ludhiana,Forest/Sanctuary,Mughal,Watchtower/Gate,No,,,Not Listed,16173.0,Endangered,20740.0,23238.0
+ASI-IND-1048,Ranga Reddy Ancient Bridge,Hyderabad,Telangana,Ranga Reddy,Rural,Ancient,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-1049,Solapur Monastery Ruin,Mumbai,Maharashtra,Solapur,Urban,Ancient,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-1050,Golaghat Mosque,Guwahati,Assam,Golaghat,Urban,Colonial,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-1051,Pali Ancient Bridge,Jodhpur,Rajasthan,Pali,Hilly/Remote,Classical,Cave/Rock-Cut,No,,,Not Listed,43399.0,Good,54644.0,63552.0
+ASI-IND-1052,Navsari Ancient Mound,Vadodara,Gujarat,Navsari,Urban,Sultanate,Pillar/Inscription,No,,,Not Listed,56889.0,Endangered,68586.0,75074.0
+ASI-IND-1053,Cachar Temple Complex,Guwahati,Assam,Cachar,Rural,Mughal,Mosque/Tomb,No,,,Tentative List,,Endangered,,
+ASI-IND-1054,Bikaner Tomb,Jaipur,Rajasthan,Bikaner,Hilly/Remote,Colonial,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-1055,Central Temple Complex,Ranchi,Jharkhand,Central,Forest/Sanctuary,Classical,Palace/Haveli,No,,,Not Listed,49315.0,Fair,57938.0,67309.0
+ASI-IND-1056,Saharanpur Monastery Ruin,Agra,Uttar Pradesh,Saharanpur,Urban,Classical,Stupa/Monastery,No,,,Not Listed,33371.0,Fair,43292.0,48924.0
+ASI-IND-1057,Kishtwar Ancient Bridge,Srinagar,Jammu & Kashmir,Kishtwar,Urban,Classical,Pillar/Inscription,No,,,World Heritage Site,,Good,,
+ASI-IND-1058,Bhadrak Stone Enclosure,Bhubaneswar,Odisha,Bhadrak,Hilly/Remote,Classical,Palace/Haveli,No,,,Not Listed,50573.0,Endangered,62629.0,73324.0
+ASI-IND-1059,SAS Nagar Rock-Cut Caves,Chandigarh,Punjab,SAS Nagar,Rural,Ancient,Pillar/Inscription,No,,,Not Listed,71324.0,Good,88725.0,104127.0
+ASI-IND-1060,Bathinda Palace Remains,Chandigarh,Punjab,Bathinda,Urban,Mughal,Watchtower/Gate,Yes,40.0,1100.0,Tentative List,249867.0,Good,307514.0,349750.0
+ASI-IND-1061,Pithoragarh Temple Complex,Dehradun,Uttarakhand,Pithoragarh,Urban,Colonial,Palace/Haveli,No,,,World Heritage Site,,Good,,
+ASI-IND-1062,Hyderabad Ashokan Pillar,Hyderabad,Telangana,Hyderabad,Urban,Ancient,Watchtower/Gate,Yes,50.0,550.0,Tentative List,266252.0,Good,310830.0,336108.0
+ASI-IND-1063,Raebareli Stone Enclosure,Agra,Uttar Pradesh,Raebareli,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,83861.0,Endangered,103422.0,123195.0
+ASI-IND-1064,South Delhi Rock-Cut Caves,Delhi,Delhi,South Delhi,Forest/Sanctuary,Maratha,Fort/Bastion,No,,,Not Listed,25035.0,Needs Immediate Attention,29869.0,34421.0
+ASI-IND-1065,Central Ashokan Pillar,Ranchi,Jharkhand,Central,Urban,Maratha,Cave/Rock-Cut,No,,,Not Listed,114055.0,Endangered,147248.0,162618.0
+ASI-IND-1066,Solapur Monastery Ruin,Aurangabad,Maharashtra,Solapur,Forest/Sanctuary,Colonial,Fort/Bastion,No,,,Not Listed,85046.0,Needs Immediate Attention,107525.0,127993.0
+ASI-IND-1067,Dakshin Dinajpur Ashokan Pillar,Kolkata,West Bengal,Dakshin Dinajpur,Hilly/Remote,Sultanate,Temple/Shrine,No,,,Not Listed,,Good,,
+ASI-IND-1068,Alappuzha Memorial Cenotaph,Thrissur,Kerala,Alappuzha,Hilly/Remote,Medieval,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1069,Kallakurichi Mosque,Chennai,Tamil Nadu,Kallakurichi,Hilly/Remote,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-1070,Tiruvannamalai Great Stupa,Chennai,Tamil Nadu,Tiruvannamalai,Hilly/Remote,Maratha,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-1071,Kolhapur Ancient Bridge,Aurangabad,Maharashtra,Kolhapur,Hilly/Remote,Sultanate,Watchtower/Gate,No,,,Not Listed,11132.0,Fair,12820.0,14222.0
+ASI-IND-1072,Mumbai City Great Stupa,Mumbai,Maharashtra,Mumbai City,Urban,Prehistoric,Stepwell/Baoli,No,,,Not Listed,,Good,,
+ASI-IND-1073,Vidisha Ancient Bridge,Jabalpur,Madhya Pradesh,Vidisha,Hilly/Remote,Maratha,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1074,Dwarka Tomb,Vadodara,Gujarat,Dwarka,Hilly/Remote,Sultanate,Fort/Bastion,No,,,Not Listed,,Endangered,,
+ASI-IND-1075,Kalimpong Monastery Ruin,Kolkata,West Bengal,Kalimpong,Rural,Mughal,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-1076,East Godavari Stone Enclosure,Amaravati,Andhra Pradesh,East Godavari,Hilly/Remote,Maratha,Stupa/Monastery,No,,,World Heritage Site,,Good,,
+ASI-IND-1077,Central Delhi Fort,Delhi,Delhi,Central Delhi,Urban,Sultanate,Stepwell/Baoli,No,,,Not Listed,81659.0,Fair,102406.0,114236.0
+ASI-IND-1078,Nilgiris Tomb,Chennai,Tamil Nadu,Nilgiris,Hilly/Remote,Medieval,Mosque/Tomb,No,,,Not Listed,101349.0,Fair,122551.0,145163.0
+ASI-IND-1079,Akola Ashokan Pillar,Aurangabad,Maharashtra,Akola,Forest/Sanctuary,Ancient,Palace/Haveli,No,,,Not Listed,61249.0,Needs Immediate Attention,73858.0,79803.0
+ASI-IND-1080,Firozpur Temple Complex,Chandigarh,Punjab,Firozpur,Urban,Maratha,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-1081,Kozhikode Inscribed Rock,Thrissur,Kerala,Kozhikode,Hilly/Remote,Colonial,Fort/Bastion,No,,,Not Listed,28177.0,Good,33152.0,37658.0
+ASI-IND-1082,South Delhi Watchtower,Delhi,Delhi,South Delhi,Forest/Sanctuary,Sultanate,Watchtower/Gate,Yes,35.0,500.0,Not Listed,189332.0,Needs Immediate Attention,235737.0,261349.0
+ASI-IND-1083,Rupnagar Stone Enclosure,Chandigarh,Punjab,Rupnagar,Rural,Ancient,Mosque/Tomb,No,,,Not Listed,79951.0,Fair,96311.0,111989.0
+ASI-IND-1084,Sambhal Ancient Bridge,Agra,Uttar Pradesh,Sambhal,Urban,Maratha,Fort/Bastion,No,,,Not Listed,54877.0,Fair,70125.0,80494.0
+ASI-IND-1085,Central Stepwell,Ranchi,Jharkhand,Central,Hilly/Remote,Prehistoric,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-1086,Central Delhi Ancient Mound,Delhi,Delhi,Central Delhi,Hilly/Remote,Maratha,Watchtower/Gate,No,,,Not Listed,31122.0,Endangered,38640.0,42485.0
+ASI-IND-1087,Bagalkote Mosque,Bengaluru,Karnataka,Bagalkote,Urban,Colonial,Stupa/Monastery,No,,,Not Listed,51862.0,Endangered,62475.0,70382.0
+ASI-IND-1088,Udupi Great Stupa,Bengaluru,Karnataka,Udupi,Urban,,Stupa/Monastery,No,,,Not Listed,36668.0,Needs Immediate Attention,43323.0,47754.0
+ASI-IND-1089,Tumakuru Monastery Ruin,Bengaluru,Karnataka,Tumakuru,Hilly/Remote,Classical,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-1090,Central Tomb,Ranchi,Jharkhand,Central,Forest/Sanctuary,,Watchtower/Gate,No,,,Not Listed,83179.0,Fair,101725.0,114942.0
+ASI-IND-1091,Tonk Rock-Cut Caves,Jaipur,Rajasthan,Tonk,Rural,Mughal,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1092,North Delhi Tomb,Delhi,Delhi,North Delhi,Urban,Classical,Watchtower/Gate,Yes,35.0,250.0,World Heritage Site,377362.0,Good,445014.0,506480.0
+ASI-IND-1093,Hoshangabad Ancient Mound,Jabalpur,Madhya Pradesh,Hoshangabad,,Maratha,Fort/Bastion,No,,,Not Listed,39250.0,Fair,46111.0,50303.0
+ASI-IND-1094,Champawat Inscribed Rock,Dehradun,Uttarakhand,Champawat,Forest/Sanctuary,Medieval,Mosque/Tomb,No,,,Not Listed,93850.0,Fair,118868.0,130217.0
+ASI-IND-1095,Malappuram Mosque,Thrissur,Kerala,Malappuram,Rural,Colonial,Fort/Bastion,No,,,Tentative List,62947.0,Endangered,74551.0,82659.0
+ASI-IND-1096,Kozhikode Ashokan Pillar,Thrissur,Kerala,Kozhikode,Rural,Colonial,Watchtower/Gate,No,,,Not Listed,60189.0,Fair,73972.0,87519.0
+ASI-IND-1097,Saharanpur Stepwell,Agra,Uttar Pradesh,Saharanpur,Hilly/Remote,Colonial,Stupa/Monastery,Yes,35.0,300.0,World Heritage Site,679853.0,Needs Immediate Attention,827879.0,985965.0
+ASI-IND-1098,Hardoi Fort,Agra,Uttar Pradesh,Hardoi,Forest/Sanctuary,Ancient,Stupa/Monastery,No,,,Not Listed,93453.0,Endangered,115596.0,136305.0
+ASI-IND-1099,Haridwar Great Stupa,Dehradun,Uttarakhand,Haridwar,Rural,Prehistoric,Fort/Bastion,Yes,35.0,300.0,Tentative List,568090.0,Needs Immediate Attention,728049.0,815480.0
+ASI-IND-1100,Bahraich Temple Complex,Agra,Uttar Pradesh,Bahraich,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,68032.0,Fair,87092.0,96907.0
+ASI-IND-1101,West Delhi Stepwell,Delhi,Delhi,West Delhi,Rural,Ancient,Cave/Rock-Cut,No,,,Not Listed,109388.0,Needs Immediate Attention,133198.0,152631.0
+ASI-IND-1102,Khargone Ashokan Pillar,Bhopal,Madhya Pradesh,Khargone,Urban,Sultanate,Temple/Shrine,No,,,Not Listed,83478.0,Endangered,96192.0,112220.0
+ASI-IND-1103,SAS Nagar Ancient Mound,Chandigarh,Punjab,SAS Nagar,Forest/Sanctuary,Sultanate,Temple/Shrine,No,,,Tentative List,84095.0,Good,102089.0,122426.0
+ASI-IND-1104,Gadag Stepwell,Bengaluru,Karnataka,Gadag,Hilly/Remote,Maratha,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1105,Datia Rock-Cut Caves,Jabalpur,Madhya Pradesh,Datia,Hilly/Remote,Medieval,Watchtower/Gate,No,,,Not Listed,,Fair,,
+ASI-IND-1106,Jhabua Gateway,Jabalpur,Madhya Pradesh,Jhabua,Forest/Sanctuary,Sultanate,Palace/Haveli,No,,,Not Listed,75560.0,Fair,94276.0,109673.0
+ASI-IND-1107,Central Monastery Ruin,Raipur,Chhattisgarh,Central,Forest/Sanctuary,,Stupa/Monastery,No,,,Not Listed,,Good,,
+ASI-IND-1108,Dholpur Temple Complex,Jaipur,Rajasthan,Dholpur,Hilly/Remote,Sultanate,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-1109,Tirupathur Fort,Chennai,Tamil Nadu,Tirupathur,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,85883.0,Needs Immediate Attention,101118.0,117440.0
+ASI-IND-1110,Kolar Ancient Mound,Bengaluru,Karnataka,Kolar,Rural,Medieval,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1111,Kishtwar Ancient Bridge,Srinagar,Jammu & Kashmir,Kishtwar,Forest/Sanctuary,Colonial,Pillar/Inscription,No,,,Not Listed,54146.0,Needs Immediate Attention,65022.0,74211.0
+ASI-IND-1112,Alappuzha Fort,Thrissur,Kerala,Alappuzha,Urban,Sultanate,Cave/Rock-Cut,Yes,50.0,600.0,Tentative List,896216.0,Good,1126081.0,1339651.0
+ASI-IND-1113,Kamrup Metropolitan Mosque,Guwahati,Assam,Kamrup Metropolitan,Forest/Sanctuary,Prehistoric,Temple/Shrine,No,,,Not Listed,85169.0,Good,98556.0,117887.0
+ASI-IND-1114,Hoshiarpur Stepwell,Chandigarh,Punjab,Hoshiarpur,Forest/Sanctuary,Classical,Stupa/Monastery,No,,,Not Listed,46266.0,Fair,56036.0,66215.0
+ASI-IND-1115,Hyderabad Memorial Cenotaph,Hyderabad,Telangana,Hyderabad,Rural,Prehistoric,Stepwell/Baoli,No,,,Not Listed,77635.0,Needs Immediate Attention,97491.0,108914.0
+ASI-IND-1116,Warangal Monastery Ruin,Hyderabad,Telangana,Warangal,Rural,Maratha,Pillar/Inscription,No,,,Not Listed,,Good,,
+ASI-IND-1117,Bhojpur Fort,Patna,Bihar,Bhojpur,Rural,Prehistoric,Temple/Shrine,Yes,25.0,300.0,Not Listed,267897.0,Good,340040.0,389609.0
+ASI-IND-1118,Central Palace Remains,Raipur,Chhattisgarh,Central,Hilly/Remote,Maratha,Temple/Shrine,No,,,Not Listed,8112.0,Needs Immediate Attention,10096.0,11453.0
+ASI-IND-1119,Dindigul Rock-Cut Caves,Chennai,Tamil Nadu,Dindigul,,Maratha,Watchtower/Gate,No,,,Not Listed,12362.0,Good,15306.0,18143.0
+ASI-IND-1120,Kollam Palace Remains,Thrissur,Kerala,Kollam,Forest/Sanctuary,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1121,Nizamabad Mosque,Hyderabad,Telangana,Nizamabad,Urban,Mughal,Mosque/Tomb,Yes,40.0,550.0,Not Listed,154106.0,Endangered,188374.0,209270.0
+ASI-IND-1122,Damoh Ancient Bridge,Bhopal,Madhya Pradesh,Damoh,Forest/Sanctuary,Ancient,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-1123,Rayagada Stepwell,Bhubaneswar,Odisha,Rayagada,Forest/Sanctuary,Medieval,Watchtower/Gate,Yes,30.0,250.0,World Heritage Site,587868.0,Endangered,717710.0,783308.0
+ASI-IND-1124,Belagavi Stepwell,Dharwad,Karnataka,Belagavi,Urban,Classical,Temple/Shrine,No,,,Not Listed,,Fair,,
+ASI-IND-1125,Mahrajganj Fort,Agra,Uttar Pradesh,Mahrajganj,Hilly/Remote,Maratha,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-1126,Mayurbhanj Fort,Bhubaneswar,Odisha,Mayurbhanj,Hilly/Remote,Mughal,Temple/Shrine,No,,,Not Listed,93134.0,Needs Immediate Attention,109930.0,126937.0
+ASI-IND-1127,South 24 Parganas Temple Complex,Kolkata,West Bengal,South 24 Parganas,Hilly/Remote,Classical,Stupa/Monastery,No,,,Not Listed,99988.0,Endangered,118195.0,129893.0
+ASI-IND-1128,Reasi Great Stupa,Srinagar,Jammu & Kashmir,Reasi,,Medieval,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-1129,Ariyalur Rock-Cut Caves,Chennai,Tamil Nadu,Ariyalur,Urban,Sultanate,Stepwell/Baoli,No,,,Not Listed,,Endangered,,
+ASI-IND-1130,Ernakulam Memorial Cenotaph,Thrissur,Kerala,Ernakulam,Hilly/Remote,Classical,Cave/Rock-Cut,No,,,Not Listed,105218.0,Good,132821.0,158063.0
+ASI-IND-1131,Bankura Stepwell,Kolkata,West Bengal,Bankura,Hilly/Remote,Classical,Watchtower/Gate,No,,,Not Listed,15788.0,Endangered,20037.0,22765.0
+ASI-IND-1132,Hyderabad Tomb,Hyderabad,Telangana,Hyderabad,Hilly/Remote,Maratha,Stupa/Monastery,No,,,Tentative List,9804.0,Good,11572.0,12880.0
+ASI-IND-1133,Erode Gateway,Chennai,Tamil Nadu,Erode,Urban,Colonial,Stupa/Monastery,Yes,40.0,250.0,Not Listed,633230.0,Fair,819309.0,898798.0
+ASI-IND-1134,Sivasagar Ashokan Pillar,Guwahati,Assam,Sivasagar,Forest/Sanctuary,Classical,Cave/Rock-Cut,No,,,Not Listed,61646.0,Good,75539.0,81616.0
+ASI-IND-1135,Ajmer Fort,Jodhpur,Rajasthan,Ajmer,Hilly/Remote,Ancient,Watchtower/Gate,Yes,50.0,300.0,World Heritage Site,271042.0,Good,348979.0,399183.0
+ASI-IND-1136,Kollam Ancient Mound,Thrissur,Kerala,Kollam,Rural,Classical,Palace/Haveli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1137,Mansa Ancient Mound,Chandigarh,Punjab,Mansa,Hilly/Remote,Sultanate,Palace/Haveli,No,,,Tentative List,,Good,,
+ASI-IND-1138,Jajpur Memorial Cenotaph,Bhubaneswar,Odisha,Jajpur,Rural,Maratha,Fort/Bastion,Yes,25.0,600.0,Not Listed,138626.0,Good,161188.0,185481.0
+ASI-IND-1139,Hassan Rock-Cut Caves,Bengaluru,Karnataka,Hassan,,Colonial,Temple/Shrine,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1140,Rupnagar Ashokan Pillar,Chandigarh,Punjab,Rupnagar,Hilly/Remote,Medieval,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-1141,Gir Somnath Inscribed Rock,Vadodara,Gujarat,Gir Somnath,Rural,Mughal,Palace/Haveli,No,,,Not Listed,,Endangered,,
+ASI-IND-1142,Poonch Mosque,Srinagar,Jammu & Kashmir,Poonch,Rural,Colonial,Cave/Rock-Cut,No,,,Tentative List,13249.0,Needs Immediate Attention,15921.0,19004.0
+ASI-IND-1143,Mirzapur Ancient Mound,Agra,Uttar Pradesh,Mirzapur,Forest/Sanctuary,Medieval,Cave/Rock-Cut,Yes,50.0,250.0,World Heritage Site,505199.0,Good,640591.0,699559.0
+ASI-IND-1144,Kannur Inscribed Rock,Thrissur,Kerala,Kannur,Forest/Sanctuary,Prehistoric,Mosque/Tomb,Yes,50.0,500.0,Tentative List,928220.0,Endangered,1114644.0,1224627.0
+ASI-IND-1145,Gandhinagar Temple Complex,Vadodara,Gujarat,Gandhinagar,Hilly/Remote,Maratha,Pillar/Inscription,Yes,30.0,550.0,Not Listed,452135.0,Endangered,575523.0,687866.0
+ASI-IND-1146,Nalgonda Stepwell,Hyderabad,Telangana,Nalgonda,Hilly/Remote,Colonial,Pillar/Inscription,Yes,40.0,250.0,World Heritage Site,907118.0,Good,1060970.0,1150658.0
+ASI-IND-1147,Coimbatore Stone Enclosure,Chennai,Tamil Nadu,Coimbatore,,Ancient,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1148,Ganderbal Memorial Cenotaph,Srinagar,Jammu & Kashmir,Ganderbal,Hilly/Remote,Prehistoric,Stupa/Monastery,Yes,25.0,1100.0,Tentative List,241642.0,Endangered,290244.0,313625.0
+ASI-IND-1149,Udham Singh Nagar Ancient Bridge,Dehradun,Uttarakhand,Udham Singh Nagar,Urban,Colonial,Temple/Shrine,No,,,Not Listed,100549.0,Fair,121792.0,144304.0
+ASI-IND-1150,Pratapgarh Rock-Cut Caves,Agra,Uttar Pradesh,Pratapgarh,Rural,Prehistoric,Watchtower/Gate,No,,,Not Listed,3938.0,Good,4735.0,5288.0
+ASI-IND-1151,Alappuzha Palace Remains,Thrissur,Kerala,Alappuzha,Rural,,Fort/Bastion,No,,,Not Listed,58598.0,Endangered,74100.0,88374.0
+ASI-IND-1152,Bathinda Fort,Chandigarh,Punjab,Bathinda,Hilly/Remote,,Stepwell/Baoli,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1153,West Delhi Temple Complex,Delhi,Delhi,West Delhi,Urban,Prehistoric,Fort/Bastion,No,,,Not Listed,,Good,,
+ASI-IND-1154,Dwarka Ancient Bridge,Vadodara,Gujarat,Dwarka,Hilly/Remote,Sultanate,Stupa/Monastery,Yes,50.0,550.0,World Heritage Site,478077.0,Fair,609828.0,664471.0
+ASI-IND-1155,Nizamabad Stone Enclosure,Hyderabad,Telangana,Nizamabad,Forest/Sanctuary,Prehistoric,Stepwell/Baoli,No,,,Not Listed,42710.0,Fair,49544.0,54948.0
+ASI-IND-1156,Ernakulam Stepwell,Thrissur,Kerala,Ernakulam,Hilly/Remote,Prehistoric,Watchtower/Gate,No,,,Not Listed,,Fair,,
+ASI-IND-1157,Rajgarh Mosque,Bhopal,Madhya Pradesh,Rajgarh,Forest/Sanctuary,,Fort/Bastion,No,,,Not Listed,8866.0,Endangered,11508.0,13159.0
+ASI-IND-1158,Nalanda Ashokan Pillar,Patna,Bihar,Nalanda,Urban,Colonial,Pillar/Inscription,No,,,Not Listed,,Fair,,
+ASI-IND-1159,Ganjam Rock-Cut Caves,Bhubaneswar,Odisha,Ganjam,Urban,Mughal,Temple/Shrine,No,,,Not Listed,,Endangered,,
+ASI-IND-1160,Badami Great Stupa,Bengaluru,Karnataka,Badami,Hilly/Remote,,Stupa/Monastery,No,,,Not Listed,107757.0,Endangered,129940.0,153898.0
+ASI-IND-1161,Barpeta Mosque,Guwahati,Assam,Barpeta,Rural,Sultanate,Cave/Rock-Cut,Yes,50.0,250.0,Tentative List,365663.0,Endangered,463097.0,525094.0
+ASI-IND-1162,Sehore Inscribed Rock,Jabalpur,Madhya Pradesh,Sehore,Hilly/Remote,Sultanate,Mosque/Tomb,No,,,Not Listed,,Endangered,,
+ASI-IND-1163,Shajapur Inscribed Rock,Jabalpur,Madhya Pradesh,Shajapur,Urban,Sultanate,Fort/Bastion,No,,,Not Listed,13459.0,Endangered,16779.0,20054.0
+ASI-IND-1164,Nizamabad Memorial Cenotaph,Hyderabad,Telangana,Nizamabad,Urban,Maratha,Temple/Shrine,Yes,25.0,300.0,Not Listed,468591.0,Fair,592124.0,662881.0
+ASI-IND-1165,Pratapgarh Inscribed Rock,Jaipur,Rajasthan,Pratapgarh,Urban,Ancient,Mosque/Tomb,No,,,Not Listed,95640.0,Endangered,111679.0,132486.0
+ASI-IND-1166,Jodhpur Fort,Jodhpur,Rajasthan,Jodhpur,Hilly/Remote,Classical,Stepwell/Baoli,No,,,Not Listed,8908.0,Endangered,11358.0,13422.0
+ASI-IND-1167,Nellore Mosque,Amaravati,Andhra Pradesh,Nellore,Forest/Sanctuary,Medieval,Fort/Bastion,No,,,Not Listed,,Fair,,
+ASI-IND-1168,Boudh Fort,Bhubaneswar,Odisha,Boudh,Forest/Sanctuary,,Cave/Rock-Cut,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1169,Kolkata Rock-Cut Caves,Kolkata,West Bengal,Kolkata,Hilly/Remote,Sultanate,Mosque/Tomb,No,,,Not Listed,58608.0,Needs Immediate Attention,75221.0,81895.0
+ASI-IND-1170,Udhampur Inscribed Rock,Srinagar,Jammu & Kashmir,Udhampur,Hilly/Remote,Medieval,Palace/Haveli,Yes,35.0,600.0,Not Listed,208797.0,Needs Immediate Attention,262050.0,309325.0
+ASI-IND-1171,Central Stone Enclosure,Raipur,Chhattisgarh,Central,Forest/Sanctuary,Mughal,Stupa/Monastery,No,,,Not Listed,,Endangered,,
+ASI-IND-1172,Nalgonda Monastery Ruin,Hyderabad,Telangana,Nalgonda,Rural,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,91112.0,Endangered,110652.0,120444.0
+ASI-IND-1173,Bhandara Monastery Ruin,Mumbai,Maharashtra,Bhandara,Forest/Sanctuary,Sultanate,Stepwell/Baoli,Yes,50.0,550.0,Not Listed,601054.0,Needs Immediate Attention,735754.0,829950.0
+ASI-IND-1174,Bidar Great Stupa,Dharwad,Karnataka,Bidar,Forest/Sanctuary,Prehistoric,Palace/Haveli,No,,,Not Listed,,Good,,
+ASI-IND-1175,Kannauj Great Stupa,Agra,Uttar Pradesh,Kannauj,Forest/Sanctuary,Medieval,Pillar/Inscription,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1176,Central Watchtower,Ranchi,Jharkhand,Central,Hilly/Remote,Medieval,Fort/Bastion,No,,,Not Listed,65191.0,Endangered,76227.0,91237.0
+ASI-IND-1177,Ranga Reddy Tomb,Hyderabad,Telangana,Ranga Reddy,Forest/Sanctuary,Colonial,Stepwell/Baoli,Yes,40.0,500.0,World Heritage Site,407952.0,Fair,511824.0,579763.0
+ASI-IND-1178,Ratnagiri Great Stupa,Mumbai,Maharashtra,Ratnagiri,Urban,Sultanate,Watchtower/Gate,Yes,50.0,600.0,Not Listed,698814.0,Good,856700.0,931450.0
+ASI-IND-1179,Rupnagar Memorial Cenotaph,Chandigarh,Punjab,Rupnagar,Forest/Sanctuary,Classical,Palace/Haveli,No,,,Not Listed,68268.0,Good,78771.0,92154.0
+ASI-IND-1180,West Godavari Palace Remains,Amaravati,Andhra Pradesh,West Godavari,Forest/Sanctuary,,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-1181,Morena Monastery Ruin,Bhopal,Madhya Pradesh,Morena,Hilly/Remote,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Fair,,
+ASI-IND-1182,Dakshin Dinajpur Stepwell,Kolkata,West Bengal,Dakshin Dinajpur,Urban,Ancient,Mosque/Tomb,Yes,35.0,600.0,World Heritage Site,78423.0,Endangered,96354.0,107638.0
+ASI-IND-1183,Darrang Gateway,Guwahati,Assam,Darrang,Hilly/Remote,Prehistoric,Cave/Rock-Cut,No,,,Not Listed,,Good,,
+ASI-IND-1184,Bellary Great Stupa,Bengaluru,Karnataka,Bellary,Rural,Mughal,Watchtower/Gate,No,,,Not Listed,54623.0,Needs Immediate Attention,63813.0,71511.0
+ASI-IND-1185,Bellary Watchtower,Bengaluru,Karnataka,Bellary,Hilly/Remote,Colonial,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-1186,Sehore Inscribed Rock,Bhopal,Madhya Pradesh,Sehore,Hilly/Remote,Ancient,Fort/Bastion,No,,,Tentative List,,Fair,,
+ASI-IND-1187,North Delhi Tomb,Delhi,Delhi,North Delhi,Forest/Sanctuary,Maratha,Watchtower/Gate,No,,,Not Listed,38573.0,Endangered,47291.0,56050.0
+ASI-IND-1188,Morena Palace Remains,Jabalpur,Madhya Pradesh,Morena,Hilly/Remote,Ancient,Mosque/Tomb,No,,,Not Listed,80687.0,Good,104487.0,119661.0
+ASI-IND-1189,Central Tomb,Ranchi,Jharkhand,Central,Rural,Classical,Stepwell/Baoli,No,,,Not Listed,13758.0,Fair,17008.0,18855.0
+ASI-IND-1190,Mahabubnagar Ashokan Pillar,Hyderabad,Telangana,Mahabubnagar,,Classical,Stupa/Monastery,No,,,Not Listed,,Needs Immediate Attention,,
+ASI-IND-1191,Rajouri Monastery Ruin,Srinagar,Jammu & Kashmir,Rajouri,Urban,Sultanate,Mosque/Tomb,No,,,Tentative List,,Needs Immediate Attention,,
+ASI-IND-1192,Banaskantha Palace Remains,Vadodara,Gujarat,Banaskantha,Forest/Sanctuary,Mughal,Stupa/Monastery,No,,,Not Listed,,Fair,,
+ASI-IND-1193,Cuddalore Palace Remains,Chennai,Tamil Nadu,Cuddalore,Hilly/Remote,Sultanate,Pillar/Inscription,No,,,Not Listed,,Endangered,,
+ASI-IND-1194,Hoshiarpur Mosque,Chandigarh,Punjab,Hoshiarpur,Forest/Sanctuary,Mughal,Stepwell/Baoli,No,,,Not Listed,,Fair,,
+ASI-IND-1195,Ratnagiri Great Stupa,Mumbai,Maharashtra,Ratnagiri,Hilly/Remote,Sultanate,Mosque/Tomb,No,,,Not Listed,,Fair,,
+ASI-IND-1196,Banswara Fort,Jaipur,Rajasthan,Banswara,Forest/Sanctuary,Prehistoric,Pillar/Inscription,No,,,Not Listed,110607.0,Fair,132036.0,149781.0
+ASI-IND-1197,Damoh Gateway,Jabalpur,Madhya Pradesh,Damoh,Forest/Sanctuary,Prehistoric,Temple/Shrine,Yes,25.0,500.0,Not Listed,884295.0,Needs Immediate Attention,1034026.0,1206887.0
+ASI-IND-1198,Chikkamagaluru Temple Complex,Bengaluru,Karnataka,Chikkamagaluru,Rural,Mughal,Stepwell/Baoli,No,,,Not Listed,40168.0,Needs Immediate Attention,51347.0,56043.0
+ASI-IND-1199,Banaskantha Monastery Ruin,Vadodara,Gujarat,Banaskantha,Urban,Ancient,Cave/Rock-Cut,No,,,Not Listed,21226.0,Needs Immediate Attention,26280.0,29631.0
+ASI-IND-1200,Badami Stone Enclosure,Bengaluru,Karnataka,Badami,Rural,Classical,Mosque/Tomb,No,,,Not Listed,,Needs Immediate Attention,,

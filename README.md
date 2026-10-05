@@ -66,7 +66,7 @@ india-tourism-analysis/
 │   └── 07_visualizations_and_dashboards.ipynb   # Standalone publication-grade charts
 │
 ├── results/                                     # Output artifacts
-│   ├── India_Tourism_Project_Report.pptx        # Executive PowerPoint project presentation (16:9)
+│   ├── India_Tourism_Project_Report.pdf         # Executive PDF project presentation (16:9 widescreen)
 │   ├── summary_findings.md                      # Detailed executive findings & econometric insights
 │   ├── plots/                                   # High-resolution (300 DPI) publication figures
 │   │   ├── 01_monthly_airport_passenger_movements.png

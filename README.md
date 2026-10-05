@@ -182,7 +182,7 @@ This project is released under the [MIT License](LICENSE).
 For academic or professional citations:
 ```bibtex
 @misc{india_tourism_analytics_2026,
-  author = {Horace Honey},
+  author = {Thillai valavan A S},
   title = {India Tourism Analytics & Econometric Pipeline (2022–2026)},
   year = {2026},
   publisher = {GitHub},

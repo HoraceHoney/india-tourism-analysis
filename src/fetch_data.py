@@ -9,6 +9,9 @@
 import csv, json, os, requests
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+
 # ---------------------------------------------------------------------
 # Helper: write a list of dictionaries to CSV (creates parent folders as needed)
 # ---------------------------------------------------------------------
@@ -23,16 +26,19 @@ def write_csv(rows, path, header=None):
 # ---------------------------------------------------------------------
 # 1️⃣ World Bank – International tourist arrivals (India, country level)
 # ---------------------------------------------------------------------
-wb_url = (
-    "https://api.worldbank.org/v2/country/IN/indicator/ST.INT.ARVL"
-    "?format=json&date=2015:2025"
-)
-resp = requests.get(wb_url, timeout=30)
-resp.raise_for_status()
-_, wb_data = resp.json()
-worldbank_rows = [{"year": r.get('date'), "arrivals": r.get('value')} for r in wb_data]
-worldbank_path = Path('d:/Antigravity/class project/data/economic/worldbank_arrivals.csv')
-write_csv(worldbank_rows, worldbank_path, header=['year', 'arrivals'])
+try:
+    wb_url = (
+        "https://api.worldbank.org/v2/country/IN/indicator/ST.INT.ARVL"
+        "?format=json&date=2015:2025"
+    )
+    resp = requests.get(wb_url, timeout=30)
+    resp.raise_for_status()
+    _, wb_data = resp.json()
+    worldbank_rows = [{"year": r.get('date'), "arrivals": r.get('value')} for r in wb_data]
+    worldbank_path = DATA_DIR / 'economic' / 'worldbank_arrivals.csv'
+    write_csv(worldbank_rows, worldbank_path, header=['year', 'arrivals'])
+except Exception as e:
+    print(f'[WARN] World Bank fetch skipped or failed: {e}')
 
 # ---------------------------------------------------------------------
 # 2️⃣ India Open Data – State‑wise international arrivals (requires API key)
@@ -47,16 +53,19 @@ def fetch_state_arrivals():
         f'https://api.data.gov.in/resource/{resource_id}?api-key={api_key}'
         "&format=json&offset=0&limit=5000"
     )
-    r = requests.get(url, timeout=30)
-    r.raise_for_status()
-    records = r.json().get('records', [])
-    if not records:
-        print('[WARN] No state records returned.')
-        return
-    state_dir = Path('d:/Antigravity/class project/data/tourism_arrivals')
-    state_dir.mkdir(parents=True, exist_ok=True)
-    state_path = state_dir / 'state_arrivals.csv'
-    write_csv(records, state_path)
+    try:
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
+        records = r.json().get('records', [])
+        if not records:
+            print('[WARN] No state records returned.')
+            return
+        state_dir = DATA_DIR / 'tourism_arrivals'
+        state_dir.mkdir(parents=True, exist_ok=True)
+        state_path = state_dir / 'state_arrivals.csv'
+        write_csv(records, state_path)
+    except Exception as e:
+        print(f'[ERROR] State arrivals fetch failed: {e}')
 
 fetch_state_arrivals()
 
@@ -67,7 +76,7 @@ try:
     rbi_url = 'https://www.rbi.org.in/scripts/DownloadData.aspx?file=Tourism_Foreign_Exchange_2023.csv'
     r = requests.get(rbi_url, timeout=30)
     r.raise_for_status()
-    rbi_path = Path('d:/Antigravity/class project/data/economic/rbi_forex.csv')
+    rbi_path = DATA_DIR / 'economic' / 'rbi_forex.csv'
     rbi_path.parent.mkdir(parents=True, exist_ok=True)
     rbi_path.write_bytes(r.content)
     print(f'Saved: {rbi_path}')
@@ -81,7 +90,7 @@ try:
     cpcb_url = 'https://cpcb.nic.in/downloads/aqi_state_2023.csv'
     r = requests.get(cpcb_url, timeout=30)
     r.raise_for_status()
-    cpcb_path = Path('d:/Antigravity/class project/data/environment/cpcb_aqi_2023.csv')
+    cpcb_path = DATA_DIR / 'environment' / 'cpcb_aqi_2023.csv'
     cpcb_path.parent.mkdir(parents=True, exist_ok=True)
     cpcb_path.write_bytes(r.content)
     print(f'Saved: {cpcb_path}')
@@ -95,7 +104,7 @@ try:
     niti_url = 'https://niti.gov.in/sites/default/files/2023-06/Tourism_Employment_2022.xlsx'
     r = requests.get(niti_url, timeout=30)
     r.raise_for_status()
-    niti_path = Path('d:/Antigravity/class project/data/employment/tourism_employment.xlsx')
+    niti_path = DATA_DIR / 'employment' / 'tourism_employment.xlsx'
     niti_path.parent.mkdir(parents=True, exist_ok=True)
     niti_path.write_bytes(r.content)
     print(f'Saved: {niti_path}')

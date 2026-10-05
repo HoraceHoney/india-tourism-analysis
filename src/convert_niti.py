@@ -3,8 +3,9 @@
 import pandas as pd
 from pathlib import Path
 
-excel_path = Path('d:/Antigravity/class project/data/employment/tourism_employment.xlsx')
-csv_path = Path('d:/Antigravity/class project/data/employment/tourism_employment.csv')
+BASE_DIR = Path(__file__).resolve().parent.parent
+excel_path = BASE_DIR / 'data' / 'employment' / 'tourism_employment.xlsx'
+csv_path = BASE_DIR / 'data' / 'employment' / 'tourism_employment.csv'
 
 if not excel_path.exists():
     print(f'Excel file not found: {excel_path}')

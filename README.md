@@ -175,6 +175,7 @@ india-tourism-analysis/
 │   └── fetch_data.py                            # Data ingestion module
 │
 ├── results/                                     # Generated analysis outputs
+│   ├── India_Tourism_Presentation.pptx          # Executive 12-slide presentation
 │   ├── India_Tourism_Project_Report.pdf         # Comprehensive project report
 │   ├── summary_findings.md                      # Key findings summary
 │   ├── plots/                                   # High-resolution plot outputs
